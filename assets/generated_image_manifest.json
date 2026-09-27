@@ -1,0 +1,408 @@
+[
+  {
+    "source_generated_filename": "exec-bafdf356-0db0-436a-9bf2-d07aa7f57c40.png",
+    "repository_path": "assets/final/character_a_design.png",
+    "sha256": "19c8bf7e909039c4328a1e8b22baccafb688a23e6ba8a7269541ef7a28268d1e",
+    "bytes": 2428752,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-de299372-6e3f-4dc3-947f-33a4202dfbdb.png",
+    "repository_path": "assets/final/character_b_design.png",
+    "sha256": "9cc6628e4e9451149824d58705460d4069babe0a98a3fff1a73515497a65c55a",
+    "bytes": 2141209,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-62ae01ad-6ffe-45b8-b63f-074aa7a8e402.png",
+    "repository_path": "assets/iterations/generation_003.png",
+    "sha256": "2ac5c070a92621ed67b5344292b361b95eae1ed903f3564d82c6abc0ed5b5516",
+    "bytes": 2300993,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-c775ef64-d4c2-4585-a042-ac79b9bcd03b.png",
+    "repository_path": "assets/iterations/generation_004.png",
+    "sha256": "08b5352b74eb3924cd95f62aba8cce327b421a5226f60f3f9e7bc8b3d4fae972",
+    "bytes": 2200512,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-eadfb21d-5723-4075-a32b-2693e1d35e6c.png",
+    "repository_path": "assets/final/character_b_turnaround.png",
+    "sha256": "7babb94db46ee9266bff79bbe4bf527fb316b39a3718572d1886842c1e3ee55e",
+    "bytes": 1934543,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-c8c83edd-d040-4fa2-856c-9739ba3c45c0.png",
+    "repository_path": "assets/final/character_a_turnaround.png",
+    "sha256": "749fdcb4ace918f26e3efc4ad91b7dd1bb1c6a1ae5e7dc274b5570320ffd3084",
+    "bytes": 2274920,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-a71ab01a-691b-4ba4-80b7-55de3f9dbe1b.png",
+    "repository_path": "assets/final/character_a_peace.png",
+    "sha256": "ec92b4715e5d21e5b23b646c4d17768f6bc7555ae407ecc2ebf68bb5665e093a",
+    "bytes": 2205719,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-3934b4ec-0855-488e-a632-516561dc232d.png",
+    "repository_path": "assets/final/character_a_cheer.png",
+    "sha256": "4fad6c04cda005b0928af28bd467d25e32e323ec7d549cf934ed4e3a23d26760",
+    "bytes": 2158601,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-8cf6bc97-06d9-4532-a62e-77c51cc79891.png",
+    "repository_path": "assets/final/character_b_peace.png",
+    "sha256": "2a8af904baf0389616f4fe06f656051636545289c88454eccfda28e7b57c60ad",
+    "bytes": 1746273,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-484ec83b-a063-459a-a11f-b97391577511.png",
+    "repository_path": "assets/final/character_b_cheer.png",
+    "sha256": "a4ae5436fdec5b37ed396fd589167756c03f824bdda7e562392e23f11e0ca4c4",
+    "bytes": 1660547,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-e731e3a5-fd19-451b-b4a5-88246a2edd4f.png",
+    "repository_path": "assets/final/prop_bitten_apple.png",
+    "sha256": "7afa8527b9361b701fef32a6fce567aaa6887980c1b56c639ca9be26f5369687",
+    "bytes": 1179730,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-7e5e6628-e9b1-447a-952c-5107506a835c.png",
+    "repository_path": "assets/final/prop_pinky_ring.png",
+    "sha256": "909d9d08463fba2bc1e37ddf2c4031593337b8f278479f4d4e729ac628ce482c",
+    "bytes": 743509,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-405dff6d-4662-405a-8520-86aa22e65311.png",
+    "repository_path": "assets/final/prop_love_charm.png",
+    "sha256": "cfd41323761132638637f50bca6bf9aba7219ad70cb9a857ce58940d38310a7e",
+    "bytes": 1205889,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-802866ec-bddb-4f0c-8863-395fc8f85e1c.png",
+    "repository_path": "assets/iterations/generation_014.png",
+    "sha256": "92fbd661415c13cf2e8d9eafcd269850c35c68101c5cb14245584ea89d2b07ac",
+    "bytes": 1950879,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-c0f3cd9f-5a98-4fff-a78b-ebb2fee0e0ca.png",
+    "repository_path": "assets/iterations/generation_015.png",
+    "sha256": "7f6f37af61d3d68f5148caac1a6c9eb1394e6c94069af16c6ac66b06399af9e4",
+    "bytes": 1617724,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-91b566b2-dd59-4d7d-9482-e396d20ca069.png",
+    "repository_path": "assets/final/character_a_apple.png",
+    "sha256": "6eeb2984403b1c1880826b1bfdb6fa31f410f733e2fd667881ddde78c98c1dfc",
+    "bytes": 2010258,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-73ca649c-0ab9-4685-8121-50513fc04805.png",
+    "repository_path": "assets/final/character_a_phone_check.png",
+    "sha256": "7fcf23ebdbe7e598278f7ec5de509e810643b672c674ea92c0d426ae7681b189",
+    "bytes": 2075633,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-64e45b9b-5449-4f49-a99b-00298d9acc9f.png",
+    "repository_path": "assets/iterations/generation_018.png",
+    "sha256": "416a14f9b870f1c64c9845f6876a9f4d1af2d758d964daf42f1b70e0f7db913a",
+    "bytes": 2294513,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-12dd6a18-4c33-4348-b33e-aba5bed5bb0b.png",
+    "repository_path": "assets/final/character_a_charm.png",
+    "sha256": "046783250ad40e5c5bb2d6c74305d839c869a5cd6836901186a14a6d4537ef53",
+    "bytes": 2306843,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-9a28e3f7-3e9e-439a-a1f7-ae1a0a112fd3.png",
+    "repository_path": "assets/final/character_b_heartthief.png",
+    "sha256": "6431e90e1a271a78b092d174ec9b45b992505e22b9c580576c4e9e405b7fe248",
+    "bytes": 1651048,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-7fb23461-3660-49df-9364-a8f99f8ca98b.png",
+    "repository_path": "assets/final/character_b_point.png",
+    "sha256": "a550a2161e93e5403e06dc870a310ffc5519ce184f52cd8ac897f399aa4761a1",
+    "bytes": 1668672,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-5b0acef1-2063-4163-96dd-e7e2b57b54ff.png",
+    "repository_path": "assets/iterations/generation_022.png",
+    "sha256": "f3d80e51fb61ca73255495385071751e50dbde0ef351412cea45b7ff630fbb17",
+    "bytes": 1637580,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-63425c8c-6c3d-4206-a1f7-ce6f1d658c49.png",
+    "repository_path": "assets/iterations/generation_023.png",
+    "sha256": "9e6c55b06179864ddc95af439571a86eb1a4f192e283c182b34931d9f5baefdd",
+    "bytes": 1975150,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-4a624f6c-a7d8-4b64-a7cf-8322882eea30.png",
+    "repository_path": "assets/final/character_b_apple.png",
+    "sha256": "7660c506fdbe36a7b5b2eca3eee59674d71f46e3f506bd35f70e4d472b921930",
+    "bytes": 1624086,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-ea8a6213-8fbe-4d7e-8e4c-6fde9980cc4e.png",
+    "repository_path": "assets/final/character_a_wait.png",
+    "sha256": "fac6bca36763a46328c2228e54ac3b501cdcea913e9d9f3ee4fcb790ee1e5377",
+    "bytes": 2261297,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-d87c28a3-a2c8-40af-aa3e-30eb3d48fc80.png",
+    "repository_path": "assets/final/character_b_dance.png",
+    "sha256": "ae6f76fe18ffe693b155b43515f691fd0cd8aaad90a61cc63677d3a55ecb74bf",
+    "bytes": 1646385,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-711fbdc3-d5ab-4266-975a-3abca54ac57b.png",
+    "repository_path": "assets/final/prop_generic_story_phone.png",
+    "sha256": "5ce5bc4fb8ef46b8ed3c208c3302c8adbd637b8891e35bc03cbb0cfb94349c39",
+    "bytes": 1977538,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-14f1677d-6875-41ff-b052-1c1c6a34fa12.png",
+    "repository_path": "assets/final/bg_verse_ring_charm.png",
+    "sha256": "812d3122f145e6a3295f48c600de6116c4fadc15a14e469ba2a48b541c0fc379",
+    "bytes": 2146867,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-e43d32c7-2220-4573-af5a-42998ebc7760.png",
+    "repository_path": "assets/final/bg_chorus_heartstage.png",
+    "sha256": "5cd719289cb4a5a2ffd3c5b9003f38caa35fe1b1c2d9fe9e0265ffeeda6a790a",
+    "bytes": 2700119,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-a37f4b70-73c4-44db-8fc0-37f3ac12a25b.png",
+    "repository_path": "assets/final/bg_prechorus_wait.png",
+    "sha256": "3b0e9bc08cd1df34a29b7da06d5ffc80234cab4dbac5e9ad02c764e25a0b2b41",
+    "bytes": 1808149,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-9d291ca6-fa26-47af-a80f-0c77570f9479.png",
+    "repository_path": "assets/final/bg_social_night.png",
+    "sha256": "0e6a458bc6e5ba49da894a7731076ad52620e32e916a00671d3cc5cadda19150",
+    "bytes": 2108088,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-1c6f2c15-3a84-475c-9838-e5f1a4620553.png",
+    "repository_path": "assets/final/silhouette_a_neutral_black.png",
+    "sha256": "5382f933e531709adbf619fbb17785d56ec6ffb4f16d4b977222ebde5a76d407",
+    "bytes": 609571,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-37ecfe96-6d45-4e48-8b3f-2f419aa9e2e3.png",
+    "repository_path": "assets/final/silhouette_a_cheer_black.png",
+    "sha256": "bbc0276e9c7c453a7fc54fd3fd4a41feb9246d0f7e8dd1545d089aacb1b9eb08",
+    "bytes": 650020,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-7e5a94de-b6b8-442f-8833-ef5176ccf5a1.png",
+    "repository_path": "assets/final/silhouette_b_neutral_black.png",
+    "sha256": "5dc1f7c2da75bb57f40d7fbbf1607d5e06e84f0dfab359117cf2a4cdceb8b9b0",
+    "bytes": 543053,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-3409035a-b876-4ce6-bbe7-be4380cf40cb.png",
+    "repository_path": "assets/final/silhouette_b_dance_black.png",
+    "sha256": "3cbf92cc42a9d9478edf8759b72a19ef45842f18cecdbbf0408e72f8b4a3c005",
+    "bytes": 542242,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-ac4338d6-ade3-42ec-b61d-d308d6795622.png",
+    "repository_path": "assets/iterations/generation_036.png",
+    "sha256": "4ae254e6405132a98eac9cf87b74987dab7c0f9b11784b99a5780c8e4c0b294b",
+    "bytes": 1138881,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-5482e00f-c40e-4f95-94e5-c2b191b5827d.png",
+    "repository_path": "assets/iterations/generation_037.png",
+    "sha256": "43e906ba7e765ab5d775c0660f7f64fd19ebc9afe238776791110cbbea616d52",
+    "bytes": 1157077,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-18b62c97-6c9b-480c-9f46-510ec5d6391d.png",
+    "repository_path": "assets/iterations/generation_038.png",
+    "sha256": "2bf06ef416c7d42c5a9a340cb1cb8006783da806aa00c02f710a82d104b129a1",
+    "bytes": 1073826,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-afb273e4-8bb4-4eb9-8fd8-872ed52eed1a.png",
+    "repository_path": "assets/iterations/generation_039.png",
+    "sha256": "cda425b1c83513c044c5876ea92426f13411280d7c3e4b676adbf30de4b258ed",
+    "bytes": 1111929,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-c89a8d4a-9bca-4b11-8028-1846df920438.png",
+    "repository_path": "assets/iterations/generation_040.png",
+    "sha256": "f0fda9d37e5151ccb561256dd751e3e8856536fce71a3131be6b9250c7866dc9",
+    "bytes": 380104,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-825a1119-4a8b-4ac5-b96d-91f6cf11c662.png",
+    "repository_path": "assets/iterations/generation_041.png",
+    "sha256": "c6fc3b4e321ceadb83323fd29da5803833a3f6e5d50efdebe3733474f8afff70",
+    "bytes": 493507,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-f8a42ed0-6f59-4a67-919e-a6b14d9edde4.png",
+    "repository_path": "assets/iterations/generation_042.png",
+    "sha256": "982d6de1ba1b58ea85262a2523426ee21f8abe2905b30397056cd385a120b7ce",
+    "bytes": 368689,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-bb2d4474-1ed2-4066-98c0-d7f657fba305.png",
+    "repository_path": "assets/iterations/generation_043.png",
+    "sha256": "b9957e36b161e0f95ada07817b9845fc27fc85d7ffd65ddc323fb77115901e54",
+    "bytes": 360260,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-800f8042-1303-49ec-8bf5-bf8612b4158e.png",
+    "repository_path": "assets/iterations/generation_044.png",
+    "sha256": "dc34e54e6c2f799584ddbd68ffe05f58405dd713ced423a7cc03f9486997583d",
+    "bytes": 1098418,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-8d1a0897-a303-4e0c-877e-8cb8015eec3c.png",
+    "repository_path": "assets/iterations/generation_045.png",
+    "sha256": "64d67db6ee2633be06b0fb31d5646b0d0aa1e331de1ba01964de45573f60a0a9",
+    "bytes": 1089333,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-79d16748-329a-4145-88c5-314e6a3b65d9.png",
+    "repository_path": "assets/iterations/generation_046.png",
+    "sha256": "bdcdbdaf23f4d390045714c4d7414062e18b3dcbdd6d998f8ccba7f0614e88d6",
+    "bytes": 405095,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-afa1e3cd-deb4-4b2c-a116-a2f5afa69e35.png",
+    "repository_path": "assets/iterations/generation_047.png",
+    "sha256": "d19905ada70ede90073a79f96ec4e7877173f786b161e05a0bfc61c02bc891c6",
+    "bytes": 448257,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-8926a9b0-ef01-4daf-8d75-0cacfb7c5ac7.png",
+    "repository_path": "assets/iterations/generation_048.png",
+    "sha256": "d9a941cfeb94c8cf6265ad345220a46d474002e8796830bc224394aba88f93df",
+    "bytes": 370968,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-65156907-3240-438d-8904-b7c834128cf1.png",
+    "repository_path": "assets/iterations/generation_049.png",
+    "sha256": "465263817e12875de89227035def348550e6bb160f258fda7dba507dfc00ebeb",
+    "bytes": 1196337,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-5fb8357c-79ab-4bdc-82e4-032d9769b426.png",
+    "repository_path": "assets/iterations/generation_050.png",
+    "sha256": "e6087b0d0b10f4082bf72854b8c19e143eb097903fb151b93ab5f8cbb0b56db4",
+    "bytes": 713096,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-8a7a1147-600e-4644-8e34-4a095ca4e271.png",
+    "repository_path": "assets/iterations/generation_051.png",
+    "sha256": "da151187632fd8219f7c04fc24f10b17b6ade5c30ae765982193874974bdcd00",
+    "bytes": 1196168,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-dd0790be-edb3-4a6f-90f7-cc5620e4bcc3.png",
+    "repository_path": "assets/iterations/generation_052.png",
+    "sha256": "d2118ecc3d9c540ccbfed86cf442be72b81a5fc1922f16a14d50c7be70257703",
+    "bytes": 711928,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-ccdf5709-cb9b-49a4-b1a9-84d531d4e5b6.png",
+    "repository_path": "assets/iterations/generation_053.png",
+    "sha256": "369b4536b489ba3dcfc4ba8d5e87821bfe5998941897c5d4c0ae8150bc2c0276",
+    "bytes": 601415,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-e80208ff-661e-4ebd-8c5a-6b0a34b402d9.png",
+    "repository_path": "assets/iterations/generation_054.png",
+    "sha256": "a3c8c3c7e94d3db7dfc253c3cc1c4ab6a2fdb36e4a6de554c1466e99147cce8d",
+    "bytes": 605534,
+    "is_final_asset": false
+  },
+  {
+    "source_generated_filename": "exec-1e0b0569-b6c4-48d7-964a-96bafea35a2b.png",
+    "repository_path": "assets/final/silhouette_b_peace_white_blackbg.png",
+    "sha256": "2788b6a98b7f825f61257899be0320e6003d8a2af19112bdc382d11fcdba1741",
+    "bytes": 668933,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-655b2ca7-12c4-4ce8-bce2-6f41ed275ca7.png",
+    "repository_path": "assets/final/silhouette_a_cheer_white_blackbg.png",
+    "sha256": "4e841c12b9c8d2cef4f4f5b2f60384132fbac8cf9fa6e7ed83c6391c46d29425",
+    "bytes": 880896,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-0451b243-d405-407d-9499-12e4f0462191.png",
+    "repository_path": "assets/final/silhouette_a_peace_white_blackbg.png",
+    "sha256": "a26bfe6673502aaa2a746dde2501f9f4b8859adb4e026c7aecfd253ba66b5f9c",
+    "bytes": 932181,
+    "is_final_asset": true
+  },
+  {
+    "source_generated_filename": "exec-df25eb31-69a6-4b92-bce9-413e737fd8d6.png",
+    "repository_path": "assets/final/silhouette_b_dance_white_blackbg.png",
+    "sha256": "6c8ca20e8ef0d315254cfb78efff915a36e9422fe13d97408de4710cb1e55400",
+    "bytes": 658500,
+    "is_final_asset": true
+  }
+]

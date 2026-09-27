@@ -1,0 +1,1069 @@
+{
+  "bpm": 129.3,
+  "beat_offset": 0.108,
+  "duration": 118.8,
+  "shots": [
+    {
+      "start": 0,
+      "kind": "object_v2",
+      "transition": "cut",
+      "prop": "prop_pinky_ring",
+      "side": "center",
+      "size": 500,
+      "dark": true,
+      "quiet": true,
+      "end": 1.04,
+      "characterFree": true,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 850,
+        "h": 478
+      },
+      "id": 1
+    },
+    {
+      "start": 1.04,
+      "kind": "title",
+      "transition": "cut",
+      "transitionDuration": 0.1,
+      "end": 2.24,
+      "characterFree": false,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 2
+    },
+    {
+      "start": 2.24,
+      "kind": "hands_v2",
+      "transition": "cut",
+      "actor": "character_a_charm",
+      "prop": "prop_pinky_ring",
+      "dark": true,
+      "scale": "insert",
+      "end": 5.04,
+      "characterFree": false,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 3
+    },
+    {
+      "start": 5.04,
+      "kind": "object_v2",
+      "transition": "cut",
+      "prop": "prop_pinky_ring",
+      "side": "right",
+      "dark": true,
+      "size": 680,
+      "end": 6.9,
+      "characterFree": true,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 4
+    },
+    {
+      "start": 6.9,
+      "kind": "bust_v2",
+      "transition": "cut",
+      "actor": "character_a_charm",
+      "side": "left",
+      "color": "#8165CC",
+      "dark": true,
+      "scale": "upper",
+      "end": 8.72,
+      "characterFree": false,
+      "subtitle": {
+        "x": 970,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 5
+    },
+    {
+      "start": 8.72,
+      "kind": "object_v2",
+      "transition": "cut",
+      "prop": "prop_love_charm",
+      "side": "left",
+      "dark": true,
+      "size": 600,
+      "quiet": true,
+      "end": 10.04,
+      "characterFree": true,
+      "subtitle": {
+        "x": 970,
+        "y": 215,
+        "w": 850,
+        "h": 478
+      },
+      "id": 6
+    },
+    {
+      "start": 10.04,
+      "kind": "empty_v2",
+      "transition": "fade",
+      "bg": "bg_verse_ring_charm",
+      "prop": "prop_love_charm",
+      "quiet": true,
+      "transitionDuration": 0.5,
+      "end": 12.0,
+      "characterFree": true,
+      "subtitle": {
+        "x": 70,
+        "y": 250,
+        "w": 1120,
+        "h": 630
+      },
+      "id": 7
+    },
+    {
+      "start": 12.0,
+      "kind": "face_v2",
+      "transition": "cut",
+      "actor": "character_a_phone_check",
+      "side": "right",
+      "dark": true,
+      "quiet": true,
+      "scale": "face",
+      "end": 13.98,
+      "characterFree": false,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 850,
+        "h": 478
+      },
+      "id": 8
+    },
+    {
+      "start": 13.98,
+      "kind": "bust_v2",
+      "transition": "cut",
+      "actor": "character_b_heartthief",
+      "side": "left",
+      "dark": true,
+      "color": "#FF766E",
+      "scale": "upper",
+      "end": 16.14,
+      "characterFree": false,
+      "subtitle": {
+        "x": 970,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 9
+    },
+    {
+      "start": 16.14,
+      "kind": "face_v2",
+      "transition": "cut",
+      "actor": "character_b_heartthief",
+      "side": "left",
+      "color": "#FFE679",
+      "scale": "face",
+      "end": 18.36,
+      "characterFree": false,
+      "subtitle": {
+        "x": 1100,
+        "y": 250,
+        "w": 800,
+        "h": 450
+      },
+      "id": 10
+    },
+    {
+      "start": 18.36,
+      "kind": "bust_v2",
+      "transition": "cut",
+      "actor": "character_a_wait",
+      "side": "right",
+      "dark": true,
+      "color": "#3EE1E8",
+      "scale": "upper",
+      "end": 20.22,
+      "characterFree": false,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 11
+    },
+    {
+      "start": 20.22,
+      "kind": "hands_v2",
+      "transition": "cut",
+      "actor": "character_a_charm",
+      "dark": true,
+      "scale": "insert",
+      "end": 21.66,
+      "characterFree": false,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 12
+    },
+    {
+      "start": 21.66,
+      "kind": "heart_v2",
+      "transition": "cut",
+      "dark": true,
+      "side": "right",
+      "size": 360,
+      "end": 22.5,
+      "characterFree": true,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 13
+    },
+    {
+      "start": 22.5,
+      "kind": "bust_v2",
+      "transition": "cut",
+      "actor": "character_a_peace",
+      "side": "left",
+      "dark": true,
+      "color": "#3EE1E8",
+      "scale": "upper",
+      "end": 24.7,
+      "characterFree": false,
+      "subtitle": {
+        "x": 970,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 14
+    },
+    {
+      "start": 24.7,
+      "kind": "face_v2",
+      "transition": "cut",
+      "actor": "character_a_charm",
+      "side": "left",
+      "dark": true,
+      "scale": "face",
+      "end": 26.16,
+      "characterFree": false,
+      "subtitle": {
+        "x": 1100,
+        "y": 250,
+        "w": 800,
+        "h": 450
+      },
+      "id": 15
+    },
+    {
+      "start": 26.16,
+      "kind": "empty_v2",
+      "transition": "fade",
+      "bg": "bg_prechorus_wait",
+      "quiet": true,
+      "transitionDuration": 0.1,
+      "end": 27.34,
+      "characterFree": true,
+      "subtitle": {
+        "x": 70,
+        "y": 250,
+        "w": 1120,
+        "h": 630
+      },
+      "id": 16
+    },
+    {
+      "start": 27.34,
+      "kind": "heart_v2",
+      "transition": "cut",
+      "dark": true,
+      "size": 210,
+      "end": 27.82,
+      "characterFree": true,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 17
+    },
+    {
+      "start": 27.82,
+      "kind": "heart_v2",
+      "transition": "cut",
+      "dark": true,
+      "orbit": true,
+      "size": 730,
+      "subtitleMode": "center",
+      "end": 30.3,
+      "characterFree": true,
+      "subtitle": {
+        "x": 80,
+        "y": 105,
+        "w": 1760,
+        "h": 990
+      },
+      "id": 18
+    },
+    {
+      "start": 30.3,
+      "kind": "bust_v2",
+      "transition": "cut",
+      "actor": "character_b_heartthief",
+      "side": "right",
+      "dark": true,
+      "scale": "upper",
+      "end": 32.1,
+      "characterFree": false,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 19
+    },
+    {
+      "start": 32.1,
+      "kind": "face_v2",
+      "transition": "cut",
+      "actor": "character_b_heartthief",
+      "side": "left",
+      "color": "#FFE679",
+      "scale": "face",
+      "end": 33.72,
+      "characterFree": false,
+      "subtitle": {
+        "x": 1100,
+        "y": 250,
+        "w": 800,
+        "h": 450
+      },
+      "id": 20
+    },
+    {
+      "start": 33.72,
+      "kind": "hands_v2",
+      "transition": "cut",
+      "actor": "character_b_heartthief",
+      "dark": true,
+      "scale": "insert",
+      "end": 35.4,
+      "characterFree": false,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 21
+    },
+    {
+      "start": 35.4,
+      "kind": "silhouette_v2",
+      "transition": "cut",
+      "side": "left",
+      "dark": true,
+      "scale": "upper",
+      "end": 37.26,
+      "characterFree": false,
+      "subtitle": {
+        "x": 970,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 22
+    },
+    {
+      "start": 37.26,
+      "kind": "heart_v2",
+      "transition": "cut",
+      "dark": true,
+      "side": "left",
+      "size": 590,
+      "end": 38.94,
+      "characterFree": true,
+      "subtitle": {
+        "x": 970,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 23
+    },
+    {
+      "start": 38.94,
+      "kind": "object_v2",
+      "transition": "cut",
+      "prop": "prop_bitten_apple",
+      "side": "right",
+      "dark": true,
+      "size": 610,
+      "end": 40.65,
+      "characterFree": true,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 24
+    },
+    {
+      "start": 40.65,
+      "kind": "eyes_v2",
+      "transition": "cut",
+      "actor": "character_b_heartthief",
+      "scale": "eyes",
+      "subtitleMode": "bottom",
+      "end": 42.72,
+      "characterFree": false,
+      "subtitle": {
+        "x": 430,
+        "y": 570,
+        "w": 1060,
+        "h": 596
+      },
+      "id": 25
+    },
+    {
+      "start": 42.72,
+      "kind": "chorus",
+      "transition": "cut",
+      "variant": 2,
+      "transitionDuration": 0.1,
+      "scale": "wide",
+      "end": 44.6,
+      "characterFree": false,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 26
+    },
+    {
+      "start": 44.6,
+      "kind": "duet_v2",
+      "transition": "cut",
+      "actors": [
+        "character_a_apple",
+        "character_b_apple"
+      ],
+      "scale": "upper",
+      "end": 46.98,
+      "characterFree": false,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 27
+    },
+    {
+      "start": 46.98,
+      "kind": "object_v2",
+      "transition": "cut",
+      "prop": "prop_love_charm",
+      "side": "center",
+      "size": 640,
+      "dark": true,
+      "end": 48.85,
+      "characterFree": true,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 28
+    },
+    {
+      "start": 48.85,
+      "kind": "hands_v2",
+      "transition": "cut",
+      "actor": "character_a_charm",
+      "prop": "prop_pinky_ring",
+      "dark": true,
+      "scale": "insert",
+      "end": 50.7,
+      "characterFree": false,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 29
+    },
+    {
+      "start": 50.7,
+      "kind": "silhouette_v2",
+      "transition": "cut",
+      "actor": "silhouette_a_cheer_black",
+      "side": "left",
+      "dark": true,
+      "scale": "upper",
+      "end": 52.54,
+      "characterFree": false,
+      "subtitle": {
+        "x": 970,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 30
+    },
+    {
+      "start": 52.54,
+      "kind": "object_v2",
+      "transition": "cut",
+      "prop": "prop_bitten_apple",
+      "side": "center",
+      "size": 760,
+      "color": "#FF766E",
+      "end": 54.4,
+      "characterFree": true,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 31
+    },
+    {
+      "start": 54.4,
+      "kind": "empty_v2",
+      "transition": "cut",
+      "bg": "bg_social_night",
+      "dark": true,
+      "quiet": true,
+      "end": 57.26,
+      "characterFree": true,
+      "subtitle": {
+        "x": 70,
+        "y": 250,
+        "w": 1120,
+        "h": 630
+      },
+      "id": 32
+    },
+    {
+      "start": 57.26,
+      "kind": "notifications_v2",
+      "transition": "cut",
+      "dark": true,
+      "end": 60.78,
+      "characterFree": true,
+      "subtitle": {
+        "x": 10,
+        "y": 250,
+        "w": 1030,
+        "h": 579
+      },
+      "id": 33
+    },
+    {
+      "start": 60.78,
+      "kind": "bust_v2",
+      "transition": "cut",
+      "actor": "character_a_phone_check",
+      "side": "left",
+      "dark": true,
+      "color": "#8165CC",
+      "quiet": true,
+      "scale": "upper",
+      "end": 63.0,
+      "characterFree": false,
+      "subtitle": {
+        "x": 970,
+        "y": 215,
+        "w": 850,
+        "h": 478
+      },
+      "id": 34
+    },
+    {
+      "start": 63.0,
+      "kind": "face_v2",
+      "transition": "cut",
+      "actor": "character_a_phone_check",
+      "side": "left",
+      "dark": true,
+      "quiet": true,
+      "scale": "face",
+      "end": 64.8,
+      "characterFree": false,
+      "subtitle": {
+        "x": 1100,
+        "y": 250,
+        "w": 800,
+        "h": 450
+      },
+      "id": 35
+    },
+    {
+      "start": 64.8,
+      "kind": "notifications_v2",
+      "transition": "cut",
+      "dark": true,
+      "end": 67.6,
+      "characterFree": true,
+      "subtitle": {
+        "x": 10,
+        "y": 250,
+        "w": 1030,
+        "h": 579
+      },
+      "id": 36
+    },
+    {
+      "start": 67.6,
+      "kind": "empty_v2",
+      "transition": "fade",
+      "bg": "bg_social_night",
+      "quiet": true,
+      "transitionDuration": 0.4,
+      "end": 69.7,
+      "characterFree": true,
+      "subtitle": {
+        "x": 70,
+        "y": 250,
+        "w": 1120,
+        "h": 630
+      },
+      "id": 37
+    },
+    {
+      "start": 69.7,
+      "kind": "face_v2",
+      "transition": "cut",
+      "actor": "character_a_phone_check",
+      "side": "right",
+      "dark": true,
+      "quiet": true,
+      "scale": "face",
+      "end": 72.56,
+      "characterFree": false,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 850,
+        "h": 478
+      },
+      "id": 38
+    },
+    {
+      "start": 72.56,
+      "kind": "bust_v2",
+      "transition": "cut",
+      "actor": "character_a_phone_check",
+      "side": "left",
+      "dark": true,
+      "quiet": true,
+      "scale": "upper",
+      "end": 75.82,
+      "characterFree": false,
+      "subtitle": {
+        "x": 970,
+        "y": 215,
+        "w": 850,
+        "h": 478
+      },
+      "id": 39
+    },
+    {
+      "start": 75.82,
+      "kind": "empty_v2",
+      "transition": "cut",
+      "bg": "bg_prechorus_wait",
+      "quiet": true,
+      "end": 76.48,
+      "characterFree": true,
+      "subtitle": {
+        "x": 70,
+        "y": 250,
+        "w": 1120,
+        "h": 630
+      },
+      "id": 40
+    },
+    {
+      "start": 76.48,
+      "kind": "object_v2",
+      "transition": "cut",
+      "prop": "prop_love_charm",
+      "side": "right",
+      "dark": true,
+      "quiet": true,
+      "size": 470,
+      "end": 79.7,
+      "characterFree": true,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 850,
+        "h": 478
+      },
+      "id": 41
+    },
+    {
+      "start": 79.7,
+      "kind": "face_v2",
+      "transition": "cut",
+      "actor": "character_a_charm",
+      "side": "right",
+      "dark": true,
+      "quiet": true,
+      "scale": "face",
+      "end": 81.44,
+      "characterFree": false,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 850,
+        "h": 478
+      },
+      "id": 42
+    },
+    {
+      "start": 81.44,
+      "kind": "heart_v2",
+      "transition": "cut",
+      "dark": true,
+      "orbit": true,
+      "size": 860,
+      "subtitleMode": "center",
+      "end": 83.8,
+      "characterFree": true,
+      "subtitle": {
+        "x": 80,
+        "y": 105,
+        "w": 1760,
+        "h": 990
+      },
+      "id": 43
+    },
+    {
+      "start": 83.8,
+      "kind": "bust_v2",
+      "transition": "cut",
+      "actor": "character_b_point",
+      "side": "right",
+      "dark": true,
+      "scale": "upper",
+      "end": 85.76,
+      "characterFree": false,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 44
+    },
+    {
+      "start": 85.76,
+      "kind": "face_v2",
+      "transition": "cut",
+      "actor": "character_b_heartthief",
+      "side": "left",
+      "color": "#3EE1E8",
+      "scale": "face",
+      "end": 87.5,
+      "characterFree": false,
+      "subtitle": {
+        "x": 1100,
+        "y": 250,
+        "w": 800,
+        "h": 450
+      },
+      "id": 45
+    },
+    {
+      "start": 87.5,
+      "kind": "bust_v2",
+      "transition": "cut",
+      "actor": "character_b_heartthief",
+      "side": "left",
+      "dark": true,
+      "scale": "upper",
+      "end": 89.14,
+      "characterFree": false,
+      "subtitle": {
+        "x": 970,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 46
+    },
+    {
+      "start": 89.14,
+      "kind": "silhouette_v2",
+      "transition": "cut",
+      "actor": "silhouette_a_cheer_black",
+      "side": "right",
+      "dark": true,
+      "scale": "upper",
+      "end": 91.0,
+      "characterFree": false,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 47
+    },
+    {
+      "start": 91.0,
+      "kind": "heart_v2",
+      "transition": "cut",
+      "dark": true,
+      "side": "right",
+      "size": 540,
+      "orbit": false,
+      "end": 92.76,
+      "characterFree": true,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 48
+    },
+    {
+      "start": 92.76,
+      "kind": "object_v2",
+      "transition": "cut",
+      "prop": "prop_bitten_apple",
+      "side": "left",
+      "dark": true,
+      "size": 710,
+      "end": 94.5,
+      "characterFree": true,
+      "subtitle": {
+        "x": 970,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 49
+    },
+    {
+      "start": 94.5,
+      "kind": "face_v2",
+      "transition": "cut",
+      "actor": "character_b_apple",
+      "side": "left",
+      "dark": true,
+      "scale": "face",
+      "end": 96.52,
+      "characterFree": false,
+      "subtitle": {
+        "x": 1100,
+        "y": 250,
+        "w": 800,
+        "h": 450
+      },
+      "id": 50
+    },
+    {
+      "start": 96.52,
+      "kind": "chorus",
+      "transition": "cut",
+      "variant": 0,
+      "scale": "wide",
+      "end": 98.62,
+      "characterFree": false,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 51
+    },
+    {
+      "start": 98.62,
+      "kind": "duet_v2",
+      "transition": "cut",
+      "actors": [
+        "character_a_peace",
+        "character_b_heartthief"
+      ],
+      "scale": "upper",
+      "end": 100.45,
+      "characterFree": false,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 52
+    },
+    {
+      "start": 100.45,
+      "kind": "eyes_v2",
+      "transition": "cut",
+      "actor": "character_b_heartthief",
+      "scale": "eyes",
+      "end": 101.38,
+      "characterFree": false,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 53
+    },
+    {
+      "start": 101.38,
+      "kind": "eyes_v2",
+      "transition": "cut",
+      "actor": "character_a_phone_check",
+      "scale": "eyes",
+      "end": 102.3,
+      "characterFree": false,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 54
+    },
+    {
+      "start": 102.3,
+      "kind": "object_v2",
+      "transition": "cut",
+      "prop": "prop_pinky_ring",
+      "side": "center",
+      "size": 770,
+      "dark": true,
+      "end": 104.16,
+      "characterFree": true,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 55
+    },
+    {
+      "start": 104.16,
+      "kind": "duet_v2",
+      "transition": "cut",
+      "actors": [
+        "character_a_apple",
+        "character_b_apple"
+      ],
+      "scale": "upper",
+      "end": 106.02,
+      "characterFree": false,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 56
+    },
+    {
+      "start": 106.02,
+      "kind": "heart_v2",
+      "transition": "cut",
+      "dark": true,
+      "orbit": true,
+      "size": 650,
+      "end": 107.88,
+      "characterFree": true,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 57
+    },
+    {
+      "start": 107.88,
+      "kind": "silhouette_v2",
+      "transition": "cut",
+      "actor": "silhouette_b_dance_black",
+      "side": "left",
+      "dark": true,
+      "scale": "upper",
+      "end": 109.74,
+      "characterFree": false,
+      "subtitle": {
+        "x": 970,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 58
+    },
+    {
+      "start": 109.74,
+      "kind": "empty_v2",
+      "transition": "cut",
+      "bg": "bg_chorus_heartstage",
+      "quiet": true,
+      "dark": false,
+      "end": 112.08,
+      "characterFree": true,
+      "subtitle": {
+        "x": 70,
+        "y": 250,
+        "w": 1120,
+        "h": 630
+      },
+      "id": 59
+    },
+    {
+      "start": 112.08,
+      "kind": "outro",
+      "transition": "cut",
+      "end": 118.8,
+      "characterFree": true,
+      "subtitle": {
+        "x": 15,
+        "y": 215,
+        "w": 950,
+        "h": 534
+      },
+      "id": 60
+    }
+  ]
+}

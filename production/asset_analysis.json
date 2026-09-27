@@ -1,0 +1,3547 @@
+{
+  "source_directory": "[LOCAL_WORKSPACE]/outputs/proseka_mv_assets",
+  "source_png_count": 32,
+  "index_md_count_claim": 32,
+  "audit_method": "Pillow: opened and decoded each PNG, reported alpha threshold bboxes at >=1,16,64,128,192,224,250, SHA-256; contact previews composite RGBA on pure white and charcoal.",
+  "coordinate_convention": "bbox is [left, top, right, bottom), right/bottom exclusive; object bounds are source pixel coordinates.",
+  "assets": [
+    {
+      "file": "bg_chorus_heartstage.png",
+      "sha256": "5cd719289cb4a5a2ffd3c5b9003f38caa35fe1b1c2d9fe9e0265ffeeda6a790a",
+      "category": "background",
+      "mode": "RGB",
+      "width": 1672,
+      "height": 941,
+      "aspect_ratio": 1.77683,
+      "alpha": {
+        "has_alpha_channel_or_transparency": false,
+        "alpha_min_max": [
+          255,
+          255
+        ],
+        "alpha_zero_pixels": 0,
+        "alpha_nonzero_pixels": 1573352,
+        "alpha_nonzero_percent": 100.0,
+        "alpha_counts_at_or_above": {
+          "1": 1573352,
+          "16": 1573352,
+          "64": 1573352,
+          "128": 1573352,
+          "192": 1573352,
+          "224": 1573352,
+          "250": 1573352
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            0,
+            0,
+            1672,
+            941
+          ],
+          "16": [
+            0,
+            0,
+            1672,
+            941
+          ],
+          "64": [
+            0,
+            0,
+            1672,
+            941
+          ],
+          "128": [
+            0,
+            0,
+            1672,
+            941
+          ],
+          "192": [
+            0,
+            0,
+            1672,
+            941
+          ],
+          "224": [
+            0,
+            0,
+            1672,
+            941
+          ],
+          "250": [
+            0,
+            0,
+            1672,
+            941
+          ]
+        },
+        "opaque_core_bbox": [
+          0,
+          0,
+          1672,
+          941
+        ],
+        "soft_fringe_bbox": [
+          0,
+          0,
+          1672,
+          941
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 0,
+        "y": 0,
+        "width": 1672,
+        "height": 941
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 0,
+        "y": 0,
+        "width": 1672,
+        "height": 941
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "composition_notes": [
+        "不透明な16:9背景プレート。1920x1080へのcover拡大は約1.148xで、切り落としはほぼない。",
+        "正面のハートステージ。歌唱者を中央軸に置くヒーローショット向き。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "透過素材ではない。背景の全画面構図を維持してcoverする。",
+        "full_canvas": true,
+        "cover_scale_for_1920x1080": 1.14833,
+        "cover_crop_pixels_source_approx": {
+          "horizontal_total": 0.0,
+          "vertical_total": 0.5
+        }
+      }
+    },
+    {
+      "file": "bg_prechorus_wait.png",
+      "sha256": "3b0e9bc08cd1df34a29b7da06d5ffc80234cab4dbac5e9ad02c764e25a0b2b41",
+      "category": "background",
+      "mode": "RGB",
+      "width": 1672,
+      "height": 941,
+      "aspect_ratio": 1.77683,
+      "alpha": {
+        "has_alpha_channel_or_transparency": false,
+        "alpha_min_max": [
+          255,
+          255
+        ],
+        "alpha_zero_pixels": 0,
+        "alpha_nonzero_pixels": 1573352,
+        "alpha_nonzero_percent": 100.0,
+        "alpha_counts_at_or_above": {
+          "1": 1573352,
+          "16": 1573352,
+          "64": 1573352,
+          "128": 1573352,
+          "192": 1573352,
+          "224": 1573352,
+          "250": 1573352
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            0,
+            0,
+            1672,
+            941
+          ],
+          "16": [
+            0,
+            0,
+            1672,
+            941
+          ],
+          "64": [
+            0,
+            0,
+            1672,
+            941
+          ],
+          "128": [
+            0,
+            0,
+            1672,
+            941
+          ],
+          "192": [
+            0,
+            0,
+            1672,
+            941
+          ],
+          "224": [
+            0,
+            0,
+            1672,
+            941
+          ],
+          "250": [
+            0,
+            0,
+            1672,
+            941
+          ]
+        },
+        "opaque_core_bbox": [
+          0,
+          0,
+          1672,
+          941
+        ],
+        "soft_fringe_bbox": [
+          0,
+          0,
+          1672,
+          941
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 0,
+        "y": 0,
+        "width": 1672,
+        "height": 941
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 0,
+        "y": 0,
+        "width": 1672,
+        "height": 941
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "composition_notes": [
+        "不透明な16:9背景プレート。1920x1080へのcover拡大は約1.148xで、切り落としはほぼない。",
+        "舞台袖を斜めに見る構図。待つ人物は画面端に置くと視線と奥行きが合う。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "透過素材ではない。背景の全画面構図を維持してcoverする。",
+        "full_canvas": true,
+        "cover_scale_for_1920x1080": 1.14833,
+        "cover_crop_pixels_source_approx": {
+          "horizontal_total": 0.0,
+          "vertical_total": 0.5
+        }
+      }
+    },
+    {
+      "file": "bg_social_night.png",
+      "sha256": "0e6a458bc6e5ba49da894a7731076ad52620e32e916a00671d3cc5cadda19150",
+      "category": "background",
+      "mode": "RGB",
+      "width": 1672,
+      "height": 941,
+      "aspect_ratio": 1.77683,
+      "alpha": {
+        "has_alpha_channel_or_transparency": false,
+        "alpha_min_max": [
+          255,
+          255
+        ],
+        "alpha_zero_pixels": 0,
+        "alpha_nonzero_pixels": 1573352,
+        "alpha_nonzero_percent": 100.0,
+        "alpha_counts_at_or_above": {
+          "1": 1573352,
+          "16": 1573352,
+          "64": 1573352,
+          "128": 1573352,
+          "192": 1573352,
+          "224": 1573352,
+          "250": 1573352
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            0,
+            0,
+            1672,
+            941
+          ],
+          "16": [
+            0,
+            0,
+            1672,
+            941
+          ],
+          "64": [
+            0,
+            0,
+            1672,
+            941
+          ],
+          "128": [
+            0,
+            0,
+            1672,
+            941
+          ],
+          "192": [
+            0,
+            0,
+            1672,
+            941
+          ],
+          "224": [
+            0,
+            0,
+            1672,
+            941
+          ],
+          "250": [
+            0,
+            0,
+            1672,
+            941
+          ]
+        },
+        "opaque_core_bbox": [
+          0,
+          0,
+          1672,
+          941
+        ],
+        "soft_fringe_bbox": [
+          0,
+          0,
+          1672,
+          941
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 0,
+        "y": 0,
+        "width": 1672,
+        "height": 941
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 0,
+        "y": 0,
+        "width": 1672,
+        "height": 941
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "composition_notes": [
+        "不透明な16:9背景プレート。1920x1080へのcover拡大は約1.148xで、切り落としはほぼない。",
+        "俯瞰のフラットレイ構図。全身キャラを立たせず、スマホ/小物の寄りや俯瞰カットに合わせる。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "透過素材ではない。背景の全画面構図を維持してcoverする。",
+        "full_canvas": true,
+        "cover_scale_for_1920x1080": 1.14833,
+        "cover_crop_pixels_source_approx": {
+          "horizontal_total": 0.0,
+          "vertical_total": 0.5
+        }
+      }
+    },
+    {
+      "file": "bg_verse_ring_charm.png",
+      "sha256": "812d3122f145e6a3295f48c600de6116c4fadc15a14e469ba2a48b541c0fc379",
+      "category": "background",
+      "mode": "RGB",
+      "width": 1672,
+      "height": 941,
+      "aspect_ratio": 1.77683,
+      "alpha": {
+        "has_alpha_channel_or_transparency": false,
+        "alpha_min_max": [
+          255,
+          255
+        ],
+        "alpha_zero_pixels": 0,
+        "alpha_nonzero_pixels": 1573352,
+        "alpha_nonzero_percent": 100.0,
+        "alpha_counts_at_or_above": {
+          "1": 1573352,
+          "16": 1573352,
+          "64": 1573352,
+          "128": 1573352,
+          "192": 1573352,
+          "224": 1573352,
+          "250": 1573352
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            0,
+            0,
+            1672,
+            941
+          ],
+          "16": [
+            0,
+            0,
+            1672,
+            941
+          ],
+          "64": [
+            0,
+            0,
+            1672,
+            941
+          ],
+          "128": [
+            0,
+            0,
+            1672,
+            941
+          ],
+          "192": [
+            0,
+            0,
+            1672,
+            941
+          ],
+          "224": [
+            0,
+            0,
+            1672,
+            941
+          ],
+          "250": [
+            0,
+            0,
+            1672,
+            941
+          ]
+        },
+        "opaque_core_bbox": [
+          0,
+          0,
+          1672,
+          941
+        ],
+        "soft_fringe_bbox": [
+          0,
+          0,
+          1672,
+          941
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 0,
+        "y": 0,
+        "width": 1672,
+        "height": 941
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 0,
+        "y": 0,
+        "width": 1672,
+        "height": 941
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "composition_notes": [
+        "不透明な16:9背景プレート。1920x1080へのcover拡大は約1.148xで、切り落としはほぼない。",
+        "正面性の強いリング状ステージ。リング/お守りのインサートや二人の立ち位置に使いやすい。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "透過素材ではない。背景の全画面構図を維持してcoverする。",
+        "full_canvas": true,
+        "cover_scale_for_1920x1080": 1.14833,
+        "cover_crop_pixels_source_approx": {
+          "horizontal_total": 0.0,
+          "vertical_total": 0.5
+        }
+      }
+    },
+    {
+      "file": "character_a_apple.png",
+      "sha256": "6eeb2984403b1c1880826b1bfdb6fa31f410f733e2fd667881ddde78c98c1dfc",
+      "category": "character_a",
+      "mode": "RGBA",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "alpha": {
+        "has_alpha_channel_or_transparency": true,
+        "alpha_min_max": [
+          0,
+          254
+        ],
+        "alpha_zero_pixels": 941117,
+        "alpha_nonzero_pixels": 631747,
+        "alpha_nonzero_percent": 40.1654,
+        "alpha_counts_at_or_above": {
+          "1": 631747,
+          "16": 567557,
+          "64": 559752,
+          "128": 553964,
+          "192": 547808,
+          "224": 542749,
+          "250": 498106
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            0,
+            0,
+            1012,
+            1504
+          ],
+          "16": [
+            97,
+            8,
+            935,
+            1499
+          ],
+          "64": [
+            97,
+            8,
+            934,
+            1498
+          ],
+          "128": [
+            97,
+            9,
+            934,
+            1498
+          ],
+          "192": [
+            98,
+            9,
+            934,
+            1497
+          ],
+          "224": [
+            98,
+            9,
+            933,
+            1497
+          ],
+          "250": [
+            100,
+            16,
+            932,
+            1496
+          ]
+        },
+        "opaque_core_bbox": [
+          97,
+          9,
+          934,
+          1498
+        ],
+        "soft_fringe_bbox": [
+          97,
+          8,
+          935,
+          1499
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 97,
+        "y": 8,
+        "width": 838,
+        "height": 1491
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 97,
+        "y": 9,
+        "width": 837,
+        "height": 1489
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 81.84,
+        "height": 97.07
+      },
+      "composition_notes": [
+        "白/濃色へのRGBA合成で輪郭は概ねクリーン。目立つ白マットや背景残りは見えず、alpha=0領域の隠れRGBは合成に出ない。",
+        "りんごを顔の近くに持つ。物を見せるインサートにつなぎやすい。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "alpha>=16のbboxを基準に各辺3-5%の余白を加える。alpha>=128で切ると細い髪先、縁、柔らかな効果を欠く場合がある。",
+        "full_canvas": false,
+        "scale_for_90pct_of_1080p_frame_height": 0.6519,
+        "scale_for_100pct_of_1080p_frame_height": 0.7243
+      }
+    },
+    {
+      "file": "character_a_charm.png",
+      "sha256": "046783250ad40e5c5bb2d6c74305d839c869a5cd6836901186a14a6d4537ef53",
+      "category": "character_a",
+      "mode": "RGBA",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "alpha": {
+        "has_alpha_channel_or_transparency": true,
+        "alpha_min_max": [
+          0,
+          254
+        ],
+        "alpha_zero_pixels": 856174,
+        "alpha_nonzero_pixels": 716690,
+        "alpha_nonzero_percent": 45.5659,
+        "alpha_counts_at_or_above": {
+          "1": 716690,
+          "16": 644914,
+          "64": 636095,
+          "128": 628984,
+          "192": 621393,
+          "224": 615593,
+          "250": 571675
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "16": [
+            5,
+            3,
+            1024,
+            1514
+          ],
+          "64": [
+            6,
+            4,
+            1023,
+            1514
+          ],
+          "128": [
+            6,
+            4,
+            1023,
+            1513
+          ],
+          "192": [
+            6,
+            4,
+            1022,
+            1513
+          ],
+          "224": [
+            7,
+            5,
+            1022,
+            1513
+          ],
+          "250": [
+            8,
+            5,
+            1022,
+            1512
+          ]
+        },
+        "opaque_core_bbox": [
+          6,
+          4,
+          1023,
+          1513
+        ],
+        "soft_fringe_bbox": [
+          5,
+          3,
+          1024,
+          1514
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 5,
+        "y": 3,
+        "width": 1019,
+        "height": 1511
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 6,
+        "y": 4,
+        "width": 1017,
+        "height": 1509
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 99.51,
+        "height": 98.37
+      },
+      "composition_notes": [
+        "白/濃色へのRGBA合成で輪郭は概ねクリーン。目立つ白マットや背景残りは見えず、alpha=0領域の隠れRGBは合成に出ない。",
+        "alpha>=16の有効範囲がキャンバス端に接する。接する側を内側へ切らない。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "alpha>=16のbboxを基準に各辺3-5%の余白を加える。alpha>=128で切ると細い髪先、縁、柔らかな効果を欠く場合がある。",
+        "full_canvas": false,
+        "scale_for_90pct_of_1080p_frame_height": 0.6433,
+        "scale_for_100pct_of_1080p_frame_height": 0.7148
+      }
+    },
+    {
+      "file": "character_a_cheer.png",
+      "sha256": "4fad6c04cda005b0928af28bd467d25e32e323ec7d549cf934ed4e3a23d26760",
+      "category": "character_a",
+      "mode": "RGBA",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "alpha": {
+        "has_alpha_channel_or_transparency": true,
+        "alpha_min_max": [
+          0,
+          254
+        ],
+        "alpha_zero_pixels": 910764,
+        "alpha_nonzero_pixels": 662100,
+        "alpha_nonzero_percent": 42.0952,
+        "alpha_counts_at_or_above": {
+          "1": 662100,
+          "16": 588415,
+          "64": 578997,
+          "128": 572147,
+          "192": 564938,
+          "224": 559019,
+          "250": 509202
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            0,
+            0,
+            1008,
+            1494
+          ],
+          "16": [
+            27,
+            3,
+            1003,
+            1491
+          ],
+          "64": [
+            28,
+            4,
+            1003,
+            1491
+          ],
+          "128": [
+            28,
+            4,
+            1002,
+            1490
+          ],
+          "192": [
+            28,
+            5,
+            1002,
+            1490
+          ],
+          "224": [
+            29,
+            5,
+            1002,
+            1490
+          ],
+          "250": [
+            31,
+            8,
+            993,
+            1489
+          ]
+        },
+        "opaque_core_bbox": [
+          28,
+          4,
+          1002,
+          1490
+        ],
+        "soft_fringe_bbox": [
+          27,
+          3,
+          1003,
+          1491
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 27,
+        "y": 3,
+        "width": 976,
+        "height": 1488
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 28,
+        "y": 4,
+        "width": 974,
+        "height": 1486
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 95.31,
+        "height": 96.88
+      },
+      "composition_notes": [
+        "白/濃色へのRGBA合成で輪郭は概ねクリーン。目立つ白マットや背景残りは見えず、alpha=0領域の隠れRGBは合成に出ない。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "alpha>=16のbboxを基準に各辺3-5%の余白を加える。alpha>=128で切ると細い髪先、縁、柔らかな効果を欠く場合がある。",
+        "full_canvas": false,
+        "scale_for_90pct_of_1080p_frame_height": 0.6532,
+        "scale_for_100pct_of_1080p_frame_height": 0.7258
+      }
+    },
+    {
+      "file": "character_a_design.png",
+      "sha256": "19c8bf7e909039c4328a1e8b22baccafb688a23e6ba8a7269541ef7a28268d1e",
+      "category": "character_a",
+      "mode": "RGB",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "alpha": {
+        "has_alpha_channel_or_transparency": false,
+        "alpha_min_max": [
+          255,
+          255
+        ],
+        "alpha_zero_pixels": 0,
+        "alpha_nonzero_pixels": 1572864,
+        "alpha_nonzero_percent": 100.0,
+        "alpha_counts_at_or_above": {
+          "1": 1572864,
+          "16": 1572864,
+          "64": 1572864,
+          "128": 1572864,
+          "192": 1572864,
+          "224": 1572864,
+          "250": 1572864
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "16": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "64": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "128": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "192": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "224": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "250": [
+            0,
+            0,
+            1024,
+            1536
+          ]
+        },
+        "opaque_core_bbox": [
+          0,
+          0,
+          1024,
+          1536
+        ],
+        "soft_fringe_bbox": [
+          0,
+          0,
+          1024,
+          1536
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1536
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1536
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "composition_notes": [
+        "不透明な白背景の設定/ターンアラウンド参照シート。動画の人物切り抜き素材としては使わない。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "alpha>=16のbboxを基準に各辺3-5%の余白を加える。alpha>=128で切ると細い髪先、縁、柔らかな効果を欠く場合がある。",
+        "full_canvas": true
+      }
+    },
+    {
+      "file": "character_a_peace.png",
+      "sha256": "ec92b4715e5d21e5b23b646c4d17768f6bc7555ae407ecc2ebf68bb5665e093a",
+      "category": "character_a",
+      "mode": "RGBA",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "alpha": {
+        "has_alpha_channel_or_transparency": true,
+        "alpha_min_max": [
+          0,
+          254
+        ],
+        "alpha_zero_pixels": 844230,
+        "alpha_nonzero_pixels": 728634,
+        "alpha_nonzero_percent": 46.3253,
+        "alpha_counts_at_or_above": {
+          "1": 728634,
+          "16": 651208,
+          "64": 642002,
+          "128": 634656,
+          "192": 627038,
+          "224": 620929,
+          "250": 564138
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            0,
+            0,
+            1013,
+            1536
+          ],
+          "16": [
+            23,
+            0,
+            1010,
+            1516
+          ],
+          "64": [
+            24,
+            2,
+            1010,
+            1515
+          ],
+          "128": [
+            24,
+            2,
+            1010,
+            1514
+          ],
+          "192": [
+            24,
+            3,
+            1009,
+            1514
+          ],
+          "224": [
+            25,
+            3,
+            1009,
+            1514
+          ],
+          "250": [
+            32,
+            13,
+            1009,
+            1512
+          ]
+        },
+        "opaque_core_bbox": [
+          24,
+          2,
+          1010,
+          1514
+        ],
+        "soft_fringe_bbox": [
+          23,
+          0,
+          1010,
+          1516
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 23,
+        "y": 0,
+        "width": 987,
+        "height": 1516
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 24,
+        "y": 2,
+        "width": 986,
+        "height": 1512
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 96.39,
+        "height": 98.7
+      },
+      "composition_notes": [
+        "白/濃色へのRGBA合成で輪郭は概ねクリーン。目立つ白マットや背景残りは見えず、alpha=0領域の隠れRGBは合成に出ない。",
+        "alpha>=16の有効範囲がキャンバス端に接する。接する側を内側へ切らない。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "alpha>=16のbboxを基準に各辺3-5%の余白を加える。alpha>=128で切ると細い髪先、縁、柔らかな効果を欠く場合がある。",
+        "full_canvas": false,
+        "scale_for_90pct_of_1080p_frame_height": 0.6412,
+        "scale_for_100pct_of_1080p_frame_height": 0.7124
+      }
+    },
+    {
+      "file": "character_a_phone_check.png",
+      "sha256": "7fcf23ebdbe7e598278f7ec5de509e810643b672c674ea92c0d426ae7681b189",
+      "category": "character_a",
+      "mode": "RGBA",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "alpha": {
+        "has_alpha_channel_or_transparency": true,
+        "alpha_min_max": [
+          0,
+          254
+        ],
+        "alpha_zero_pixels": 929097,
+        "alpha_nonzero_pixels": 643767,
+        "alpha_nonzero_percent": 40.9296,
+        "alpha_counts_at_or_above": {
+          "1": 643767,
+          "16": 585762,
+          "64": 577912,
+          "128": 571843,
+          "192": 565316,
+          "224": 560218,
+          "250": 517446
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            0,
+            0,
+            1010,
+            1519
+          ],
+          "16": [
+            150,
+            8,
+            923,
+            1517
+          ],
+          "64": [
+            151,
+            8,
+            923,
+            1516
+          ],
+          "128": [
+            151,
+            9,
+            923,
+            1516
+          ],
+          "192": [
+            151,
+            9,
+            922,
+            1516
+          ],
+          "224": [
+            152,
+            9,
+            922,
+            1516
+          ],
+          "250": [
+            152,
+            14,
+            920,
+            1515
+          ]
+        },
+        "opaque_core_bbox": [
+          151,
+          9,
+          923,
+          1516
+        ],
+        "soft_fringe_bbox": [
+          150,
+          8,
+          923,
+          1517
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 150,
+        "y": 8,
+        "width": 773,
+        "height": 1509
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 151,
+        "y": 9,
+        "width": 772,
+        "height": 1507
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 75.49,
+        "height": 98.24
+      },
+      "composition_notes": [
+        "白/濃色へのRGBA合成で輪郭は概ねクリーン。目立つ白マットや背景残りは見えず、alpha=0領域の隠れRGBは合成に出ない。",
+        "スマホのB写真と浮遊ハートもalpha>=16範囲に含む。目線はスマホ側。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "alpha>=16のbboxを基準に各辺3-5%の余白を加える。alpha>=128で切ると細い髪先、縁、柔らかな効果を欠く場合がある。",
+        "full_canvas": false,
+        "scale_for_90pct_of_1080p_frame_height": 0.6441,
+        "scale_for_100pct_of_1080p_frame_height": 0.7157
+      }
+    },
+    {
+      "file": "character_a_turnaround.png",
+      "sha256": "749fdcb4ace918f26e3efc4ad91b7dd1bb1c6a1ae5e7dc274b5570320ffd3084",
+      "category": "character_a",
+      "mode": "RGB",
+      "width": 1536,
+      "height": 1024,
+      "aspect_ratio": 1.5,
+      "alpha": {
+        "has_alpha_channel_or_transparency": false,
+        "alpha_min_max": [
+          255,
+          255
+        ],
+        "alpha_zero_pixels": 0,
+        "alpha_nonzero_pixels": 1572864,
+        "alpha_nonzero_percent": 100.0,
+        "alpha_counts_at_or_above": {
+          "1": 1572864,
+          "16": 1572864,
+          "64": 1572864,
+          "128": 1572864,
+          "192": 1572864,
+          "224": 1572864,
+          "250": 1572864
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            0,
+            0,
+            1536,
+            1024
+          ],
+          "16": [
+            0,
+            0,
+            1536,
+            1024
+          ],
+          "64": [
+            0,
+            0,
+            1536,
+            1024
+          ],
+          "128": [
+            0,
+            0,
+            1536,
+            1024
+          ],
+          "192": [
+            0,
+            0,
+            1536,
+            1024
+          ],
+          "224": [
+            0,
+            0,
+            1536,
+            1024
+          ],
+          "250": [
+            0,
+            0,
+            1536,
+            1024
+          ]
+        },
+        "opaque_core_bbox": [
+          0,
+          0,
+          1536,
+          1024
+        ],
+        "soft_fringe_bbox": [
+          0,
+          0,
+          1536,
+          1024
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 0,
+        "y": 0,
+        "width": 1536,
+        "height": 1024
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 0,
+        "y": 0,
+        "width": 1536,
+        "height": 1024
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "composition_notes": [
+        "不透明な白背景の設定/ターンアラウンド参照シート。動画の人物切り抜き素材としては使わない。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "alpha>=16のbboxを基準に各辺3-5%の余白を加える。alpha>=128で切ると細い髪先、縁、柔らかな効果を欠く場合がある。",
+        "full_canvas": true
+      }
+    },
+    {
+      "file": "character_a_wait.png",
+      "sha256": "fac6bca36763a46328c2228e54ac3b501cdcea913e9d9f3ee4fcb790ee1e5377",
+      "category": "character_a",
+      "mode": "RGBA",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "alpha": {
+        "has_alpha_channel_or_transparency": true,
+        "alpha_min_max": [
+          0,
+          254
+        ],
+        "alpha_zero_pixels": 814251,
+        "alpha_nonzero_pixels": 758613,
+        "alpha_nonzero_percent": 48.2313,
+        "alpha_counts_at_or_above": {
+          "1": 758613,
+          "16": 694835,
+          "64": 686674,
+          "128": 680076,
+          "192": 672973,
+          "224": 667318,
+          "250": 624505
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "16": [
+            31,
+            9,
+            1018,
+            1505
+          ],
+          "64": [
+            32,
+            10,
+            1017,
+            1505
+          ],
+          "128": [
+            32,
+            10,
+            1017,
+            1504
+          ],
+          "192": [
+            32,
+            10,
+            1016,
+            1504
+          ],
+          "224": [
+            33,
+            11,
+            1016,
+            1504
+          ],
+          "250": [
+            33,
+            21,
+            1015,
+            1503
+          ]
+        },
+        "opaque_core_bbox": [
+          32,
+          10,
+          1017,
+          1504
+        ],
+        "soft_fringe_bbox": [
+          31,
+          9,
+          1018,
+          1505
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 31,
+        "y": 9,
+        "width": 987,
+        "height": 1496
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 32,
+        "y": 10,
+        "width": 985,
+        "height": 1494
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 96.39,
+        "height": 97.4
+      },
+      "composition_notes": [
+        "白/濃色へのRGBA合成で輪郭は概ねクリーン。目立つ白マットや背景残りは見えず、alpha=0領域の隠れRGBは合成に出ない。",
+        "画面外へ手を伸ばすリアクション。スマホを見る場面とは目線が切り替わる。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "alpha>=16のbboxを基準に各辺3-5%の余白を加える。alpha>=128で切ると細い髪先、縁、柔らかな効果を欠く場合がある。",
+        "full_canvas": false,
+        "scale_for_90pct_of_1080p_frame_height": 0.6497,
+        "scale_for_100pct_of_1080p_frame_height": 0.7219
+      }
+    },
+    {
+      "file": "character_b_apple.png",
+      "sha256": "7660c506fdbe36a7b5b2eca3eee59674d71f46e3f506bd35f70e4d472b921930",
+      "category": "character_b",
+      "mode": "RGBA",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "alpha": {
+        "has_alpha_channel_or_transparency": true,
+        "alpha_min_max": [
+          0,
+          254
+        ],
+        "alpha_zero_pixels": 1146390,
+        "alpha_nonzero_pixels": 426474,
+        "alpha_nonzero_percent": 27.1145,
+        "alpha_counts_at_or_above": {
+          "1": 426474,
+          "16": 399445,
+          "64": 395746,
+          "128": 392813,
+          "192": 389742,
+          "224": 387414,
+          "250": 373742
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            65,
+            0,
+            1010,
+            1520
+          ],
+          "16": [
+            268,
+            5,
+            886,
+            1512
+          ],
+          "64": [
+            268,
+            6,
+            886,
+            1511
+          ],
+          "128": [
+            269,
+            7,
+            885,
+            1511
+          ],
+          "192": [
+            269,
+            8,
+            885,
+            1511
+          ],
+          "224": [
+            269,
+            8,
+            885,
+            1510
+          ],
+          "250": [
+            270,
+            10,
+            881,
+            1510
+          ]
+        },
+        "opaque_core_bbox": [
+          269,
+          7,
+          885,
+          1511
+        ],
+        "soft_fringe_bbox": [
+          268,
+          5,
+          886,
+          1512
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 268,
+        "y": 5,
+        "width": 618,
+        "height": 1507
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 269,
+        "y": 7,
+        "width": 616,
+        "height": 1504
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 60.35,
+        "height": 98.11
+      },
+      "composition_notes": [
+        "白/濃色へのRGBA合成で輪郭は概ねクリーン。目立つ白マットや背景残りは見えず、alpha=0領域の隠れRGBは合成に出ない。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "alpha>=16のbboxを基準に各辺3-5%の余白を加える。alpha>=128で切ると細い髪先、縁、柔らかな効果を欠く場合がある。",
+        "full_canvas": false,
+        "scale_for_90pct_of_1080p_frame_height": 0.645,
+        "scale_for_100pct_of_1080p_frame_height": 0.7167
+      }
+    },
+    {
+      "file": "character_b_cheer.png",
+      "sha256": "a4ae5436fdec5b37ed396fd589167756c03f824bdda7e562392e23f11e0ca4c4",
+      "category": "character_b",
+      "mode": "RGBA",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "alpha": {
+        "has_alpha_channel_or_transparency": true,
+        "alpha_min_max": [
+          0,
+          254
+        ],
+        "alpha_zero_pixels": 1150487,
+        "alpha_nonzero_pixels": 422377,
+        "alpha_nonzero_percent": 26.854,
+        "alpha_counts_at_or_above": {
+          "1": 422377,
+          "16": 396823,
+          "64": 393391,
+          "128": 390400,
+          "192": 387431,
+          "224": 385073,
+          "250": 370549
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            0,
+            0,
+            1012,
+            1520
+          ],
+          "16": [
+            218,
+            8,
+            847,
+            1517
+          ],
+          "64": [
+            218,
+            8,
+            847,
+            1517
+          ],
+          "128": [
+            218,
+            8,
+            846,
+            1516
+          ],
+          "192": [
+            219,
+            9,
+            846,
+            1516
+          ],
+          "224": [
+            219,
+            9,
+            846,
+            1516
+          ],
+          "250": [
+            221,
+            15,
+            845,
+            1515
+          ]
+        },
+        "opaque_core_bbox": [
+          218,
+          8,
+          846,
+          1516
+        ],
+        "soft_fringe_bbox": [
+          218,
+          8,
+          847,
+          1517
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 218,
+        "y": 8,
+        "width": 629,
+        "height": 1509
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 218,
+        "y": 8,
+        "width": 628,
+        "height": 1508
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 61.43,
+        "height": 98.24
+      },
+      "composition_notes": [
+        "白/濃色へのRGBA合成で輪郭は概ねクリーン。目立つ白マットや背景残りは見えず、alpha=0領域の隠れRGBは合成に出ない。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "alpha>=16のbboxを基準に各辺3-5%の余白を加える。alpha>=128で切ると細い髪先、縁、柔らかな効果を欠く場合がある。",
+        "full_canvas": false,
+        "scale_for_90pct_of_1080p_frame_height": 0.6441,
+        "scale_for_100pct_of_1080p_frame_height": 0.7157
+      }
+    },
+    {
+      "file": "character_b_dance.png",
+      "sha256": "ae6f76fe18ffe693b155b43515f691fd0cd8aaad90a61cc63677d3a55ecb74bf",
+      "category": "character_b",
+      "mode": "RGBA",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "alpha": {
+        "has_alpha_channel_or_transparency": true,
+        "alpha_min_max": [
+          0,
+          254
+        ],
+        "alpha_zero_pixels": 1171845,
+        "alpha_nonzero_pixels": 401019,
+        "alpha_nonzero_percent": 25.4961,
+        "alpha_counts_at_or_above": {
+          "1": 401019,
+          "16": 372250,
+          "64": 367805,
+          "128": 364307,
+          "192": 360707,
+          "224": 357964,
+          "250": 342189
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            45,
+            15,
+            1016,
+            1492
+          ],
+          "16": [
+            137,
+            17,
+            1012,
+            1490
+          ],
+          "64": [
+            138,
+            18,
+            1011,
+            1490
+          ],
+          "128": [
+            138,
+            18,
+            1011,
+            1489
+          ],
+          "192": [
+            138,
+            18,
+            1011,
+            1489
+          ],
+          "224": [
+            139,
+            19,
+            1010,
+            1489
+          ],
+          "250": [
+            141,
+            22,
+            1006,
+            1488
+          ]
+        },
+        "opaque_core_bbox": [
+          138,
+          18,
+          1011,
+          1489
+        ],
+        "soft_fringe_bbox": [
+          137,
+          17,
+          1012,
+          1490
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 137,
+        "y": 17,
+        "width": 875,
+        "height": 1473
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 138,
+        "y": 18,
+        "width": 873,
+        "height": 1471
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 85.45,
+        "height": 95.9
+      },
+      "composition_notes": [
+        "白/濃色へのRGBA合成で輪郭は概ねクリーン。目立つ白マットや背景残りは見えず、alpha=0領域の隠れRGBは合成に出ない。",
+        "対角線の強いダンス姿勢で、顔は画面右上寄り。正面目線のポーズとの直結は避けるか動きでつなぐ。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "alpha>=16のbboxを基準に各辺3-5%の余白を加える。alpha>=128で切ると細い髪先、縁、柔らかな効果を欠く場合がある。",
+        "full_canvas": false,
+        "scale_for_90pct_of_1080p_frame_height": 0.6599,
+        "scale_for_100pct_of_1080p_frame_height": 0.7332
+      }
+    },
+    {
+      "file": "character_b_design.png",
+      "sha256": "9cc6628e4e9451149824d58705460d4069babe0a98a3fff1a73515497a65c55a",
+      "category": "character_b",
+      "mode": "RGB",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "alpha": {
+        "has_alpha_channel_or_transparency": false,
+        "alpha_min_max": [
+          255,
+          255
+        ],
+        "alpha_zero_pixels": 0,
+        "alpha_nonzero_pixels": 1572864,
+        "alpha_nonzero_percent": 100.0,
+        "alpha_counts_at_or_above": {
+          "1": 1572864,
+          "16": 1572864,
+          "64": 1572864,
+          "128": 1572864,
+          "192": 1572864,
+          "224": 1572864,
+          "250": 1572864
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "16": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "64": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "128": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "192": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "224": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "250": [
+            0,
+            0,
+            1024,
+            1536
+          ]
+        },
+        "opaque_core_bbox": [
+          0,
+          0,
+          1024,
+          1536
+        ],
+        "soft_fringe_bbox": [
+          0,
+          0,
+          1024,
+          1536
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1536
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1536
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "composition_notes": [
+        "不透明な白背景の設定/ターンアラウンド参照シート。動画の人物切り抜き素材としては使わない。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "alpha>=16のbboxを基準に各辺3-5%の余白を加える。alpha>=128で切ると細い髪先、縁、柔らかな効果を欠く場合がある。",
+        "full_canvas": true
+      }
+    },
+    {
+      "file": "character_b_heartthief.png",
+      "sha256": "6431e90e1a271a78b092d174ec9b45b992505e22b9c580576c4e9e405b7fe248",
+      "category": "character_b",
+      "mode": "RGBA",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "alpha": {
+        "has_alpha_channel_or_transparency": true,
+        "alpha_min_max": [
+          0,
+          254
+        ],
+        "alpha_zero_pixels": 1147552,
+        "alpha_nonzero_pixels": 425312,
+        "alpha_nonzero_percent": 27.0406,
+        "alpha_counts_at_or_above": {
+          "1": 425312,
+          "16": 389028,
+          "64": 384277,
+          "128": 380630,
+          "192": 376932,
+          "224": 374115,
+          "250": 356799
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            65,
+            0,
+            1010,
+            1521
+          ],
+          "16": [
+            234,
+            9,
+            846,
+            1515
+          ],
+          "64": [
+            234,
+            9,
+            845,
+            1514
+          ],
+          "128": [
+            235,
+            10,
+            845,
+            1514
+          ],
+          "192": [
+            235,
+            10,
+            844,
+            1514
+          ],
+          "224": [
+            235,
+            10,
+            844,
+            1513
+          ],
+          "250": [
+            238,
+            17,
+            842,
+            1513
+          ]
+        },
+        "opaque_core_bbox": [
+          235,
+          10,
+          845,
+          1514
+        ],
+        "soft_fringe_bbox": [
+          234,
+          9,
+          846,
+          1515
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 234,
+        "y": 9,
+        "width": 612,
+        "height": 1506
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 235,
+        "y": 10,
+        "width": 610,
+        "height": 1504
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 59.77,
+        "height": 98.05
+      },
+      "composition_notes": [
+        "白/濃色へのRGBA合成で輪郭は概ねクリーン。目立つ白マットや背景残りは見えず、alpha=0領域の隠れRGBは合成に出ない。",
+        "周囲のハートも人物範囲に含む。ハートを残す構図ではalpha>=16境界に余白を取る。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "alpha>=16のbboxを基準に各辺3-5%の余白を加える。alpha>=128で切ると細い髪先、縁、柔らかな効果を欠く場合がある。",
+        "full_canvas": false,
+        "scale_for_90pct_of_1080p_frame_height": 0.6454,
+        "scale_for_100pct_of_1080p_frame_height": 0.7171
+      }
+    },
+    {
+      "file": "character_b_peace.png",
+      "sha256": "2a8af904baf0389616f4fe06f656051636545289c88454eccfda28e7b57c60ad",
+      "category": "character_b",
+      "mode": "RGBA",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "alpha": {
+        "has_alpha_channel_or_transparency": true,
+        "alpha_min_max": [
+          0,
+          254
+        ],
+        "alpha_zero_pixels": 1101974,
+        "alpha_nonzero_pixels": 470890,
+        "alpha_nonzero_percent": 29.9384,
+        "alpha_counts_at_or_above": {
+          "1": 470890,
+          "16": 431832,
+          "64": 427180,
+          "128": 423496,
+          "192": 419921,
+          "224": 417177,
+          "250": 399141
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            49,
+            0,
+            1012,
+            1522
+          ],
+          "16": [
+            227,
+            9,
+            881,
+            1514
+          ],
+          "64": [
+            228,
+            10,
+            881,
+            1514
+          ],
+          "128": [
+            228,
+            11,
+            880,
+            1513
+          ],
+          "192": [
+            229,
+            12,
+            880,
+            1513
+          ],
+          "224": [
+            229,
+            13,
+            880,
+            1512
+          ],
+          "250": [
+            229,
+            25,
+            879,
+            1511
+          ]
+        },
+        "opaque_core_bbox": [
+          228,
+          11,
+          880,
+          1513
+        ],
+        "soft_fringe_bbox": [
+          227,
+          9,
+          881,
+          1514
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 227,
+        "y": 9,
+        "width": 654,
+        "height": 1505
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 228,
+        "y": 11,
+        "width": 652,
+        "height": 1502
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 63.87,
+        "height": 97.98
+      },
+      "composition_notes": [
+        "白/濃色へのRGBA合成で輪郭は概ねクリーン。目立つ白マットや背景残りは見えず、alpha=0領域の隠れRGBは合成に出ない。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "alpha>=16のbboxを基準に各辺3-5%の余白を加える。alpha>=128で切ると細い髪先、縁、柔らかな効果を欠く場合がある。",
+        "full_canvas": false,
+        "scale_for_90pct_of_1080p_frame_height": 0.6458,
+        "scale_for_100pct_of_1080p_frame_height": 0.7176
+      }
+    },
+    {
+      "file": "character_b_point.png",
+      "sha256": "a550a2161e93e5403e06dc870a310ffc5519ce184f52cd8ac897f399aa4761a1",
+      "category": "character_b",
+      "mode": "RGBA",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "alpha": {
+        "has_alpha_channel_or_transparency": true,
+        "alpha_min_max": [
+          0,
+          254
+        ],
+        "alpha_zero_pixels": 1140600,
+        "alpha_nonzero_pixels": 432264,
+        "alpha_nonzero_percent": 27.4826,
+        "alpha_counts_at_or_above": {
+          "1": 432264,
+          "16": 399436,
+          "64": 395317,
+          "128": 392207,
+          "192": 389109,
+          "224": 386765,
+          "250": 371162
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            169,
+            0,
+            1010,
+            1507
+          ],
+          "16": [
+            224,
+            7,
+            866,
+            1504
+          ],
+          "64": [
+            225,
+            7,
+            865,
+            1504
+          ],
+          "128": [
+            225,
+            8,
+            865,
+            1504
+          ],
+          "192": [
+            225,
+            8,
+            865,
+            1503
+          ],
+          "224": [
+            225,
+            8,
+            864,
+            1503
+          ],
+          "250": [
+            226,
+            19,
+            864,
+            1503
+          ]
+        },
+        "opaque_core_bbox": [
+          225,
+          8,
+          865,
+          1504
+        ],
+        "soft_fringe_bbox": [
+          224,
+          7,
+          866,
+          1504
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 224,
+        "y": 7,
+        "width": 642,
+        "height": 1497
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 225,
+        "y": 8,
+        "width": 640,
+        "height": 1496
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 62.7,
+        "height": 97.46
+      },
+      "composition_notes": [
+        "白/濃色へのRGBA合成で輪郭は概ねクリーン。目立つ白マットや背景残りは見えず、alpha=0領域の隠れRGBは合成に出ない。",
+        "指差しと目線が視聴者側を向く正面ポーズ。Bのダンス姿勢とは視線方向が異なる。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "alpha>=16のbboxを基準に各辺3-5%の余白を加える。alpha>=128で切ると細い髪先、縁、柔らかな効果を欠く場合がある。",
+        "full_canvas": false,
+        "scale_for_90pct_of_1080p_frame_height": 0.6493,
+        "scale_for_100pct_of_1080p_frame_height": 0.7214
+      }
+    },
+    {
+      "file": "character_b_turnaround.png",
+      "sha256": "7babb94db46ee9266bff79bbe4bf527fb316b39a3718572d1886842c1e3ee55e",
+      "category": "character_b",
+      "mode": "RGB",
+      "width": 1536,
+      "height": 1024,
+      "aspect_ratio": 1.5,
+      "alpha": {
+        "has_alpha_channel_or_transparency": false,
+        "alpha_min_max": [
+          255,
+          255
+        ],
+        "alpha_zero_pixels": 0,
+        "alpha_nonzero_pixels": 1572864,
+        "alpha_nonzero_percent": 100.0,
+        "alpha_counts_at_or_above": {
+          "1": 1572864,
+          "16": 1572864,
+          "64": 1572864,
+          "128": 1572864,
+          "192": 1572864,
+          "224": 1572864,
+          "250": 1572864
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            0,
+            0,
+            1536,
+            1024
+          ],
+          "16": [
+            0,
+            0,
+            1536,
+            1024
+          ],
+          "64": [
+            0,
+            0,
+            1536,
+            1024
+          ],
+          "128": [
+            0,
+            0,
+            1536,
+            1024
+          ],
+          "192": [
+            0,
+            0,
+            1536,
+            1024
+          ],
+          "224": [
+            0,
+            0,
+            1536,
+            1024
+          ],
+          "250": [
+            0,
+            0,
+            1536,
+            1024
+          ]
+        },
+        "opaque_core_bbox": [
+          0,
+          0,
+          1536,
+          1024
+        ],
+        "soft_fringe_bbox": [
+          0,
+          0,
+          1536,
+          1024
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 0,
+        "y": 0,
+        "width": 1536,
+        "height": 1024
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 0,
+        "y": 0,
+        "width": 1536,
+        "height": 1024
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "composition_notes": [
+        "不透明な白背景の設定/ターンアラウンド参照シート。動画の人物切り抜き素材としては使わない。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "alpha>=16のbboxを基準に各辺3-5%の余白を加える。alpha>=128で切ると細い髪先、縁、柔らかな効果を欠く場合がある。",
+        "full_canvas": true
+      }
+    },
+    {
+      "file": "prop_bitten_apple.png",
+      "sha256": "7afa8527b9361b701fef32a6fce567aaa6887980c1b56c639ca9be26f5369687",
+      "category": "prop",
+      "mode": "RGBA",
+      "width": 1230,
+      "height": 1278,
+      "aspect_ratio": 0.96244,
+      "alpha": {
+        "has_alpha_channel_or_transparency": true,
+        "alpha_min_max": [
+          0,
+          255
+        ],
+        "alpha_zero_pixels": 757738,
+        "alpha_nonzero_pixels": 814202,
+        "alpha_nonzero_percent": 51.796,
+        "alpha_counts_at_or_above": {
+          "1": 814202,
+          "16": 803828,
+          "64": 802121,
+          "128": 800543,
+          "192": 798950,
+          "224": 797889,
+          "250": 732780
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            0,
+            48,
+            1122,
+            1246
+          ],
+          "16": [
+            131,
+            52,
+            1119,
+            1195
+          ],
+          "64": [
+            131,
+            53,
+            1119,
+            1195
+          ],
+          "128": [
+            132,
+            53,
+            1119,
+            1195
+          ],
+          "192": [
+            132,
+            54,
+            1118,
+            1194
+          ],
+          "224": [
+            133,
+            54,
+            1118,
+            1194
+          ],
+          "250": [
+            133,
+            54,
+            1118,
+            1194
+          ]
+        },
+        "opaque_core_bbox": [
+          132,
+          53,
+          1119,
+          1195
+        ],
+        "soft_fringe_bbox": [
+          131,
+          52,
+          1119,
+          1195
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 131,
+        "y": 52,
+        "width": 988,
+        "height": 1143
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 132,
+        "y": 53,
+        "width": 987,
+        "height": 1142
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 80.33,
+        "height": 89.44
+      },
+      "composition_notes": [
+        "透明PNG。alpha>=16の小物/きらめき範囲を使い、輪郭の柔らかい部分を含めて拡大縮小する。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "alpha>=16のbboxを基準に各辺3-5%の余白を加える。alpha>=128で切ると細い髪先、縁、柔らかな効果を欠く場合がある。",
+        "full_canvas": false,
+        "recommended_scale": "用途ごとに画面内の見せたい大きさを決める。人物と同じ1.0x上限を当てはめず、source boundsから出力pxを計算する。"
+      }
+    },
+    {
+      "file": "prop_generic_story_phone.png",
+      "sha256": "5ce5bc4fb8ef46b8ed3c208c3302c8adbd637b8891e35bc03cbb0cfb94349c39",
+      "category": "prop",
+      "mode": "RGBA",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "alpha": {
+        "has_alpha_channel_or_transparency": true,
+        "alpha_min_max": [
+          0,
+          254
+        ],
+        "alpha_zero_pixels": 688244,
+        "alpha_nonzero_pixels": 884620,
+        "alpha_nonzero_percent": 56.2426,
+        "alpha_counts_at_or_above": {
+          "1": 884620,
+          "16": 877380,
+          "64": 876087,
+          "128": 874883,
+          "192": 873661,
+          "224": 872845,
+          "250": 868699
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            0,
+            70,
+            1018,
+            1536
+          ],
+          "16": [
+            32,
+            72,
+            1014,
+            1456
+          ],
+          "64": [
+            33,
+            72,
+            1013,
+            1456
+          ],
+          "128": [
+            33,
+            72,
+            1013,
+            1456
+          ],
+          "192": [
+            33,
+            73,
+            1013,
+            1456
+          ],
+          "224": [
+            33,
+            73,
+            1013,
+            1455
+          ],
+          "250": [
+            34,
+            74,
+            1012,
+            1455
+          ]
+        },
+        "opaque_core_bbox": [
+          33,
+          72,
+          1013,
+          1456
+        ],
+        "soft_fringe_bbox": [
+          32,
+          72,
+          1014,
+          1456
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 32,
+        "y": 72,
+        "width": 982,
+        "height": 1384
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 33,
+        "y": 72,
+        "width": 980,
+        "height": 1384
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 95.9,
+        "height": 90.1
+      },
+      "composition_notes": [
+        "透明PNG。alpha>=16の小物/きらめき範囲を使い、輪郭の柔らかい部分を含めて拡大縮小する。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "alpha>=16のbboxを基準に各辺3-5%の余白を加える。alpha>=128で切ると細い髪先、縁、柔らかな効果を欠く場合がある。",
+        "full_canvas": false,
+        "recommended_scale": "用途ごとに画面内の見せたい大きさを決める。人物と同じ1.0x上限を当てはめず、source boundsから出力pxを計算する。"
+      }
+    },
+    {
+      "file": "prop_love_charm.png",
+      "sha256": "cfd41323761132638637f50bca6bf9aba7219ad70cb9a857ce58940d38310a7e",
+      "category": "prop",
+      "mode": "RGBA",
+      "width": 1230,
+      "height": 1278,
+      "aspect_ratio": 0.96244,
+      "alpha": {
+        "has_alpha_channel_or_transparency": true,
+        "alpha_min_max": [
+          0,
+          255
+        ],
+        "alpha_zero_pixels": 1074394,
+        "alpha_nonzero_pixels": 497546,
+        "alpha_nonzero_percent": 31.6517,
+        "alpha_counts_at_or_above": {
+          "1": 497546,
+          "16": 475846,
+          "64": 472618,
+          "128": 469791,
+          "192": 466901,
+          "224": 464856,
+          "250": 451931
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            0,
+            27,
+            1213,
+            1249
+          ],
+          "16": [
+            119,
+            30,
+            1206,
+            1247
+          ],
+          "64": [
+            119,
+            30,
+            1206,
+            1246
+          ],
+          "128": [
+            119,
+            31,
+            1205,
+            1246
+          ],
+          "192": [
+            120,
+            31,
+            1205,
+            1245
+          ],
+          "224": [
+            120,
+            31,
+            1204,
+            1245
+          ],
+          "250": [
+            120,
+            32,
+            1204,
+            1245
+          ]
+        },
+        "opaque_core_bbox": [
+          119,
+          31,
+          1205,
+          1246
+        ],
+        "soft_fringe_bbox": [
+          119,
+          30,
+          1206,
+          1247
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 119,
+        "y": 30,
+        "width": 1087,
+        "height": 1217
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 119,
+        "y": 31,
+        "width": 1086,
+        "height": 1215
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 88.37,
+        "height": 95.23
+      },
+      "composition_notes": [
+        "透明PNG。alpha>=16の小物/きらめき範囲を使い、輪郭の柔らかい部分を含めて拡大縮小する。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "alpha>=16のbboxを基準に各辺3-5%の余白を加える。alpha>=128で切ると細い髪先、縁、柔らかな効果を欠く場合がある。",
+        "full_canvas": false,
+        "recommended_scale": "用途ごとに画面内の見せたい大きさを決める。人物と同じ1.0x上限を当てはめず、source boundsから出力pxを計算する。"
+      }
+    },
+    {
+      "file": "prop_pinky_ring.png",
+      "sha256": "909d9d08463fba2bc1e37ddf2c4031593337b8f278479f4d4e729ac628ce482c",
+      "category": "prop",
+      "mode": "RGBA",
+      "width": 1230,
+      "height": 1278,
+      "aspect_ratio": 0.96244,
+      "alpha": {
+        "has_alpha_channel_or_transparency": true,
+        "alpha_min_max": [
+          0,
+          255
+        ],
+        "alpha_zero_pixels": 1261782,
+        "alpha_nonzero_pixels": 310158,
+        "alpha_nonzero_percent": 19.7309,
+        "alpha_counts_at_or_above": {
+          "1": 310158,
+          "16": 275973,
+          "64": 269805,
+          "128": 266105,
+          "192": 262722,
+          "224": 260408,
+          "250": 249658
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            0,
+            19,
+            1194,
+            1237
+          ],
+          "16": [
+            113,
+            185,
+            1142,
+            1030
+          ],
+          "64": [
+            114,
+            191,
+            1141,
+            1030
+          ],
+          "128": [
+            114,
+            196,
+            1141,
+            1029
+          ],
+          "192": [
+            115,
+            202,
+            1141,
+            1029
+          ],
+          "224": [
+            115,
+            217,
+            1140,
+            1029
+          ],
+          "250": [
+            116,
+            260,
+            1140,
+            1028
+          ]
+        },
+        "opaque_core_bbox": [
+          114,
+          196,
+          1141,
+          1029
+        ],
+        "soft_fringe_bbox": [
+          113,
+          185,
+          1142,
+          1030
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 113,
+        "y": 185,
+        "width": 1029,
+        "height": 845
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 114,
+        "y": 196,
+        "width": 1027,
+        "height": 833
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 83.66,
+        "height": 66.12
+      },
+      "composition_notes": [
+        "透明PNG。alpha>=16の小物/きらめき範囲を使い、輪郭の柔らかい部分を含めて拡大縮小する。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "alpha>=16のbboxを基準に各辺3-5%の余白を加える。alpha>=128で切ると細い髪先、縁、柔らかな効果を欠く場合がある。",
+        "full_canvas": false,
+        "recommended_scale": "用途ごとに画面内の見せたい大きさを決める。人物と同じ1.0x上限を当てはめず、source boundsから出力pxを計算する。"
+      }
+    },
+    {
+      "file": "silhouette_a_cheer_black.png",
+      "sha256": "bbc0276e9c7c453a7fc54fd3fd4a41feb9246d0f7e8dd1545d089aacb1b9eb08",
+      "category": "silhouette",
+      "mode": "RGBA",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "alpha": {
+        "has_alpha_channel_or_transparency": true,
+        "alpha_min_max": [
+          0,
+          254
+        ],
+        "alpha_zero_pixels": 990091,
+        "alpha_nonzero_pixels": 582773,
+        "alpha_nonzero_percent": 37.0517,
+        "alpha_counts_at_or_above": {
+          "1": 582773,
+          "16": 544396,
+          "64": 536952,
+          "128": 530277,
+          "192": 523211,
+          "224": 518373,
+          "250": 496240
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            25,
+            6,
+            1007,
+            1496
+          ],
+          "16": [
+            28,
+            9,
+            1005,
+            1492
+          ],
+          "64": [
+            28,
+            9,
+            1005,
+            1492
+          ],
+          "128": [
+            28,
+            9,
+            1005,
+            1492
+          ],
+          "192": [
+            28,
+            10,
+            1004,
+            1492
+          ],
+          "224": [
+            29,
+            10,
+            1004,
+            1491
+          ],
+          "250": [
+            29,
+            10,
+            1004,
+            1491
+          ]
+        },
+        "opaque_core_bbox": [
+          28,
+          9,
+          1005,
+          1492
+        ],
+        "soft_fringe_bbox": [
+          28,
+          9,
+          1005,
+          1492
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 28,
+        "y": 9,
+        "width": 977,
+        "height": 1483
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 28,
+        "y": 9,
+        "width": 977,
+        "height": 1483
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 95.41,
+        "height": 96.55
+      },
+      "composition_notes": [
+        "透明PNG上の黒シルエット。暗い背景では形が沈むため、明るい背景または明るい差し色の上に配置する。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "alpha>=16のbboxを基準に各辺3-5%の余白を加える。alpha>=128で切ると細い髪先、縁、柔らかな効果を欠く場合がある。",
+        "full_canvas": false,
+        "recommended_blend": "Normal alpha over a light or sufficiently colored background."
+      }
+    },
+    {
+      "file": "silhouette_a_cheer_white_blackbg.png",
+      "sha256": "4e841c12b9c8d2cef4f4f5b2f60384132fbac8cf9fa6e7ed83c6391c46d29425",
+      "category": "silhouette",
+      "mode": "RGB",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "alpha": {
+        "has_alpha_channel_or_transparency": false,
+        "alpha_min_max": [
+          255,
+          255
+        ],
+        "alpha_zero_pixels": 0,
+        "alpha_nonzero_pixels": 1572864,
+        "alpha_nonzero_percent": 100.0,
+        "alpha_counts_at_or_above": {
+          "1": 1572864,
+          "16": 1572864,
+          "64": 1572864,
+          "128": 1572864,
+          "192": 1572864,
+          "224": 1572864,
+          "250": 1572864
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "16": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "64": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "128": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "192": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "224": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "250": [
+            0,
+            0,
+            1024,
+            1536
+          ]
+        },
+        "opaque_core_bbox": [
+          0,
+          0,
+          1024,
+          1536
+        ],
+        "soft_fringe_bbox": [
+          0,
+          0,
+          1024,
+          1536
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1536
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1536
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "composition_notes": [
+        "不透明な黒背景に白いシルエット。黒を抜くScreen合成で使用する。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "透過素材ではない。黒背景を通常のクロップで切り抜かずScreen合成を使う。",
+        "full_canvas": true
+      }
+    },
+    {
+      "file": "silhouette_a_neutral_black.png",
+      "sha256": "5382f933e531709adbf619fbb17785d56ec6ffb4f16d4b977222ebde5a76d407",
+      "category": "silhouette",
+      "mode": "RGBA",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "alpha": {
+        "has_alpha_channel_or_transparency": true,
+        "alpha_min_max": [
+          0,
+          254
+        ],
+        "alpha_zero_pixels": 1039312,
+        "alpha_nonzero_pixels": 533552,
+        "alpha_nonzero_percent": 33.9223,
+        "alpha_counts_at_or_above": {
+          "1": 533552,
+          "16": 501147,
+          "64": 494779,
+          "128": 489179,
+          "192": 483230,
+          "224": 479067,
+          "250": 460689
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            69,
+            21,
+            1012,
+            1508
+          ],
+          "16": [
+            122,
+            23,
+            907,
+            1506
+          ],
+          "64": [
+            123,
+            23,
+            907,
+            1506
+          ],
+          "128": [
+            123,
+            23,
+            907,
+            1506
+          ],
+          "192": [
+            123,
+            24,
+            907,
+            1505
+          ],
+          "224": [
+            123,
+            24,
+            906,
+            1505
+          ],
+          "250": [
+            124,
+            24,
+            906,
+            1505
+          ]
+        },
+        "opaque_core_bbox": [
+          123,
+          23,
+          907,
+          1506
+        ],
+        "soft_fringe_bbox": [
+          122,
+          23,
+          907,
+          1506
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 122,
+        "y": 23,
+        "width": 785,
+        "height": 1483
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 123,
+        "y": 23,
+        "width": 784,
+        "height": 1483
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 76.66,
+        "height": 96.55
+      },
+      "composition_notes": [
+        "透明PNG上の黒シルエット。暗い背景では形が沈むため、明るい背景または明るい差し色の上に配置する。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "alpha>=16のbboxを基準に各辺3-5%の余白を加える。alpha>=128で切ると細い髪先、縁、柔らかな効果を欠く場合がある。",
+        "full_canvas": false,
+        "recommended_blend": "Normal alpha over a light or sufficiently colored background."
+      }
+    },
+    {
+      "file": "silhouette_a_peace_white_blackbg.png",
+      "sha256": "a26bfe6673502aaa2a746dde2501f9f4b8859adb4e026c7aecfd253ba66b5f9c",
+      "category": "silhouette",
+      "mode": "RGB",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "alpha": {
+        "has_alpha_channel_or_transparency": false,
+        "alpha_min_max": [
+          255,
+          255
+        ],
+        "alpha_zero_pixels": 0,
+        "alpha_nonzero_pixels": 1572864,
+        "alpha_nonzero_percent": 100.0,
+        "alpha_counts_at_or_above": {
+          "1": 1572864,
+          "16": 1572864,
+          "64": 1572864,
+          "128": 1572864,
+          "192": 1572864,
+          "224": 1572864,
+          "250": 1572864
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "16": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "64": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "128": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "192": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "224": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "250": [
+            0,
+            0,
+            1024,
+            1536
+          ]
+        },
+        "opaque_core_bbox": [
+          0,
+          0,
+          1024,
+          1536
+        ],
+        "soft_fringe_bbox": [
+          0,
+          0,
+          1024,
+          1536
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1536
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1536
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "composition_notes": [
+        "不透明な黒背景に白いシルエット。黒を抜くScreen合成で使用する。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "透過素材ではない。黒背景を通常のクロップで切り抜かずScreen合成を使う。",
+        "full_canvas": true
+      }
+    },
+    {
+      "file": "silhouette_b_dance_black.png",
+      "sha256": "3cbf92cc42a9d9478edf8759b72a19ef45842f18cecdbbf0408e72f8b4a3c005",
+      "category": "silhouette",
+      "mode": "RGBA",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "alpha": {
+        "has_alpha_channel_or_transparency": true,
+        "alpha_min_max": [
+          0,
+          254
+        ],
+        "alpha_zero_pixels": 1198309,
+        "alpha_nonzero_pixels": 374555,
+        "alpha_nonzero_percent": 23.8136,
+        "alpha_counts_at_or_above": {
+          "1": 374555,
+          "16": 355443,
+          "64": 352101,
+          "128": 349065,
+          "192": 345913,
+          "224": 343769,
+          "250": 333114
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            146,
+            11,
+            1003,
+            1493
+          ],
+          "16": [
+            148,
+            13,
+            1001,
+            1491
+          ],
+          "64": [
+            148,
+            13,
+            1000,
+            1490
+          ],
+          "128": [
+            148,
+            14,
+            1000,
+            1490
+          ],
+          "192": [
+            148,
+            14,
+            1000,
+            1490
+          ],
+          "224": [
+            149,
+            14,
+            1000,
+            1490
+          ],
+          "250": [
+            149,
+            17,
+            999,
+            1489
+          ]
+        },
+        "opaque_core_bbox": [
+          148,
+          14,
+          1000,
+          1490
+        ],
+        "soft_fringe_bbox": [
+          148,
+          13,
+          1001,
+          1491
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 148,
+        "y": 13,
+        "width": 853,
+        "height": 1478
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 148,
+        "y": 14,
+        "width": 852,
+        "height": 1476
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 83.3,
+        "height": 96.22
+      },
+      "composition_notes": [
+        "透明PNG上の黒シルエット。暗い背景では形が沈むため、明るい背景または明るい差し色の上に配置する。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "alpha>=16のbboxを基準に各辺3-5%の余白を加える。alpha>=128で切ると細い髪先、縁、柔らかな効果を欠く場合がある。",
+        "full_canvas": false,
+        "recommended_blend": "Normal alpha over a light or sufficiently colored background."
+      }
+    },
+    {
+      "file": "silhouette_b_dance_white_blackbg.png",
+      "sha256": "6c8ca20e8ef0d315254cfb78efff915a36e9422fe13d97408de4710cb1e55400",
+      "category": "silhouette",
+      "mode": "RGB",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "alpha": {
+        "has_alpha_channel_or_transparency": false,
+        "alpha_min_max": [
+          255,
+          255
+        ],
+        "alpha_zero_pixels": 0,
+        "alpha_nonzero_pixels": 1572864,
+        "alpha_nonzero_percent": 100.0,
+        "alpha_counts_at_or_above": {
+          "1": 1572864,
+          "16": 1572864,
+          "64": 1572864,
+          "128": 1572864,
+          "192": 1572864,
+          "224": 1572864,
+          "250": 1572864
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "16": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "64": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "128": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "192": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "224": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "250": [
+            0,
+            0,
+            1024,
+            1536
+          ]
+        },
+        "opaque_core_bbox": [
+          0,
+          0,
+          1024,
+          1536
+        ],
+        "soft_fringe_bbox": [
+          0,
+          0,
+          1024,
+          1536
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1536
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1536
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "composition_notes": [
+        "不透明な黒背景に白いシルエット。黒を抜くScreen合成で使用する。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "透過素材ではない。黒背景を通常のクロップで切り抜かずScreen合成を使う。",
+        "full_canvas": true
+      }
+    },
+    {
+      "file": "silhouette_b_neutral_black.png",
+      "sha256": "5dc1f7c2da75bb57f40d7fbbf1607d5e06e84f0dfab359117cf2a4cdceb8b9b0",
+      "category": "silhouette",
+      "mode": "RGBA",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "alpha": {
+        "has_alpha_channel_or_transparency": true,
+        "alpha_min_max": [
+          0,
+          254
+        ],
+        "alpha_zero_pixels": 1195664,
+        "alpha_nonzero_pixels": 377200,
+        "alpha_nonzero_percent": 23.9817,
+        "alpha_counts_at_or_above": {
+          "1": 377200,
+          "16": 358303,
+          "64": 354941,
+          "128": 351939,
+          "192": 348699,
+          "224": 346506,
+          "250": 336368
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            249,
+            10,
+            775,
+            1466
+          ],
+          "16": [
+            251,
+            12,
+            772,
+            1463
+          ],
+          "64": [
+            252,
+            13,
+            772,
+            1463
+          ],
+          "128": [
+            252,
+            13,
+            772,
+            1463
+          ],
+          "192": [
+            252,
+            13,
+            772,
+            1462
+          ],
+          "224": [
+            252,
+            13,
+            771,
+            1462
+          ],
+          "250": [
+            253,
+            14,
+            771,
+            1462
+          ]
+        },
+        "opaque_core_bbox": [
+          252,
+          13,
+          772,
+          1463
+        ],
+        "soft_fringe_bbox": [
+          251,
+          12,
+          772,
+          1463
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 251,
+        "y": 12,
+        "width": 521,
+        "height": 1451
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 252,
+        "y": 13,
+        "width": 520,
+        "height": 1450
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 50.88,
+        "height": 94.47
+      },
+      "composition_notes": [
+        "透明PNG上の黒シルエット。暗い背景では形が沈むため、明るい背景または明るい差し色の上に配置する。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "alpha>=16のbboxを基準に各辺3-5%の余白を加える。alpha>=128で切ると細い髪先、縁、柔らかな効果を欠く場合がある。",
+        "full_canvas": false,
+        "recommended_blend": "Normal alpha over a light or sufficiently colored background."
+      }
+    },
+    {
+      "file": "silhouette_b_peace_white_blackbg.png",
+      "sha256": "2788b6a98b7f825f61257899be0320e6003d8a2af19112bdc382d11fcdba1741",
+      "category": "silhouette",
+      "mode": "RGB",
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": 0.66667,
+      "alpha": {
+        "has_alpha_channel_or_transparency": false,
+        "alpha_min_max": [
+          255,
+          255
+        ],
+        "alpha_zero_pixels": 0,
+        "alpha_nonzero_pixels": 1572864,
+        "alpha_nonzero_percent": 100.0,
+        "alpha_counts_at_or_above": {
+          "1": 1572864,
+          "16": 1572864,
+          "64": 1572864,
+          "128": 1572864,
+          "192": 1572864,
+          "224": 1572864,
+          "250": 1572864
+        },
+        "alpha_bbox_at_or_above": {
+          "1": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "16": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "64": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "128": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "192": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "224": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "250": [
+            0,
+            0,
+            1024,
+            1536
+          ]
+        },
+        "opaque_core_bbox": [
+          0,
+          0,
+          1024,
+          1536
+        ],
+        "soft_fringe_bbox": [
+          0,
+          0,
+          1024,
+          1536
+        ]
+      },
+      "effective_subject_bounds_alpha_ge_16": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1536
+      },
+      "opaque_core_bounds_alpha_ge_128": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1536
+      },
+      "subject_occupancy_percent_canvas": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "composition_notes": [
+        "不透明な黒背景に白いシルエット。黒を抜くScreen合成で使用する。"
+      ],
+      "scale_and_crop_guidance": {
+        "native_scale": "1.0x means source pixels map 1:1 to output pixels; avoid exceeding 1.0x for clean edges unless the final shot is intentionally soft/blurred.",
+        "transparent_crop": "透過素材ではない。黒背景を通常のクロップで切り抜かずScreen合成を使う。",
+        "full_canvas": true
+      }
+    }
+  ],
+  "summary": {
+    "files_with_alpha": 20,
+    "opaque_files": 12,
+    "character_files": 16,
+    "non_character_files": 16,
+    "contact_sheets": [
+      "contact_characters.png",
+      "contact_props_backgrounds_silhouettes.png"
+    ],
+    "general_scale_guidance": "1080pで全身キャラを縦画面高の約90%に収める場合、alpha>=16有効高さに対しておおむね0.64-0.66x。切り抜き輪郭を保つため、クリーンさ重視ならsource pixel 1:1を拡大上限の目安にする。1920x1080背景は1672x941から約1.148x cover。キャラはalpha>=16 bbox+3-5%余白、背景はfull canvasを基準に構図調整。"
+  },
+  "visual_review": {
+    "design_consistency": "Aは紺のツインテール、シアン/マゼンタの星アクセントと黒/紫衣装。Bはコーラル系の短髪に青緑の結び飾り、黄/青緑ジャケットとコーラル色のショーツ。設定シートと各ポーズの配色/衣装に大きな逸脱は見えない。",
+    "gaze_and_pose": "目線の切り替えが意図的に異なる。A_phone_checkはスマホへ、A_waitは画面外へ反応する目線。B_danceは上げた手の方向へ顔を向け、B_pointは視聴者を指す正面目線。ここを連続動作に見せる場合は向きの変化を一拍/カットでつなぐ。",
+    "alpha_composite_verdict": "20点のalpha付き素材を白/暗色に合成。人物/小物/黒シルエットに目立つ背景残りや白縁なし。元PNGを直接プレビューした場合の色つき領域はalpha=0画素に保持された隠れRGBを含むが、通常のRGBA合成では表示されない。alpha>=1のみの外縁画素はごく薄く、alpha>=16 bbox基準で配置する。",
+    "major_visual_issues": "キャラA/Bのデザイン一貫性に大きな問題なし。pose間の目線・体の向きは意図的な差として扱う。",
+    "manual_visual_qa": "白/暗色合成コンタクト2枚を表示して目視。元PNGを変更せず、別個にcharacter_a_phone_checkを原寸の白/暗色合成でも確認。"
+  }
+}

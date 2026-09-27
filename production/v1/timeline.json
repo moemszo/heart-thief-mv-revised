@@ -1,0 +1,412 @@
+{
+  "bpm": 129.3,
+  "beat_offset": 0.108,
+  "status": "music-aligned-clean-picture",
+  "timing_basis": "Original audio, local ASR phrase boundaries and onset-grid analysis. Subtitle source website pending user URL.",
+  "shots": [
+    {
+      "start": 0,
+      "end": 1.036,
+      "kind": "intro",
+      "transition": "wipe"
+    },
+    {
+      "start": 1.036,
+      "end": 2.24,
+      "kind": "title",
+      "transition": "iris"
+    },
+    {
+      "start": 2.24,
+      "end": 5.04,
+      "kind": "ring",
+      "transition": "wipe"
+    },
+    {
+      "start": 5.04,
+      "end": 6.9,
+      "kind": "ringmacro",
+      "transition": "iris"
+    },
+    {
+      "start": 6.9,
+      "end": 10.04,
+      "kind": "charm",
+      "transition": "fade"
+    },
+    {
+      "start": 10.04,
+      "end": 13.98,
+      "kind": "portrait",
+      "transition": "wipe",
+      "actor": "character_a_wait",
+      "bg": "bg_verse_ring_charm",
+      "variant": 1
+    },
+    {
+      "start": 13.98,
+      "end": 16.14,
+      "kind": "portrait",
+      "transition": "wipe",
+      "actor": "character_b_heartthief",
+      "variant": 0
+    },
+    {
+      "start": 16.14,
+      "end": 18.36,
+      "kind": "split",
+      "transition": "wipe",
+      "variant": 0
+    },
+    {
+      "start": 18.36,
+      "end": 21.66,
+      "kind": "wait",
+      "transition": "flash"
+    },
+    {
+      "start": 21.66,
+      "end": 22.5,
+      "kind": "detail",
+      "transition": "wipe",
+      "actor": "character_a_wait",
+      "variant": 1
+    },
+    {
+      "start": 22.5,
+      "end": 24.7,
+      "kind": "portrait",
+      "transition": "wipe",
+      "actor": "character_a_wait",
+      "variant": 1
+    },
+    {
+      "start": 24.7,
+      "end": 26.5,
+      "kind": "silhouettes",
+      "transition": "wipe",
+      "variant": 1,
+      "actor": "silhouette_b_neutral_black",
+      "other": "silhouette_a_neutral_black"
+    },
+    {
+      "start": 26.5,
+      "end": 27.82,
+      "kind": "staccato",
+      "transition": "wipe",
+      "transitionDuration": 0.15
+    },
+    {
+      "start": 27.82,
+      "end": 30.3,
+      "kind": "chorus",
+      "transition": "iris",
+      "variant": 0
+    },
+    {
+      "start": 30.3,
+      "end": 32.1,
+      "kind": "triptych",
+      "transition": "wipe",
+      "actors": [
+        "character_a_cheer",
+        "character_b_heartthief",
+        "character_b_point"
+      ]
+    },
+    {
+      "start": 32.1,
+      "end": 33.72,
+      "kind": "detail",
+      "transition": "wipe",
+      "actor": "character_b_heartthief",
+      "variant": 0,
+      "transitionDuration": 0.16
+    },
+    {
+      "start": 33.72,
+      "end": 35.4,
+      "kind": "portrait",
+      "transition": "wipe",
+      "actor": "character_b_heartthief",
+      "bg": "bg_chorus_heartstage",
+      "variant": 0
+    },
+    {
+      "start": 35.4,
+      "end": 37.26,
+      "kind": "chorus",
+      "transition": "flash",
+      "variant": 1
+    },
+    {
+      "start": 37.26,
+      "end": 38.94,
+      "kind": "staccato",
+      "transition": "wipe",
+      "variant": 0
+    },
+    {
+      "start": 38.94,
+      "end": 40.32,
+      "kind": "silhouettes",
+      "transition": "wipe",
+      "variant": 0,
+      "actor": "silhouette_b_peace_white_blackbg",
+      "other": "silhouette_a_neutral_black"
+    },
+    {
+      "start": 40.32,
+      "end": 42.72,
+      "kind": "detail",
+      "transition": "fade",
+      "actor": "character_b_apple",
+      "variant": 1
+    },
+    {
+      "start": 42.72,
+      "end": 45.12,
+      "kind": "split",
+      "transition": "wipe",
+      "variant": 0
+    },
+    {
+      "start": 45.12,
+      "end": 46.98,
+      "kind": "ringmacro",
+      "transition": "iris"
+    },
+    {
+      "start": 46.98,
+      "end": 49.76,
+      "kind": "triptych",
+      "transition": "wipe",
+      "actors": [
+        "character_b_point",
+        "character_a_peace",
+        "character_b_cheer"
+      ]
+    },
+    {
+      "start": 49.76,
+      "end": 52.54,
+      "kind": "chorus",
+      "transition": "flash",
+      "variant": 2
+    },
+    {
+      "start": 52.54,
+      "end": 54.4,
+      "kind": "silhouettes",
+      "transition": "wipe",
+      "variant": 1,
+      "actor": "silhouette_b_dance_black",
+      "other": "silhouette_a_peace_white_blackbg"
+    },
+    {
+      "start": 54.4,
+      "end": 57.26,
+      "kind": "phone",
+      "transition": "iris"
+    },
+    {
+      "start": 57.26,
+      "end": 60.78,
+      "kind": "phone_macro",
+      "transition": "wipe"
+    },
+    {
+      "start": 60.78,
+      "end": 64.8,
+      "kind": "social",
+      "transition": "fade"
+    },
+    {
+      "start": 64.8,
+      "end": 67.6,
+      "kind": "phone",
+      "transition": "wipe"
+    },
+    {
+      "start": 67.6,
+      "end": 70.22,
+      "kind": "anxiety",
+      "transition": "fade",
+      "actor": "character_a_phone_check",
+      "variant": 1
+    },
+    {
+      "start": 70.22,
+      "end": 72.56,
+      "kind": "detail",
+      "transition": "fade",
+      "actor": "character_a_phone_check",
+      "bg": "bg_social_night",
+      "variant": 1
+    },
+    {
+      "start": 72.56,
+      "end": 75.82,
+      "kind": "anxiety",
+      "transition": "wipe",
+      "actor": "character_a_wait",
+      "variant": 0
+    },
+    {
+      "start": 75.82,
+      "end": 78.65,
+      "kind": "portrait",
+      "transition": "fade",
+      "actor": "character_a_charm",
+      "variant": 1
+    },
+    {
+      "start": 78.65,
+      "end": 79.7,
+      "kind": "ringmacro",
+      "transition": "iris"
+    },
+    {
+      "start": 79.7,
+      "end": 81.44,
+      "kind": "staccato",
+      "transition": "wipe",
+      "variant": 1,
+      "transitionDuration": 0.15
+    },
+    {
+      "start": 81.44,
+      "end": 83.8,
+      "kind": "chorus",
+      "transition": "iris",
+      "variant": 2
+    },
+    {
+      "start": 83.8,
+      "end": 85.76,
+      "kind": "triptych",
+      "transition": "wipe",
+      "actors": [
+        "character_a_peace",
+        "character_b_heartthief",
+        "character_b_dance"
+      ]
+    },
+    {
+      "start": 85.76,
+      "end": 87.5,
+      "kind": "detail",
+      "transition": "wipe",
+      "actor": "character_b_heartthief",
+      "variant": 1,
+      "transitionDuration": 0.16
+    },
+    {
+      "start": 87.5,
+      "end": 89.14,
+      "kind": "portrait",
+      "transition": "wipe",
+      "actor": "character_b_heartthief",
+      "bg": "bg_chorus_heartstage",
+      "variant": 0
+    },
+    {
+      "start": 89.14,
+      "end": 91.0,
+      "kind": "chorus",
+      "transition": "flash",
+      "variant": 1
+    },
+    {
+      "start": 91.0,
+      "end": 92.76,
+      "kind": "silhouettes",
+      "transition": "wipe",
+      "variant": 1,
+      "actor": "silhouette_b_dance_black",
+      "other": "silhouette_a_peace_white_blackbg"
+    },
+    {
+      "start": 92.76,
+      "end": 94.5,
+      "kind": "staccato",
+      "transition": "wipe",
+      "variant": 0
+    },
+    {
+      "start": 94.5,
+      "end": 96.52,
+      "kind": "detail",
+      "transition": "fade",
+      "actor": "character_b_heartthief",
+      "variant": 0
+    },
+    {
+      "start": 96.52,
+      "end": 99.08,
+      "kind": "chorus",
+      "transition": "flash",
+      "variant": 0
+    },
+    {
+      "start": 99.08,
+      "end": 101.86,
+      "kind": "triptych",
+      "transition": "wipe",
+      "actors": [
+        "character_b_apple",
+        "character_a_peace",
+        "character_b_point"
+      ]
+    },
+    {
+      "start": 101.86,
+      "end": 103.72,
+      "kind": "silhouettes",
+      "transition": "wipe",
+      "variant": 0,
+      "actor": "silhouette_b_peace_white_blackbg",
+      "other": "silhouette_a_neutral_black"
+    },
+    {
+      "start": 103.72,
+      "end": 106.5,
+      "kind": "split",
+      "transition": "wipe",
+      "actor": "character_a_apple",
+      "other": "character_b_apple",
+      "variant": 0
+    },
+    {
+      "start": 106.5,
+      "end": 108.36,
+      "kind": "ringmacro",
+      "transition": "iris"
+    },
+    {
+      "start": 108.36,
+      "end": 110.22,
+      "kind": "chorus",
+      "transition": "flash",
+      "variant": 1
+    },
+    {
+      "start": 110.22,
+      "end": 112.08,
+      "kind": "triptych",
+      "transition": "wipe",
+      "actors": [
+        "character_a_cheer",
+        "character_b_dance",
+        "character_a_peace"
+      ]
+    },
+    {
+      "start": 112.08,
+      "end": 118.8,
+      "kind": "outro",
+      "transition": "fade",
+      "transitionDuration": 0.65
+    }
+  ]
+}

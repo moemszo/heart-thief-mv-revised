@@ -1,0 +1,728 @@
+[
+  {
+    "id": "IMG-001",
+    "batch": 1,
+    "index_in_batch": 1,
+    "timestamp": "2026-09-27T05:19:49.630Z",
+    "prompt": "Use case: stylized-concept\nAsset type: original anime rhythm-game music video character design sheet, character A\nPrimary request: Create a polished full-body design sheet for one original adult female performer for a colorful Japanese rhythm-game music video. She is a lively, confident young woman with very long midnight-navy twin ponytails, unmistakable cyan and hot-pink hair streaks, sharp violet-magenta eyes, and small star hair clips. Her signature costume is a vivid cyan-and-magenta cropped stage jacket over a dark fitted top, layered asymmetric short skirt with clearly visible black safety shorts, one striped thigh-high and one bright leg warmer, fingerless gloves, and chunky high-top sneakers. Use bold, readable silhouette and small geometric star accents.\nStyle/medium: high-quality contemporary Japanese 2D anime game illustration, clean confident line art, crisp cel shading, saturated colors, detailed yet production-friendly design.\nComposition/framing: one full-body character centered, standing neutral three-quarter front view, whole head and both shoes visible; add a few small color swatches and 2-3 accessory detail callouts around the figure, but no other people.\nScene/backdrop: plain warm-white design-board background, opaque.\nLighting/mood: bright soft studio light, energetic and polished.\nColor palette: midnight navy, electric cyan, hot magenta, violet, small white highlights.\nConstraints: original character only; adult woman; fully clothed; preserve the exact same face, hair, outfit, colors, and accessories for later reference. Keep a clean single-character model-sheet layout.\nAvoid: existing franchise characters, recognizable logos, text, lettering, watermark, extra limbs, cropped shoes, complex scenery.",
+    "transparent_background": false,
+    "referenced_image_paths": []
+  },
+  {
+    "id": "IMG-002",
+    "batch": 1,
+    "index_in_batch": 2,
+    "timestamp": "2026-09-27T05:19:49.630Z",
+    "prompt": "Use case: stylized-concept\nAsset type: original anime rhythm-game music video character design sheet, character B\nPrimary request: Create a polished full-body design sheet for a second original adult female performer, visually distinct from a long twin-tailed counterpart. She has a short tousled coral-orange bob with a lime-yellow underlayer and one small side ponytail tied with a teal ribbon, warm amber eyes, and a playful, bold expression. Her signature costume is a lemon-yellow cropped bomber jacket with teal panels over a deep teal top, vivid coral-magenta shorts with a small utility belt, one opaque dark legging and one striped knee sock, wrist cuffs, and chunky teal-and-coral sneakers. Use broad color blocks and rounded lightning motifs, not stars.\nStyle/medium: high-quality contemporary Japanese 2D anime game illustration, clean confident line art, crisp cel shading, saturated colors, detailed yet production-friendly design.\nComposition/framing: one full-body character centered, standing neutral three-quarter front view, whole head and both shoes visible; add a few small color swatches and 2-3 accessory detail callouts around the figure, but no other people.\nScene/backdrop: plain warm-white design-board background, opaque.\nLighting/mood: bright soft studio light, cheerful and punchy.\nColor palette: coral orange, lemon yellow, lime, deep teal, small white highlights.\nConstraints: original character only; adult woman; fully clothed; preserve the exact same face, hair, outfit, colors, and accessories for later reference. Make her silhouette and palette clearly different from the other character.\nAvoid: existing franchise characters, recognizable logos, text, lettering, watermark, extra limbs, cropped shoes, complex scenery.",
+    "transparent_background": false,
+    "referenced_image_paths": []
+  },
+  {
+    "id": "IMG-003",
+    "batch": 2,
+    "index_in_batch": 1,
+    "timestamp": "2026-09-27T05:22:45.908Z",
+    "prompt": "Use case: stylized-concept\nAsset type: four-view character turnaround sheet for the same original adult female rhythm-game MV character.\nInput images: Image 1 is the authoritative character design reference. Match her exact face, very long midnight-navy twin ponytails with cyan and hot-pink streaks, violet-magenta eyes, star clips, cyan-and-magenta cropped stage jacket, dark fitted top, layered asymmetric skirt over black safety shorts, striped thigh-high, bright leg warmer, fingerless gloves, and chunky high-top sneakers.\nPrimary request: Create a clean production turnaround sheet showing this exact same woman in four separate full-body standing views, all at identical scale: front view, left profile, right profile, back view. Keep anatomy and outfit construction consistent between views.\nStyle/medium: match the reference's polished contemporary Japanese 2D anime game illustration, clean line art and crisp cel shading.\nComposition/framing: four evenly spaced full-body views on one horizontal sheet, head to shoes fully visible, neutral relaxed stance with arms slightly away from torso so costume reads clearly.\nScene/backdrop: plain warm-white opaque character-sheet background.\nConstraints: one character only; adult woman; preserve identity, proportions, hair, clothing, colors, accessories, and shoes exactly from Image 1; no text or view labels.\nAvoid: new costume parts, alternate hairstyle, redesign, props, scenery, watermark, cropped feet.",
+    "referenced_image_paths": [
+      "assets/final/character_a_design.png"
+    ],
+    "transparent_background": false
+  },
+  {
+    "id": "IMG-004",
+    "batch": 2,
+    "index_in_batch": 2,
+    "timestamp": "2026-09-27T05:22:45.908Z",
+    "prompt": "Use case: stylized-concept\nAsset type: four-view character turnaround sheet for the same original adult female rhythm-game MV character.\nInput images: Image 1 is the authoritative character design reference. Match her exact face, short tousled coral-orange bob with lime-yellow underlayer, single side ponytail with teal ribbon, amber eyes, lemon-yellow cropped bomber with teal panels, deep teal top, coral-magenta shorts with utility belt, one dark legging and one striped knee sock, wrist cuffs, and teal-and-coral chunky sneakers.\nPrimary request: Create a clean production turnaround sheet showing this exact same woman in four separate full-body standing views, all at identical scale: front view, left profile, right profile, back view. Keep anatomy and outfit construction consistent between views.\nStyle/medium: match the reference's polished contemporary Japanese 2D anime game illustration, clean line art and crisp cel shading.\nComposition/framing: four evenly spaced full-body views on one horizontal sheet, head to shoes fully visible, neutral relaxed stance with arms slightly away from torso so costume reads clearly.\nScene/backdrop: plain warm-white opaque character-sheet background.\nConstraints: one character only; adult woman; preserve identity, proportions, hair, clothing, colors, accessories, and shoes exactly from Image 1; no text or view labels.\nAvoid: new costume parts, alternate hairstyle, redesign, props, scenery, watermark, cropped feet.",
+    "referenced_image_paths": [
+      "assets/final/character_b_design.png"
+    ],
+    "transparent_background": false
+  },
+  {
+    "id": "IMG-005",
+    "batch": 3,
+    "index_in_batch": 1,
+    "timestamp": "2026-09-27T05:25:06.454Z",
+    "prompt": "Use case: stylized-concept\nAsset type: four-view turnaround character sheet\nInput images: Image 1 is the authoritative design for Character A: the original adult woman with very long midnight-navy twin ponytails, cyan and hot-pink streaks, violet-magenta eyes, star clips, cyan-magenta jacket, dark top, layered asymmetrical skirt over black shorts, striped thigh-high, bright leg warmer, fingerless gloves, and chunky high-tops.\nPrimary request: Draw this exact same character in four full-body standing views: front, left profile, right profile, back. Same scale and relaxed neutral pose across views.\nStyle/medium: match Image 1, polished Japanese 2D anime game art, confident clean lines, crisp cel shading.\nComposition/framing: four evenly spaced views across one horizontal sheet, head and shoes fully visible, arms slightly separated from torso.\nScene/backdrop: plain warm-white opaque model-sheet background.\nConstraints: one character only; lock identity and every design feature to Image 1; no text or labels.\nAvoid: redesign, other characters, props, scenery, cropped feet, watermark.",
+    "referenced_image_paths": [
+      "assets/final/character_a_design.png"
+    ],
+    "transparent_background": false
+  },
+  {
+    "id": "IMG-006",
+    "batch": 3,
+    "index_in_batch": 2,
+    "timestamp": "2026-09-27T05:25:06.454Z",
+    "prompt": "Use case: stylized-concept\nAsset type: four-view turnaround character sheet\nInput images: Image 1 is the authoritative design for Character B: the original adult woman with a short tousled coral-orange bob, lime-yellow underlayer, one side ponytail with teal ribbon, amber eyes, lemon-yellow bomber with teal panels, deep teal top, coral-magenta shorts and utility belt, one dark legging and one striped knee sock, wrist cuffs, and chunky teal-coral sneakers.\nPrimary request: Draw this exact same character in four full-body standing views: front, left profile, right profile, back. Same scale and relaxed neutral pose across views.\nStyle/medium: match Image 1, polished Japanese 2D anime game art, confident clean lines, crisp cel shading.\nComposition/framing: four evenly spaced views across one horizontal sheet, head and shoes fully visible, arms slightly separated from torso.\nScene/backdrop: plain warm-white opaque model-sheet background.\nConstraints: one character only; lock identity and every design feature to Image 1; no text or labels.\nAvoid: redesign, other characters, props, scenery, cropped feet, watermark.",
+    "referenced_image_paths": [
+      "assets/final/character_b_design.png"
+    ],
+    "transparent_background": false
+  },
+  {
+    "id": "IMG-007",
+    "batch": 4,
+    "index_in_batch": 1,
+    "timestamp": "2026-09-27T05:27:49.077Z",
+    "prompt": "Use case: stylized-concept\nAsset type: transparent full-body anime MV character pose cutout\nInput images: Image 1 is the authoritative design sheet for Character A; Image 2 is the same character's turnaround reference.\nPrimary request: Draw the exact same original adult female character as in the reference images, in this pose: full-body lively peace sign toward the viewer, V-sign hand beside one eye, slight forward lean, cheerful confident smile.\nSubject: very long midnight-navy twin ponytails with cyan and hot-pink streaks, violet-magenta eyes, star hair clips, cyan-and-magenta cropped stage jacket over a dark top, layered asymmetric skirt over black safety shorts, striped thigh-high on one leg and bright leg warmer on the other, fingerless gloves, chunky high-top sneakers.\nStyle/medium: match the reference's polished Japanese 2D anime game illustration, confident clean line art, crisp cel shading, vivid colors.\nComposition/framing: one character only, full body centered, head and both shoes fully visible, generous transparent margin, pose silhouette clearly readable.\nScene/backdrop: no scene, no background, genuinely transparent alpha.\nConstraints: preserve identity, face, hairstyle, proportions, costume, colors, accessories, and shoes exactly from the references; standalone cutout; no ground plane, cast shadow, text, frame, or watermark.\nAvoid: extra people, outfit changes, cropped hands or feet, props.",
+    "referenced_image_paths": [
+      "assets/final/character_a_design.png",
+      "assets/final/character_a_turnaround.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-008",
+    "batch": 4,
+    "index_in_batch": 2,
+    "timestamp": "2026-09-27T05:27:49.077Z",
+    "prompt": "Use case: stylized-concept\nAsset type: transparent full-body anime MV character pose cutout\nInput images: Image 1 is the authoritative design sheet for Character A; Image 2 is the same character's turnaround reference.\nPrimary request: Draw the exact same original adult female character as in the reference images, in this pose: full-body ecstatic cheer with both arms high overhead, mouth open in a joyful shout, dynamic but readable stance.\nSubject: very long midnight-navy twin ponytails with cyan and hot-pink streaks, violet-magenta eyes, star hair clips, cyan-and-magenta cropped stage jacket over a dark top, layered asymmetric skirt over black safety shorts, striped thigh-high on one leg and bright leg warmer on the other, fingerless gloves, chunky high-top sneakers.\nStyle/medium: match the reference's polished Japanese 2D anime game illustration, confident clean line art, crisp cel shading, vivid colors.\nComposition/framing: one character only, full body centered, head and both shoes fully visible, generous transparent margin, pose silhouette clearly readable.\nScene/backdrop: no scene, no background, genuinely transparent alpha.\nConstraints: preserve identity, face, hairstyle, proportions, costume, colors, accessories, and shoes exactly from the references; standalone cutout; no ground plane, cast shadow, text, frame, or watermark.\nAvoid: extra people, outfit changes, cropped hands or feet, props.",
+    "referenced_image_paths": [
+      "assets/final/character_a_design.png",
+      "assets/final/character_a_turnaround.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-009",
+    "batch": 4,
+    "index_in_batch": 3,
+    "timestamp": "2026-09-27T05:27:49.077Z",
+    "prompt": "Use case: stylized-concept\nAsset type: transparent full-body anime MV character pose cutout\nInput images: Image 1 is the authoritative design sheet for Character B; Image 2 is the same character's turnaround reference.\nPrimary request: Draw the exact same original adult female character as in the reference images, in this pose: full-body lively peace sign toward the viewer, V-sign hand beside one eye, slight forward lean, playful wink and smile.\nSubject: short tousled coral-orange bob with lime-yellow underlayer, one small side ponytail tied with a teal ribbon, amber eyes, lemon-yellow cropped bomber with teal panels over a deep teal top, coral-magenta shorts with utility belt, one dark legging and one striped knee sock, wrist cuffs, chunky teal-and-coral sneakers.\nStyle/medium: match the reference's polished Japanese 2D anime game illustration, confident clean line art, crisp cel shading, vivid colors.\nComposition/framing: one character only, full body centered, head and both shoes fully visible, generous transparent margin, pose silhouette clearly readable.\nScene/backdrop: no scene, no background, genuinely transparent alpha.\nConstraints: preserve identity, face, hairstyle, proportions, costume, colors, accessories, and shoes exactly from the references; standalone cutout; no ground plane, cast shadow, text, frame, or watermark.\nAvoid: extra people, outfit changes, cropped hands or feet, props.",
+    "referenced_image_paths": [
+      "assets/final/character_b_design.png",
+      "assets/final/character_b_turnaround.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-010",
+    "batch": 4,
+    "index_in_batch": 4,
+    "timestamp": "2026-09-27T05:27:49.077Z",
+    "prompt": "Use case: stylized-concept\nAsset type: transparent full-body anime MV character pose cutout\nInput images: Image 1 is the authoritative design sheet for Character B; Image 2 is the same character's turnaround reference.\nPrimary request: Draw the exact same original adult female character as in the reference images, in this pose: full-body excited 'waaa!' reaction, both hands raised beside her cheeks, wide sparkling eyes and joyful open-mouth shout.\nSubject: short tousled coral-orange bob with lime-yellow underlayer, one small side ponytail tied with a teal ribbon, amber eyes, lemon-yellow cropped bomber with teal panels over a deep teal top, coral-magenta shorts with utility belt, one dark legging and one striped knee sock, wrist cuffs, chunky teal-and-coral sneakers.\nStyle/medium: match the reference's polished Japanese 2D anime game illustration, confident clean line art, crisp cel shading, vivid colors.\nComposition/framing: one character only, full body centered, head and both shoes fully visible, generous transparent margin, pose silhouette clearly readable.\nScene/backdrop: no scene, no background, genuinely transparent alpha.\nConstraints: preserve identity, face, hairstyle, proportions, costume, colors, accessories, and shoes exactly from the references; standalone cutout; no ground plane, cast shadow, text, frame, or watermark.\nAvoid: extra people, outfit changes, cropped hands or feet, props.",
+    "referenced_image_paths": [
+      "assets/final/character_b_design.png",
+      "assets/final/character_b_turnaround.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-011",
+    "batch": 5,
+    "index_in_batch": 1,
+    "timestamp": "2026-09-27T05:30:31.624Z",
+    "prompt": "Use case: stylized-concept\nAsset type: transparent full-body anime MV character pose cutout\nInput images: Image 1 is the authoritative design sheet for Character A; Image 2 is the same character's turnaround reference.\nPrimary request: Draw the exact same original adult female character as in the reference images, in this pose: full-body lively peace sign toward the viewer, V-sign hand beside one eye, slight forward lean, cheerful confident smile.\nSubject: very long midnight-navy twin ponytails with cyan and hot-pink streaks, violet-magenta eyes, star hair clips, cyan-and-magenta cropped stage jacket over a dark top, layered asymmetric skirt over black safety shorts, striped thigh-high on one leg and bright leg warmer on the other, fingerless gloves, chunky high-top sneakers.\nStyle/medium: match the references' polished Japanese 2D anime game illustration, confident clean line art, crisp cel shading, vivid colors.\nComposition/framing: one character only, full body centered, head and both shoes fully visible, generous transparent margin, pose silhouette clearly readable.\nScene/backdrop: no scene, no background, genuinely transparent alpha.\nConstraints: preserve identity, face, hairstyle, proportions, costume, colors, accessories, and shoes exactly from the references; standalone cutout; no ground plane, cast shadow, text, frame, or watermark.\nAvoid: extra people, outfit changes, cropped hands or feet, props.",
+    "referenced_image_paths": [
+      "assets/final/character_a_design.png",
+      "assets/final/character_a_turnaround.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-012",
+    "batch": 5,
+    "index_in_batch": 2,
+    "timestamp": "2026-09-27T05:30:31.624Z",
+    "prompt": "Use case: stylized-concept\nAsset type: transparent full-body anime MV character pose cutout\nInput images: Image 1 is the authoritative design sheet for Character A; Image 2 is the same character's turnaround reference.\nPrimary request: Draw the exact same original adult female character as in the reference images, in this pose: full-body ecstatic cheer with both arms high overhead, mouth open in a joyful shout, dynamic but readable stance.\nSubject: very long midnight-navy twin ponytails with cyan and hot-pink streaks, violet-magenta eyes, star hair clips, cyan-and-magenta cropped stage jacket over a dark top, layered asymmetric skirt over black safety shorts, striped thigh-high on one leg and bright leg warmer on the other, fingerless gloves, chunky high-top sneakers.\nStyle/medium: match the references' polished Japanese 2D anime game illustration, confident clean line art, crisp cel shading, vivid colors.\nComposition/framing: one character only, full body centered, head and both shoes fully visible, generous transparent margin, pose silhouette clearly readable.\nScene/backdrop: no scene, no background, genuinely transparent alpha.\nConstraints: preserve identity, face, hairstyle, proportions, costume, colors, accessories, and shoes exactly from the references; standalone cutout; no ground plane, cast shadow, text, frame, or watermark.\nAvoid: extra people, outfit changes, cropped hands or feet, props.",
+    "referenced_image_paths": [
+      "assets/final/character_a_design.png",
+      "assets/final/character_a_turnaround.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-013",
+    "batch": 5,
+    "index_in_batch": 3,
+    "timestamp": "2026-09-27T05:30:31.624Z",
+    "prompt": "Use case: stylized-concept\nAsset type: transparent full-body anime MV character pose cutout\nInput images: Image 1 is the authoritative design sheet for Character B; Image 2 is the same character's turnaround reference.\nPrimary request: Draw the exact same original adult female character as in the reference images, in this pose: full-body lively peace sign toward the viewer, V-sign hand beside one eye, slight forward lean, playful wink and smile.\nSubject: short tousled coral-orange bob with lime-yellow underlayer, one small side ponytail tied with teal ribbon, amber eyes, lemon-yellow cropped bomber with teal panels over a deep teal top, coral-magenta shorts with utility belt, one dark legging and one striped knee sock, wrist cuffs, chunky teal-and-coral sneakers.\nStyle/medium: match the references' polished Japanese 2D anime game illustration, confident clean line art, crisp cel shading, vivid colors.\nComposition/framing: one character only, full body centered, head and both shoes fully visible, generous transparent margin, pose silhouette clearly readable.\nScene/backdrop: no scene, no background, genuinely transparent alpha.\nConstraints: preserve identity, face, hairstyle, proportions, costume, colors, accessories, and shoes exactly from the references; standalone cutout; no ground plane, cast shadow, text, frame, or watermark.\nAvoid: extra people, outfit changes, cropped hands or feet, props.",
+    "referenced_image_paths": [
+      "assets/final/character_b_design.png",
+      "assets/final/character_b_turnaround.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-014",
+    "batch": 5,
+    "index_in_batch": 4,
+    "timestamp": "2026-09-27T05:30:31.624Z",
+    "prompt": "Use case: stylized-concept\nAsset type: transparent full-body anime MV character pose cutout\nInput images: Image 1 is the authoritative design sheet for Character B; Image 2 is the same character's turnaround reference.\nPrimary request: Draw the exact same original adult female character as in the reference images, in this pose: full-body excited 'waaa!' reaction, both hands raised beside her cheeks, wide sparkling eyes and joyful open-mouth shout.\nSubject: short tousled coral-orange bob with lime-yellow underlayer, one small side ponytail tied with teal ribbon, amber eyes, lemon-yellow cropped bomber with teal panels over a deep teal top, coral-magenta shorts with utility belt, one dark legging and one striped knee sock, wrist cuffs, chunky teal-and-coral sneakers.\nStyle/medium: match the references' polished Japanese 2D anime game illustration, confident clean line art, crisp cel shading, vivid colors.\nComposition/framing: one character only, full body centered, head and both shoes fully visible, generous transparent margin, pose silhouette clearly readable.\nScene/backdrop: no scene, no background, genuinely transparent alpha.\nConstraints: preserve identity, face, hairstyle, proportions, costume, colors, accessories, and shoes exactly from the references; standalone cutout; no ground plane, cast shadow, text, frame, or watermark.\nAvoid: extra people, outfit changes, cropped hands or feet, props.",
+    "referenced_image_paths": [
+      "assets/final/character_b_design.png",
+      "assets/final/character_b_turnaround.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-015",
+    "batch": 6,
+    "index_in_batch": 1,
+    "timestamp": "2026-09-27T05:35:16.615Z",
+    "prompt": "Use case: stylized-concept\nAsset type: transparent isolated MV prop\nInput images: Image 1 is the style reference for the original anime game artwork.\nPrimary request: One glossy bright-red apple, three-quarter view, with one small clean bite mark, a short brown stem and one fresh green leaf.\nStyle/medium: match the reference's polished Japanese 2D anime game illustration, crisp line work, cel-shaded highlights, saturated but clean color.\nComposition/framing: single centered apple, no hand, isolated, clear silhouette, generous transparent margin.\nScene/backdrop: no background, genuine transparent alpha.\nConstraints: standalone prop; no plate, no text, no watermark.",
+    "referenced_image_paths": [
+      "assets/final/character_a_design.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-016",
+    "batch": 6,
+    "index_in_batch": 2,
+    "timestamp": "2026-09-27T05:35:16.615Z",
+    "prompt": "Use case: stylized-concept\nAsset type: transparent isolated lyric prop\nInput images: Image 1 is the style and palette reference for the original character artwork.\nPrimary request: One delicate silver pinky ring as a separate prop, thin polished band with a tiny pink heart stone and small cyan glint, a few restrained sparkle marks to suggest a love charm.\nStyle/medium: polished Japanese 2D anime game illustration, crisp line art and cel-shaded highlights, consistent with Image 1.\nComposition/framing: one ring shown large in three-quarter view, centered, no hand, readable small accessory design.\nScene/backdrop: no background, genuine transparent alpha.\nConstraints: original design, standalone prop, no lettering, brand, or watermark.",
+    "referenced_image_paths": [
+      "assets/final/character_a_design.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-017",
+    "batch": 6,
+    "index_in_batch": 3,
+    "timestamp": "2026-09-27T05:35:16.615Z",
+    "prompt": "Use case: stylized-concept\nAsset type: transparent isolated lyric prop\nInput images: Image 1 is the style and palette reference for the original character artwork.\nPrimary request: One small handmade love-charm talisman for a playful romance MV: a soft pink heart-shaped fabric charm tied with a teal and magenta cord, a tiny star bead and a subtle stitched heart. Cute and original, no religious or real-world emblem.\nStyle/medium: polished Japanese 2D anime game illustration, crisp line art, cel shading, colors coordinated with Image 1.\nComposition/framing: one centered charm, front three-quarter view, no hand, isolated with generous transparent margin.\nScene/backdrop: no background, genuine transparent alpha.\nConstraints: no letters, no brand, no watermark.",
+    "referenced_image_paths": [
+      "assets/final/character_a_design.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-018",
+    "batch": 6,
+    "index_in_batch": 4,
+    "timestamp": "2026-09-27T05:35:16.615Z",
+    "prompt": "Use case: stylized-concept\nAsset type: transparent original fictional social-story phone prop\nInput images: Image 1 and Image 2 are the authoritative identity references for Character B, the coral-orange bob-haired adult woman.\nPrimary request: A modern dark charcoal smartphone shown upright, front view, with an original fictional social-story screen. The main story picture on the screen shows the exact same Character B smiling confidently in her established costume. Invent a clearly original generic interface: a few abstract avatar circles, short progress dashes, simple heart reaction symbols, and a vertical stack of small like-heart marks suggesting a rising like count. Use shapes only, no readable text or numbers.\nStyle/medium: match the polished Japanese 2D anime game illustration in the references; crisp clean UI shapes, vivid teal/coral/magenta accents.\nComposition/framing: single complete phone centered, entire device visible, screen legible, isolated cutout.\nScene/backdrop: no background, genuine transparent alpha.\nConstraints: UI is entirely fictional and original; do not use Instagram name, logo, trademark icon, exact layout, or recognizable platform screen; no extra people outside the story image; no watermark.",
+    "referenced_image_paths": [
+      "assets/final/character_b_design.png",
+      "assets/final/character_b_turnaround.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-019",
+    "batch": 7,
+    "index_in_batch": 1,
+    "timestamp": "2026-09-27T05:39:17.003Z",
+    "prompt": "Use case: stylized-concept\nAsset type: transparent full-body anime MV character cutout\nInput images: Both reference images define Character A; Image 3 is the exact bitten-apple prop to include.\nPrimary request: Draw the exact same character as the references in this pose: The exact same Character A takes one small bite from the glossy red apple in Image 3, holding it near her mouth, a delighted playful expression; clearly show one small bite mark.\nSubject: Character A, the same original adult woman from Images 1 and 2: very long midnight-navy twin ponytails with cyan and hot-pink streaks, violet-magenta eyes, star clips, cyan-magenta stage jacket, dark top, layered skirt over black shorts, striped thigh-high and pink leg warmer, fingerless gloves, chunky high-top sneakers.\nStyle/medium: match the references' polished Japanese 2D anime game illustration, crisp clean line art, cel shading, vivid colors.\nComposition/framing: one character only, full-body centered, face, both hands and both shoes visible, generous clear margin.\nScene/backdrop: no scene or background, genuine transparent alpha.\nConstraints: keep identity, face, hair, proportions, outfit, colors, accessories, and shoes fixed to the references; standalone cutout; no ground plane, no shadow, no frame, no text, no watermark.\nAvoid: extra people, redesign, cropped hands or feet, unrelated props.",
+    "referenced_image_paths": [
+      "assets/final/character_a_design.png",
+      "assets/final/character_a_turnaround.png",
+      "assets/final/prop_bitten_apple.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-020",
+    "batch": 7,
+    "index_in_batch": 2,
+    "timestamp": "2026-09-27T05:39:17.003Z",
+    "prompt": "Use case: stylized-concept\nAsset type: transparent full-body anime MV character cutout\nInput images: Both reference images define Character B; Image 3 is the exact bitten-apple prop to include.\nPrimary request: Draw the exact same character as the references in this pose: The exact same Character B takes one small bite from the glossy red apple in Image 3, holding it near her mouth, a delighted playful expression; clearly show one small bite mark.\nSubject: Character B, the same original adult woman from Images 1 and 2: short coral-orange bob with lime-yellow underlayer and teal-ribbon side ponytail, amber eyes, yellow bomber with teal panels, deep teal top, coral-magenta shorts and utility belt, one dark legging and one striped knee sock, wrist cuffs, chunky teal-coral sneakers.\nStyle/medium: match the references' polished Japanese 2D anime game illustration, crisp clean line art, cel shading, vivid colors.\nComposition/framing: one character only, full-body centered, face, both hands and both shoes visible, generous clear margin.\nScene/backdrop: no scene or background, genuine transparent alpha.\nConstraints: keep identity, face, hair, proportions, outfit, colors, accessories, and shoes fixed to the references; standalone cutout; no ground plane, no shadow, no frame, no text, no watermark.\nAvoid: extra people, redesign, cropped hands or feet, unrelated props.",
+    "referenced_image_paths": [
+      "assets/final/character_b_design.png",
+      "assets/final/character_b_turnaround.png",
+      "assets/final/prop_bitten_apple.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-021",
+    "batch": 7,
+    "index_in_batch": 3,
+    "timestamp": "2026-09-27T05:39:17.003Z",
+    "prompt": "Use case: stylized-concept\nAsset type: transparent full-body anime MV character cutout\nInput images: Images 1 and 2 define Character A; Image 3 is the exact original fictional story-phone prop to include.\nPrimary request: Draw the exact same character as the references in this pose: Character A checks the phone in Image 3, shoulders slightly hunched, worried eyes fixed on the many heart reactions, one hand near her chest, conveying insecurity about the rising likes.\nSubject: Character A, the same original adult woman from Images 1 and 2: very long midnight-navy twin ponytails with cyan and hot-pink streaks, violet-magenta eyes, star clips, cyan-magenta stage jacket, dark top, layered skirt over black shorts, striped thigh-high and pink leg warmer, fingerless gloves, chunky high-top sneakers.\nStyle/medium: match the references' polished Japanese 2D anime game illustration, crisp clean line art, cel shading, vivid colors.\nComposition/framing: one character only, full-body centered, face, both hands and both shoes visible, generous clear margin.\nScene/backdrop: no scene or background, genuine transparent alpha.\nConstraints: keep identity, face, hair, proportions, outfit, colors, accessories, and shoes fixed to the references; standalone cutout; no ground plane, no shadow, no frame, no text, no watermark.\nAvoid: extra people, redesign, cropped hands or feet, unrelated props.",
+    "referenced_image_paths": [
+      "assets/final/character_a_design.png",
+      "assets/final/character_a_turnaround.png",
+      "assets/final/prop_generic_story_phone.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-022",
+    "batch": 7,
+    "index_in_batch": 4,
+    "timestamp": "2026-09-27T05:39:17.003Z",
+    "prompt": "Use case: stylized-concept\nAsset type: transparent full-body anime MV character cutout\nInput images: Both reference images define Character A.\nPrimary request: Draw the exact same character as the references in this pose: Character A leans toward the viewer with one palm raised in a clear 'wait' gesture and points to herself with the other hand, determined but hurt expression, as if asking for her turn.\nSubject: Character A, the same original adult woman from Images 1 and 2: very long midnight-navy twin ponytails with cyan and hot-pink streaks, violet-magenta eyes, star clips, cyan-magenta stage jacket, dark top, layered skirt over black shorts, striped thigh-high and pink leg warmer, fingerless gloves, chunky high-top sneakers.\nStyle/medium: match the references' polished Japanese 2D anime game illustration, crisp clean line art, cel shading, vivid colors.\nComposition/framing: one character only, full-body centered, face, both hands and both shoes visible, generous clear margin.\nScene/backdrop: no scene or background, genuine transparent alpha.\nConstraints: keep identity, face, hair, proportions, outfit, colors, accessories, and shoes fixed to the references; standalone cutout; no ground plane, no shadow, no frame, no text, no watermark.\nAvoid: extra people, redesign, cropped hands or feet, unrelated props.",
+    "referenced_image_paths": [
+      "assets/final/character_a_design.png",
+      "assets/final/character_a_turnaround.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-023",
+    "batch": 8,
+    "index_in_batch": 1,
+    "timestamp": "2026-09-27T05:42:57.222Z",
+    "prompt": "Use case: stylized-concept\nAsset type: transparent full-body anime MV character pose cutout\nInput images: Image 1 is the authoritative design sheet and Image 2 is the same character's turnaround. Additional references, if present, are isolated prop designs to match exactly.\nPrimary request: Draw Character A, the exact same original adult woman from the references: very long midnight-navy twin ponytails with cyan and hot-pink streaks, violet-magenta eyes, star clips, cyan-magenta stage jacket, dark top, layered skirt over black shorts, striped thigh-high and pink leg warmer, fingerless gloves, chunky high-tops. in this pose: Show the little finger near the viewer so a delicate heart-shaped pinky ring catches the light; her other hand holds the small love-charm talisman from Image 4. Give her a hopeful but slightly unsure expression, as if trying a love spell.\nStyle/medium: match the references' polished Japanese 2D anime game illustration, crisp clean line art, cel shading, vivid but coordinated colors.\nComposition/framing: one character only, centered full-body, entire head, hands and shoes visible; keep the pose silhouette clear with transparent margins.\nScene/backdrop: no scene or background, genuine transparent alpha.\nConstraints: preserve identity, face, hairstyle, proportions, outfit, palette, accessories and shoes; use referenced props exactly; standalone cutout with no ground plane, no shadow, no text, no watermark.\nAvoid: extra people, redesign, cropped limbs, unrelated props.",
+    "referenced_image_paths": [
+      "assets/final/character_a_design.png",
+      "assets/final/character_a_turnaround.png",
+      "assets/final/prop_pinky_ring.png",
+      "assets/final/prop_love_charm.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-024",
+    "batch": 8,
+    "index_in_batch": 2,
+    "timestamp": "2026-09-27T05:42:57.222Z",
+    "prompt": "Use case: stylized-concept\nAsset type: transparent full-body anime MV character pose cutout\nInput images: Image 1 is the authoritative design sheet and Image 2 is the same character's turnaround. Additional references, if present, are isolated prop designs to match exactly.\nPrimary request: Draw Character B, the exact same original adult woman from the references: short coral-orange bob with lime-yellow underlayer and teal-ribbon side ponytail, amber eyes, yellow bomber with teal panels, deep teal top, coral-magenta shorts and utility belt, one dark legging and one striped knee sock, wrist cuffs, chunky teal-coral sneakers. in this pose: Give Character B a dazzling, confident heart-thief pose: warm mischievous smile, one eye softly winking, one hand near her lips and the other gracefully extended toward the viewer; add a few small floating pink heart sparkles around her.\nStyle/medium: match the references' polished Japanese 2D anime game illustration, crisp clean line art, cel shading, vivid but coordinated colors.\nComposition/framing: one character only, centered full-body, entire head, hands and shoes visible; keep the pose silhouette clear with transparent margins.\nScene/backdrop: no scene or background, genuine transparent alpha.\nConstraints: preserve identity, face, hairstyle, proportions, outfit, palette, accessories and shoes; use referenced props exactly; standalone cutout with no ground plane, no shadow, no text, no watermark.\nAvoid: extra people, redesign, cropped limbs, unrelated props.",
+    "referenced_image_paths": [
+      "assets/final/character_b_design.png",
+      "assets/final/character_b_turnaround.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-025",
+    "batch": 8,
+    "index_in_batch": 3,
+    "timestamp": "2026-09-27T05:42:57.222Z",
+    "prompt": "Use case: stylized-concept\nAsset type: transparent full-body anime MV character pose cutout\nInput images: Image 1 is the authoritative design sheet and Image 2 is the same character's turnaround. Additional references, if present, are isolated prop designs to match exactly.\nPrimary request: Draw Character B, the exact same original adult woman from the references: short coral-orange bob with lime-yellow underlayer and teal-ribbon side ponytail, amber eyes, yellow bomber with teal panels, deep teal top, coral-magenta shorts and utility belt, one dark legging and one striped knee sock, wrist cuffs, chunky teal-coral sneakers. in this pose: Character B points playfully toward the viewer, then gestures toward herself with the other hand, wearing an irresistible confident smile that feels teasing but friendly.\nStyle/medium: match the references' polished Japanese 2D anime game illustration, crisp clean line art, cel shading, vivid but coordinated colors.\nComposition/framing: one character only, centered full-body, entire head, hands and shoes visible; keep the pose silhouette clear with transparent margins.\nScene/backdrop: no scene or background, genuine transparent alpha.\nConstraints: preserve identity, face, hairstyle, proportions, outfit, palette, accessories and shoes; use referenced props exactly; standalone cutout with no ground plane, no shadow, no text, no watermark.\nAvoid: extra people, redesign, cropped limbs, unrelated props.",
+    "referenced_image_paths": [
+      "assets/final/character_b_design.png",
+      "assets/final/character_b_turnaround.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-026",
+    "batch": 8,
+    "index_in_batch": 4,
+    "timestamp": "2026-09-27T05:42:57.222Z",
+    "prompt": "Use case: stylized-concept\nAsset type: transparent full-body anime MV character pose cutout\nInput images: Image 1 is the authoritative design sheet and Image 2 is the same character's turnaround. Additional references, if present, are isolated prop designs to match exactly.\nPrimary request: Draw Character B, the exact same original adult woman from the references: short coral-orange bob with lime-yellow underlayer and teal-ribbon side ponytail, amber eyes, yellow bomber with teal panels, deep teal top, coral-magenta shorts and utility belt, one dark legging and one striped knee sock, wrist cuffs, chunky teal-coral sneakers. in this pose: Character B in a dynamic full-body rhythm-game dance step, one knee lifted, one arm sweeping upward and the other extended sideways, joyful focused smile; keep the pose readable and balanced.\nStyle/medium: match the references' polished Japanese 2D anime game illustration, crisp clean line art, cel shading, vivid but coordinated colors.\nComposition/framing: one character only, centered full-body, entire head, hands and shoes visible; keep the pose silhouette clear with transparent margins.\nScene/backdrop: no scene or background, genuine transparent alpha.\nConstraints: preserve identity, face, hairstyle, proportions, outfit, palette, accessories and shoes; use referenced props exactly; standalone cutout with no ground plane, no shadow, no text, no watermark.\nAvoid: extra people, redesign, cropped limbs, unrelated props.",
+    "referenced_image_paths": [
+      "assets/final/character_b_design.png",
+      "assets/final/character_b_turnaround.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-027",
+    "batch": 9,
+    "index_in_batch": 1,
+    "timestamp": "2026-09-27T05:47:50.484Z",
+    "prompt": "Use case: precise-object-edit\nAsset type: isolated transparent social-story phone prop\nInput images: Image 1 is the exact target phone and fictional story UI to preserve; Image 2 is the authoritative Character B identity reference.\nPrimary request: Redraw the same single smartphone asset from Image 1 from a clear high-angle overhead viewpoint, looking down from above at roughly 35 degrees. Tilt the phone diagonally in perspective so the top edge recedes and the lower edge is nearer, while keeping the full device and its screen visible. Keep Character B's story portrait and the original generic heart/avatar interface recognizable and unchanged in content.\nStyle/medium: preserve the clean anime MV illustration; reduce the overly glossy, synthetic AI-rendered look with restrained highlights, matte dark frame, simple coherent geometry and tidy UI shapes.\nComposition/framing: one isolated complete phone, transparent margins, no hand or desk.\nScene/backdrop: no background, genuine transparent alpha.\nConstraints: change camera angle and polish only; preserve phone, B identity, story content and fictional UI; no platform name, logo, readable text, watermark or extra objects.\nAvoid: front-on flat view, heavy bloom, metallic over-rendering, copied trademark interface.",
+    "referenced_image_paths": [
+      "assets/references/user_reference_01.png",
+      "assets/final/character_b_design.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-028",
+    "batch": 9,
+    "index_in_batch": 2,
+    "timestamp": "2026-09-27T05:47:50.484Z",
+    "prompt": "Use case: identity-preserve\nAsset type: transparent full-body anime character pose cutout\nInput images: Image 1 is the exact target pose; Image 2 is the authoritative design sheet for Character B.\nPrimary request: Keep this exact same Character B eating the same red apple in the same full-body pose and composition. Change only her head angle and eye direction so she is clearly looking down at the apple near her mouth, not at the viewer. Turn her face slightly toward the apple and soften the expression into a natural pleased smile.\nStyle/medium: preserve the polished Japanese 2D anime game illustration and exact established character design.\nComposition/framing: full figure visible, same scale and pose, transparent margin.\nScene/backdrop: no background, preserve genuine transparent alpha.\nConstraints: preserve Character B's coral bob, lime underlayer, teal ribbon, amber eyes, yellow-and-teal jacket, shorts, leggings, socks, shoes, apple, body pose and framing; change only head/eye direction and slight expression.\nAvoid: eye contact with camera, redesign, added background, text, watermark.",
+    "referenced_image_paths": [
+      "assets/references/user_reference_02.png",
+      "assets/final/character_b_design.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-029",
+    "batch": 9,
+    "index_in_batch": 3,
+    "timestamp": "2026-09-27T05:47:50.484Z",
+    "prompt": "Use case: identity-preserve\nAsset type: transparent full-body anime character pose cutout\nInput images: Image 1 is the exact target pose; Image 2 is the authoritative design sheet for Character A.\nPrimary request: Keep this exact same Character A in the raised-palm 'wait, it's my turn' gesture. Turn her head and eyes about 30 degrees to her left so she looks toward an off-screen person, not at the camera. Let the expression feel hurt and insistent.\nStyle/medium: preserve the polished Japanese 2D anime game illustration and exact character design.\nComposition/framing: preserve full-body framing, pose, scale and transparent margin.\nScene/backdrop: no background, genuine transparent alpha.\nConstraints: change only head orientation, gaze and subtle expression; keep hair, clothes, colors, accessories and hand gesture fixed.\nAvoid: looking into the camera, redesign, extra objects, background, text, watermark.",
+    "referenced_image_paths": [
+      "assets/final/character_a_wait.png",
+      "assets/final/character_a_design.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-030",
+    "batch": 9,
+    "index_in_batch": 4,
+    "timestamp": "2026-09-27T05:47:50.484Z",
+    "prompt": "Use case: identity-preserve\nAsset type: transparent full-body anime character pose cutout\nInput images: Image 1 is the exact target dance pose; Image 2 is the authoritative design sheet for Character B.\nPrimary request: Preserve Character B and the exact dynamic dance step. Turn her face into a three-quarter side view and direct her eyes toward a point off-screen to her right, as if following another dancer across the stage; do not look at the viewer.\nStyle/medium: preserve the polished Japanese 2D anime game illustration and exact character design.\nComposition/framing: keep entire body, same scale, pose and transparent margin.\nScene/backdrop: no background, genuine transparent alpha.\nConstraints: change only head orientation and eye line; keep hairstyle, costume, colors, accessories, body movement and framing.\nAvoid: direct camera gaze, redesign, extra objects, background, text, watermark.",
+    "referenced_image_paths": [
+      "assets/final/character_b_dance.png",
+      "assets/final/character_b_design.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-031",
+    "batch": 10,
+    "index_in_batch": 1,
+    "timestamp": "2026-09-27T05:52:03.306Z",
+    "prompt": "Use case: precise-object-edit\nAsset type: isolated transparent social-story smartphone MV prop\nInput images: Image 1 is the exact target phone and fictional social-story layout; Image 2 is the authoritative Character B design reference.\nPrimary request: Preserve Image 1's tilted three-quarter smartphone view and overall custom story interface. Redraw only the large portrait photo inside the screen so the exact same Character B is clearly photographed from above: camera high above her looking down at a 35-45 degree angle, top of her coral-orange hair visible, shoulders foreshortened, her face turned slightly aside with her eyes looking away from the lens. The shot should read immediately as a high-angle photo of B inside a story post.\nStyle/medium: clean, polished 2D Japanese anime game illustration; reduce the synthetic AI gloss with natural line weight, restrained highlights, simple coherent phone geometry, and controlled cel shading.\nComposition/framing: keep the whole phone fully visible, same diagonal perspective as Image 1, screen contents clear; isolated device with transparent margin.\nScene/backdrop: no background, preserve genuine transparent alpha.\nConstraints: preserve exact phone frame, custom fictional social UI, B's identity, hair, outfit and palette; no hand, desk, other characters, platform name, logo, readable text, or watermark.\nAvoid: flat front-on phone; ordinary eye-level portrait; camera-looking selfie; hyper-glossy 3D rendering; copied trademark interface.",
+    "referenced_image_paths": [
+      "assets/references/user_reference_03.png",
+      "assets/final/character_b_design.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-032",
+    "batch": 11,
+    "index_in_batch": 1,
+    "timestamp": "2026-09-27T05:53:52.915Z",
+    "prompt": "Use case: stylized-concept\nAsset type: 16:9 full-bleed anime music-video background, verse scene\nInput images: Image 1 and Image 2 are palette and illustration-style references only; do not copy the characters.\nPrimary request: An original dreamy rehearsal studio for a playful love-spell verse: pastel rose, cyan and violet lighting; a large luminous ring-shaped light motif on the far wall; subtle heart and star-shaped bokeh; soft reflections on a clean floor. Keep the central foreground simple for character compositing.\nStyle/medium: polished Japanese 2D anime game background, crisp cel-painted shapes, saturated but controlled palette matching the reference characters.\nComposition/framing: wide 16:9 landscape, eye-level establishing view, balanced depth, open center and clear lower third.\nLighting/mood: sparkling, hopeful, slightly mischievous.\nConstraints: background only, no people, no legible text, logos, UI or watermark.",
+    "referenced_image_paths": [
+      "assets/final/character_a_design.png",
+      "assets/final/character_b_design.png"
+    ],
+    "transparent_background": false
+  },
+  {
+    "id": "IMG-033",
+    "batch": 11,
+    "index_in_batch": 2,
+    "timestamp": "2026-09-27T05:53:52.915Z",
+    "prompt": "Use case: stylized-concept\nAsset type: 16:9 full-bleed anime music-video background, pre-chorus scene\nInput images: Image 1 and Image 2 are palette and illustration-style references only; do not copy the characters.\nPrimary request: An empty stage wing just before a performance: deep indigo curtains, one warm spotlight spilling from the side onto a clear patch of floor, a few small heart-shaped lamps in the distance and one circular light suggesting a paused beat. Keep the foreground open for a character waiting to step forward.\nStyle/medium: polished Japanese 2D anime game background, clean graphic shapes and cel-painted lighting, coordinated rose/cyan/indigo palette.\nComposition/framing: wide 16:9 landscape, slightly low viewpoint toward the stage entrance, clear center-left for character compositing.\nLighting/mood: held breath, anticipation, a little longing.\nConstraints: background only, no people, no clocks with numbers, no legible text, logos, UI or watermark.",
+    "referenced_image_paths": [
+      "assets/final/character_a_design.png",
+      "assets/final/character_b_design.png"
+    ],
+    "transparent_background": false
+  },
+  {
+    "id": "IMG-034",
+    "batch": 11,
+    "index_in_batch": 3,
+    "timestamp": "2026-09-27T05:53:52.915Z",
+    "prompt": "Use case: stylized-concept\nAsset type: 16:9 full-bleed anime music-video background, chorus performance stage\nInput images: Image 1 and Image 2 are palette and illustration-style references only; do not copy the characters.\nPrimary request: A high-energy original pop stage with giant concentric heart-shaped light rigs, vivid magenta and electric-cyan beams, lemon-yellow highlights, small star confetti and a reflective dance floor. Keep a generous clear space in the center so two character cutouts can be composited.\nStyle/medium: polished Japanese 2D anime game background, crisp 2D cel-painted environment, bold readable geometry, vivid coordinated colors.\nComposition/framing: wide 16:9 landscape, dramatic low-angle stage view, bright heart rig above and open central performance area.\nLighting/mood: dazzling, playful, energetic and theatrical.\nConstraints: background only, no people, instruments, logos, readable text or watermark.",
+    "referenced_image_paths": [
+      "assets/final/character_a_design.png",
+      "assets/final/character_b_design.png"
+    ],
+    "transparent_background": false
+  },
+  {
+    "id": "IMG-035",
+    "batch": 11,
+    "index_in_batch": 4,
+    "timestamp": "2026-09-27T05:53:52.915Z",
+    "prompt": "Use case: stylized-concept\nAsset type: 16:9 full-bleed anime music-video background, second verse social-media scene\nInput images: Image 1 and Image 2 are palette and illustration-style references only; do not copy the characters.\nPrimary request: A quiet late-night creative room seen from a clear overhead view: violet-blue desk and floor shapes, a pool of cool phone-like light near one edge, a few floating abstract story cards and small heart-reaction symbols drifting toward the margins, suggesting anxious scrolling and watching likes rise. Keep the middle open and uncluttered for a character overlay.\nStyle/medium: polished Japanese 2D anime game background, clean cel-painted shapes, coordinated cyan, magenta and indigo palette.\nComposition/framing: wide 16:9 landscape, distinctly top-down overhead composition, clean center with visual details concentrated around the perimeter.\nLighting/mood: intimate, restless, bittersweet.\nConstraints: entirely original generic social-media imagery; no phone device, no platform name or logo, no recognizable app layout, no readable text, no people, no watermark.",
+    "referenced_image_paths": [
+      "assets/final/character_a_design.png",
+      "assets/final/character_b_design.png"
+    ],
+    "transparent_background": false
+  },
+  {
+    "id": "IMG-036",
+    "batch": 12,
+    "index_in_batch": 1,
+    "timestamp": "2026-09-27T05:58:00.442Z",
+    "prompt": "Use case: stylized-concept\nAsset type: isolated transparent solid-black character silhouette\nInput images: Image 1 is the authoritative Character A design; Image 2 is her four-view turnaround. Use the front-view body shape.\nPrimary request: Make a single full-body silhouette of Character A's recognizable very long twin ponytails, jacket outline, short layered skirt, one tall sock and chunky sneakers. in this pose: neutral front-facing standing pose, arms relaxed slightly away from body, long twin ponytails clearly separated.\nStyle/medium: clean graphic silhouette asset matching the original character design.\nComposition/framing: centered single figure, full head to shoes visible, same scale and crop as the pose reference where applicable.\nScene/backdrop: no background, genuine transparent alpha.\nConstraints: entire figure is one completely solid pure black shape (#000000), fully opaque; retain only the exterior contour and essential gaps between limbs/hair; no face, costume details, gradients, highlights, outline, shadow, ground, text, frame, or watermark.\nAvoid: gray fills, facial features, scenery, extra people.",
+    "referenced_image_paths": [
+      "assets/final/character_a_design.png",
+      "assets/final/character_a_turnaround.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-037",
+    "batch": 12,
+    "index_in_batch": 2,
+    "timestamp": "2026-09-27T05:58:00.442Z",
+    "prompt": "Use case: stylized-concept\nAsset type: isolated transparent solid-black character silhouette\nInput images: Image 1 is the authoritative Character A design; Image 2 is her exact cheer pose reference.\nPrimary request: Make a single full-body silhouette of Character A's recognizable very long twin ponytails, jacket outline, short layered skirt, one tall sock and chunky sneakers. in this pose: same full-body cheer pose as Image 2, both arms raised, ponytails flowing.\nStyle/medium: clean graphic silhouette asset matching the original character design.\nComposition/framing: centered single figure, full head to shoes visible, same scale and crop as the pose reference where applicable.\nScene/backdrop: no background, genuine transparent alpha.\nConstraints: entire figure is one completely solid pure black shape (#000000), fully opaque; retain only the exterior contour and essential gaps between limbs/hair; no face, costume details, gradients, highlights, outline, shadow, ground, text, frame, or watermark.\nAvoid: gray fills, facial features, scenery, extra people.",
+    "referenced_image_paths": [
+      "assets/final/character_a_design.png",
+      "assets/final/character_a_cheer.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-038",
+    "batch": 12,
+    "index_in_batch": 3,
+    "timestamp": "2026-09-27T05:58:00.442Z",
+    "prompt": "Use case: stylized-concept\nAsset type: isolated transparent solid-black character silhouette\nInput images: Image 1 is the authoritative Character B design; Image 2 is her four-view turnaround. Use the front-view body shape.\nPrimary request: Make a single full-body silhouette of Character B's recognizable short bob, small side ponytail, cropped bomber outline, shorts, asymmetric legwear and chunky sneakers. in this pose: neutral front-facing standing pose, arms relaxed slightly away from body, short bob and single side ponytail clearly outlined.\nStyle/medium: clean graphic silhouette asset matching the original character design.\nComposition/framing: centered single figure, full head to shoes visible, same scale and crop as the pose reference where applicable.\nScene/backdrop: no background, genuine transparent alpha.\nConstraints: entire figure is one completely solid pure black shape (#000000), fully opaque; retain only the exterior contour and essential gaps between limbs/hair; no face, costume details, gradients, highlights, outline, shadow, ground, text, frame, or watermark.\nAvoid: gray fills, facial features, scenery, extra people.",
+    "referenced_image_paths": [
+      "assets/final/character_b_design.png",
+      "assets/final/character_b_turnaround.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-039",
+    "batch": 12,
+    "index_in_batch": 4,
+    "timestamp": "2026-09-27T05:58:00.442Z",
+    "prompt": "Use case: stylized-concept\nAsset type: isolated transparent solid-black character silhouette\nInput images: Image 1 is the authoritative Character B design; Image 2 is her exact side-looking dance pose reference.\nPrimary request: Make a single full-body silhouette of Character B's recognizable short bob, small side ponytail, cropped bomber outline, shorts, asymmetric legwear and chunky sneakers. in this pose: same dynamic dance pose as Image 2, side-facing head, one knee lifted, arms sweeping.\nStyle/medium: clean graphic silhouette asset matching the original character design.\nComposition/framing: centered single figure, full head to shoes visible, same scale and crop as the pose reference where applicable.\nScene/backdrop: no background, genuine transparent alpha.\nConstraints: entire figure is one completely solid pure black shape (#000000), fully opaque; retain only the exterior contour and essential gaps between limbs/hair; no face, costume details, gradients, highlights, outline, shadow, ground, text, frame, or watermark.\nAvoid: gray fills, facial features, scenery, extra people.",
+    "referenced_image_paths": [
+      "assets/final/character_b_design.png",
+      "assets/final/character_b_dance.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-040",
+    "batch": 13,
+    "index_in_batch": 1,
+    "timestamp": "2026-09-27T06:04:17.934Z",
+    "prompt": "Use case: precise-object-edit\nAsset type: transparent pure-white character silhouette cutout\nInput images: Image 1 is the exact black silhouette to recolor; Image 2 is only a design reference for the character identity.\nPrimary request: Change only the filled figure in Image 1 from solid black to solid pure white (#FFFFFF). Preserve the exact same outer silhouette, pose, scale, placement, and transparent margins. Keep the same alpha transparency outside the figure.\nStyle/medium: flat clean silhouette cutout.\nConstraints: figure fill must be uniformly pure white with no face, costume details, gradients, gray, colored outline, glow or shadow; background remains genuinely transparent.\nAvoid: changing the contour, pose, proportions or canvas; no text or watermark.",
+    "referenced_image_paths": [
+      "assets/final/silhouette_a_neutral_black.png",
+      "assets/final/character_a_design.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-041",
+    "batch": 13,
+    "index_in_batch": 2,
+    "timestamp": "2026-09-27T06:04:17.934Z",
+    "prompt": "Use case: precise-object-edit\nAsset type: transparent pure-white character silhouette cutout\nInput images: Image 1 is the exact black silhouette to recolor; Image 2 is only a design reference for the character identity.\nPrimary request: Change only the filled figure in Image 1 from solid black to solid pure white (#FFFFFF). Preserve the exact same outer silhouette, pose, scale, placement, and transparent margins. Keep the same alpha transparency outside the figure.\nStyle/medium: flat clean silhouette cutout.\nConstraints: figure fill must be uniformly pure white with no face, costume details, gradients, gray, colored outline, glow or shadow; background remains genuinely transparent.\nAvoid: changing the contour, pose, proportions or canvas; no text or watermark.",
+    "referenced_image_paths": [
+      "assets/final/silhouette_a_cheer_black.png",
+      "assets/final/character_a_design.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-042",
+    "batch": 13,
+    "index_in_batch": 3,
+    "timestamp": "2026-09-27T06:04:17.934Z",
+    "prompt": "Use case: precise-object-edit\nAsset type: transparent pure-white character silhouette cutout\nInput images: Image 1 is the exact black silhouette to recolor; Image 2 is only a design reference for the character identity.\nPrimary request: Change only the filled figure in Image 1 from solid black to solid pure white (#FFFFFF). Preserve the exact same outer silhouette, pose, scale, placement, and transparent margins. Keep the same alpha transparency outside the figure.\nStyle/medium: flat clean silhouette cutout.\nConstraints: figure fill must be uniformly pure white with no face, costume details, gradients, gray, colored outline, glow or shadow; background remains genuinely transparent.\nAvoid: changing the contour, pose, proportions or canvas; no text or watermark.",
+    "referenced_image_paths": [
+      "assets/final/silhouette_b_neutral_black.png",
+      "assets/final/character_b_design.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-043",
+    "batch": 13,
+    "index_in_batch": 4,
+    "timestamp": "2026-09-27T06:04:17.934Z",
+    "prompt": "Use case: precise-object-edit\nAsset type: transparent pure-white character silhouette cutout\nInput images: Image 1 is the exact black silhouette to recolor; Image 2 is only a design reference for the character identity.\nPrimary request: Change only the filled figure in Image 1 from solid black to solid pure white (#FFFFFF). Preserve the exact same outer silhouette, pose, scale, placement, and transparent margins. Keep the same alpha transparency outside the figure.\nStyle/medium: flat clean silhouette cutout.\nConstraints: figure fill must be uniformly pure white with no face, costume details, gradients, gray, colored outline, glow or shadow; background remains genuinely transparent.\nAvoid: changing the contour, pose, proportions or canvas; no text or watermark.",
+    "referenced_image_paths": [
+      "assets/final/silhouette_b_dance_black.png",
+      "assets/final/character_b_design.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-044",
+    "batch": 14,
+    "index_in_batch": 1,
+    "timestamp": "2026-09-27T06:07:56.009Z",
+    "prompt": "Use case: precise-object-edit\nAsset type: exact transparent white silhouette cutout\nInput images: Image 1 is the sole exact silhouette target.\nPrimary request: Recolor only the existing character silhouette from black to pure white (#FFFFFF). Preserve its exact pose, outer contour, proportions, orientation, size, position, and every transparent pixel of the original image.\nStyle/medium: flat, uniform, solid silhouette.\nComposition/framing: pixel-aligned to the input, same full-body crop and margins.\nScene/backdrop: transparent alpha everywhere outside the figure.\nConstraints: change only the figure's fill color; no interior details, no outline, no gradient, no shadow, no halo, no background, no text, no watermark.\nAvoid: altering pose or silhouette in any way.",
+    "referenced_image_paths": [
+      "assets/final/silhouette_a_neutral_black.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-045",
+    "batch": 14,
+    "index_in_batch": 2,
+    "timestamp": "2026-09-27T06:07:56.009Z",
+    "prompt": "Use case: precise-object-edit\nAsset type: exact transparent white silhouette cutout\nInput images: Image 1 is the sole exact silhouette target.\nPrimary request: Recolor only the existing character silhouette from black to pure white (#FFFFFF). Preserve its exact pose, outer contour, proportions, orientation, size, position, and every transparent pixel of the original image.\nStyle/medium: flat, uniform, solid silhouette.\nComposition/framing: pixel-aligned to the input, same full-body crop and margins.\nScene/backdrop: transparent alpha everywhere outside the figure.\nConstraints: change only the figure's fill color; no interior details, no outline, no gradient, no shadow, no halo, no background, no text, no watermark.\nAvoid: altering pose or silhouette in any way.",
+    "referenced_image_paths": [
+      "assets/final/silhouette_a_cheer_black.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-046",
+    "batch": 14,
+    "index_in_batch": 3,
+    "timestamp": "2026-09-27T06:07:56.009Z",
+    "prompt": "Use case: precise-object-edit\nAsset type: exact transparent white silhouette cutout\nInput images: Image 1 is the sole exact silhouette target.\nPrimary request: Recolor only the existing character silhouette from black to pure white (#FFFFFF). Preserve its exact pose, outer contour, proportions, orientation, size, position, and every transparent pixel of the original image.\nStyle/medium: flat, uniform, solid silhouette.\nComposition/framing: pixel-aligned to the input, same full-body crop and margins.\nScene/backdrop: transparent alpha everywhere outside the figure.\nConstraints: change only the figure's fill color; no interior details, no outline, no gradient, no shadow, no halo, no background, no text, no watermark.\nAvoid: altering pose or silhouette in any way.",
+    "referenced_image_paths": [
+      "assets/final/silhouette_b_neutral_black.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-047",
+    "batch": 14,
+    "index_in_batch": 4,
+    "timestamp": "2026-09-27T06:07:56.009Z",
+    "prompt": "Use case: precise-object-edit\nAsset type: exact transparent white silhouette cutout\nInput images: Image 1 is the sole exact silhouette target.\nPrimary request: Recolor only the existing character silhouette from black to pure white (#FFFFFF). Preserve its exact pose, outer contour, proportions, orientation, size, position, and every transparent pixel of the original image.\nStyle/medium: flat, uniform, solid silhouette.\nComposition/framing: pixel-aligned to the input, same full-body crop and margins.\nScene/backdrop: transparent alpha everywhere outside the figure.\nConstraints: change only the figure's fill color; no interior details, no outline, no gradient, no shadow, no halo, no background, no text, no watermark.\nAvoid: altering pose or silhouette in any way.",
+    "referenced_image_paths": [
+      "assets/final/silhouette_b_dance_black.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "id": "IMG-048",
+    "batch": 15,
+    "index_in_batch": 1,
+    "timestamp": "2026-09-27T06:13:12.199Z",
+    "referenced_image_paths": [
+      "assets/final/silhouette_a_neutral_black.png"
+    ],
+    "transparent_background": true,
+    "prompt": "Strictly recreate the exact character silhouette shape from the reference image as a clean compositing asset. Preserve the same pose, proportions, hair outline, accessories silhouette, placement, and canvas framing. Fill every pixel of the character silhouette with uniform pure opaque white (#FFFFFF), alpha 255. Keep everything outside the silhouette fully transparent (alpha 0). No gray, no black, no outlines, no glow, no shadow, no gradients, no extra marks, no checkerboard, no background. The whole visible subject must be a solid white silhouette, easy to see on a dark background. Keep the original portrait canvas and centered full-body figure."
+  },
+  {
+    "id": "IMG-049",
+    "batch": 16,
+    "index_in_batch": 1,
+    "timestamp": "2026-09-27T06:14:32.800Z",
+    "referenced_image_paths": [
+      "assets/final/silhouette_a_neutral_black.png"
+    ],
+    "transparent_background": true,
+    "prompt": "Make a plain flat matte cutout asset, like a binary vector mask, not a poster or illustration. Preserve the exact full-body silhouette outline and pose in the reference. The character shape itself is a single flat solid white fill (#FFFFFF); outside the character is fully transparent. Crisp clean contour with only minimal 1-pixel antialiasing at edges. No lighting, no glow, no halo, no bloom, no rim light, no shadow, no stroke, no gradients, no texture, no background. Do not make the white figure luminous. Transparent alpha must be zero everywhere outside the silhouette and fully opaque inside. Same portrait framing and proportions."
+  },
+  {
+    "id": "IMG-050",
+    "batch": 17,
+    "index_in_batch": 1,
+    "timestamp": "2026-09-27T06:16:53.870Z",
+    "referenced_image_paths": [
+      "assets/final/silhouette_a_cheer_black.png"
+    ],
+    "transparent_background": true,
+    "prompt": "Create a plain matte white cutout asset from the reference. Keep its exact character silhouette outline, pose, body proportions, hair, accessories and framing. Make the full visible silhouette uniformly opaque pure white (#FFFFFF), a flat 2D vector-like shape with only a clean anti-aliased edge. Everything outside the silhouette must be fully transparent. No glow, no halo, no bloom, no rim light, no lighting, no shadow, no stroke, no gradients, no texture, no grey pixels, no black pixels, no background. This must look like a white paper cutout, not a luminous figure. Keep the original portrait canvas."
+  },
+  {
+    "id": "IMG-051",
+    "batch": 17,
+    "index_in_batch": 2,
+    "timestamp": "2026-09-27T06:16:53.870Z",
+    "referenced_image_paths": [
+      "assets/final/silhouette_b_neutral_black.png"
+    ],
+    "transparent_background": true,
+    "prompt": "Create a plain matte white cutout asset from the reference. Keep its exact character silhouette outline, pose, body proportions, hair, accessories and framing. Make the full visible silhouette uniformly opaque pure white (#FFFFFF), a flat 2D vector-like shape with only a clean anti-aliased edge. Everything outside the silhouette must be fully transparent. No glow, no halo, no bloom, no rim light, no lighting, no shadow, no stroke, no gradients, no texture, no grey pixels, no black pixels, no background. This must look like a white paper cutout, not a luminous figure. Keep the original portrait canvas."
+  },
+  {
+    "id": "IMG-052",
+    "batch": 17,
+    "index_in_batch": 3,
+    "timestamp": "2026-09-27T06:16:53.870Z",
+    "referenced_image_paths": [
+      "assets/final/silhouette_b_dance_black.png"
+    ],
+    "transparent_background": true,
+    "prompt": "Create a plain matte white cutout asset from the reference. Keep its exact character silhouette outline, pose, body proportions, hair, accessories and framing. Make the full visible silhouette uniformly opaque pure white (#FFFFFF), a flat 2D vector-like shape with only a clean anti-aliased edge. Everything outside the silhouette must be fully transparent. No glow, no halo, no bloom, no rim light, no lighting, no shadow, no stroke, no gradients, no texture, no grey pixels, no black pixels, no background. This must look like a white paper cutout, not a luminous figure. Keep the original portrait canvas."
+  },
+  {
+    "id": "IMG-053",
+    "batch": 18,
+    "index_in_batch": 1,
+    "timestamp": "2026-09-27T06:18:33.830Z",
+    "referenced_image_paths": [
+      "assets/final/silhouette_a_cheer_black.png",
+      "assets/final/character_a_design.png"
+    ],
+    "transparent_background": true,
+    "prompt": "Create a clean white character silhouette asset for compositing in an anime music video. Use the first reference for the exact pose and framing; use the second reference only for this character's hairstyle and outfit outline. Render the complete character as one solid opaque pure-white (#FFFFFF) shape, without facial features or interior detail. Everything outside the shape is transparent. Full-body portrait, preserve the raised cheer pose. No background, no letters."
+  },
+  {
+    "id": "IMG-054",
+    "batch": 19,
+    "index_in_batch": 1,
+    "timestamp": "2026-09-27T06:19:31.663Z",
+    "referenced_image_paths": [
+      "assets/final/silhouette_a_neutral_black.png",
+      "assets/final/character_a_design.png"
+    ],
+    "transparent_background": false,
+    "prompt": "A production-ready silhouette plate, portrait canvas, exact full-body pose and framing from reference one; same long twin-tail anime woman outline from reference two. Show her as a single matte, perfectly solid pure-white cutout shape against a perfectly uniform pure-black background. No glow, no halo, no rim light, no gradients, no texture, no shadow, no facial features, no interior details, no text. Crisp clean edge. The white figure should be clearly visible, centered, full body."
+  },
+  {
+    "id": "IMG-055",
+    "batch": 20,
+    "index_in_batch": 1,
+    "timestamp": "2026-09-27T06:20:12.277Z",
+    "referenced_image_paths": [
+      "assets/iterations/generation_050.png"
+    ],
+    "transparent_background": true,
+    "prompt": "Keep the exact existing white character silhouette unchanged: same pose, outline, position, scale, and pure-white fill. Remove only the uniform black background so the outside becomes fully transparent. Do not add any glow, halo, shadow, edge light, gray pixels, or new details. Preserve a crisp matte white cutout on a transparent RGBA canvas."
+  },
+  {
+    "id": "IMG-056",
+    "batch": 21,
+    "index_in_batch": 1,
+    "timestamp": "2026-09-27T06:21:00.253Z",
+    "referenced_image_paths": [
+      "assets/final/silhouette_a_cheer_black.png",
+      "assets/final/character_a_design.png"
+    ],
+    "transparent_background": false,
+    "prompt": "A production-ready silhouette plate, portrait canvas, exact full-body pose and framing from the first reference; use the second reference only for hairstyle and outfit outline. Show the character as one matte solid pure-white cutout shape against a perfectly uniform pure-black background. No glow, halo, rim light, gradients, texture, shadow, facial features, interior details, or text. Crisp clean edge, centered, full body."
+  },
+  {
+    "id": "IMG-057",
+    "batch": 21,
+    "index_in_batch": 2,
+    "timestamp": "2026-09-27T06:21:00.253Z",
+    "referenced_image_paths": [
+      "assets/final/silhouette_b_neutral_black.png",
+      "assets/final/character_b_design.png"
+    ],
+    "transparent_background": false,
+    "prompt": "A production-ready silhouette plate, portrait canvas, exact full-body pose and framing from the first reference; use the second reference only for hairstyle and outfit outline. Show the character as one matte solid pure-white cutout shape against a perfectly uniform pure-black background. No glow, halo, rim light, gradients, texture, shadow, facial features, interior details, or text. Crisp clean edge, centered, full body."
+  },
+  {
+    "id": "IMG-058",
+    "batch": 21,
+    "index_in_batch": 3,
+    "timestamp": "2026-09-27T06:21:00.253Z",
+    "referenced_image_paths": [
+      "assets/final/silhouette_b_dance_black.png",
+      "assets/final/character_b_design.png"
+    ],
+    "transparent_background": false,
+    "prompt": "A production-ready silhouette plate, portrait canvas, exact full-body pose and framing from the first reference; use the second reference only for hairstyle and outfit outline. Show the character as one matte solid pure-white cutout shape against a perfectly uniform pure-black background. No glow, halo, rim light, gradients, texture, shadow, facial features, interior details, or text. Crisp clean edge, centered, full body."
+  },
+  {
+    "id": "IMG-059",
+    "batch": 22,
+    "index_in_batch": 1,
+    "timestamp": "2026-09-27T06:23:18.002Z",
+    "referenced_image_paths": [
+      "assets/final/character_a_peace.png",
+      "assets/final/character_a_design.png"
+    ],
+    "transparent_background": false,
+    "prompt": "Create a production-ready full-body white silhouette plate on a perfectly uniform solid black background. The first reference determines the exact pose and gaze; the second determines character identity and outfit outline only. Preserve the pose clearly and do not substitute a different pose. Fill the whole character uniformly pure white with no facial features or internal details. Flat matte shape, crisp edge, no glow, no halo, no rim light, no shadows, no texture, no text. Center the entire character on the portrait canvas."
+  },
+  {
+    "id": "IMG-060",
+    "batch": 22,
+    "index_in_batch": 2,
+    "timestamp": "2026-09-27T06:23:18.002Z",
+    "referenced_image_paths": [
+      "assets/final/character_a_cheer.png",
+      "assets/final/character_a_design.png"
+    ],
+    "transparent_background": false,
+    "prompt": "Create a production-ready full-body white silhouette plate on a perfectly uniform solid black background. The first reference determines the exact pose and gaze; the second determines character identity and outfit outline only. Preserve the pose clearly and do not substitute a different pose. Fill the whole character uniformly pure white with no facial features or internal details. Flat matte shape, crisp edge, no glow, no halo, no rim light, no shadows, no texture, no text. Center the entire character on the portrait canvas."
+  },
+  {
+    "id": "IMG-061",
+    "batch": 22,
+    "index_in_batch": 3,
+    "timestamp": "2026-09-27T06:23:18.002Z",
+    "referenced_image_paths": [
+      "assets/final/character_b_peace.png",
+      "assets/final/character_b_design.png"
+    ],
+    "transparent_background": false,
+    "prompt": "Create a production-ready full-body white silhouette plate on a perfectly uniform solid black background. The first reference determines the exact pose and gaze; the second determines character identity and outfit outline only. Preserve the pose clearly and do not substitute a different pose. Fill the whole character uniformly pure white with no facial features or internal details. Flat matte shape, crisp edge, no glow, no halo, no rim light, no shadows, no texture, no text. Center the entire character on the portrait canvas."
+  },
+  {
+    "id": "IMG-062",
+    "batch": 22,
+    "index_in_batch": 4,
+    "timestamp": "2026-09-27T06:23:18.002Z",
+    "referenced_image_paths": [
+      "assets/final/character_b_dance.png",
+      "assets/final/character_b_design.png"
+    ],
+    "transparent_background": false,
+    "prompt": "Create a production-ready full-body white silhouette plate on a perfectly uniform solid black background. The first reference determines the exact pose and gaze; the second determines character identity and outfit outline only. Preserve the pose clearly and do not substitute a different pose. Fill the whole character uniformly pure white with no facial features or internal details. Flat matte shape, crisp edge, no glow, no halo, no rim light, no shadows, no texture, no text. Center the entire character on the portrait canvas."
+  }
+]

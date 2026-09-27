@@ -1,0 +1,356 @@
+{
+  "items": [
+    {
+      "path": "assets/final/bg_chorus_heartstage.png",
+      "bytes": 2700119,
+      "sha256": "5cd719289cb4a5a2ffd3c5b9003f38caa35fe1b1c2d9fe9e0265ffeeda6a790a"
+    },
+    {
+      "path": "assets/final/bg_prechorus_wait.png",
+      "bytes": 1808149,
+      "sha256": "3b0e9bc08cd1df34a29b7da06d5ffc80234cab4dbac5e9ad02c764e25a0b2b41"
+    },
+    {
+      "path": "assets/final/bg_social_night.png",
+      "bytes": 2108088,
+      "sha256": "0e6a458bc6e5ba49da894a7731076ad52620e32e916a00671d3cc5cadda19150"
+    },
+    {
+      "path": "assets/final/bg_verse_ring_charm.png",
+      "bytes": 2146867,
+      "sha256": "812d3122f145e6a3295f48c600de6116c4fadc15a14e469ba2a48b541c0fc379"
+    },
+    {
+      "path": "assets/final/character_a_apple.png",
+      "bytes": 2010258,
+      "sha256": "6eeb2984403b1c1880826b1bfdb6fa31f410f733e2fd667881ddde78c98c1dfc"
+    },
+    {
+      "path": "assets/final/character_a_charm.png",
+      "bytes": 2306843,
+      "sha256": "046783250ad40e5c5bb2d6c74305d839c869a5cd6836901186a14a6d4537ef53"
+    },
+    {
+      "path": "assets/final/character_a_cheer.png",
+      "bytes": 2158601,
+      "sha256": "4fad6c04cda005b0928af28bd467d25e32e323ec7d549cf934ed4e3a23d26760"
+    },
+    {
+      "path": "assets/final/character_a_design.png",
+      "bytes": 2428752,
+      "sha256": "19c8bf7e909039c4328a1e8b22baccafb688a23e6ba8a7269541ef7a28268d1e"
+    },
+    {
+      "path": "assets/final/character_a_peace.png",
+      "bytes": 2205719,
+      "sha256": "ec92b4715e5d21e5b23b646c4d17768f6bc7555ae407ecc2ebf68bb5665e093a"
+    },
+    {
+      "path": "assets/final/character_a_phone_check.png",
+      "bytes": 2075633,
+      "sha256": "7fcf23ebdbe7e598278f7ec5de509e810643b672c674ea92c0d426ae7681b189"
+    },
+    {
+      "path": "assets/final/character_a_turnaround.png",
+      "bytes": 2274920,
+      "sha256": "749fdcb4ace918f26e3efc4ad91b7dd1bb1c6a1ae5e7dc274b5570320ffd3084"
+    },
+    {
+      "path": "assets/final/character_a_wait.png",
+      "bytes": 2261297,
+      "sha256": "fac6bca36763a46328c2228e54ac3b501cdcea913e9d9f3ee4fcb790ee1e5377"
+    },
+    {
+      "path": "assets/final/character_b_apple.png",
+      "bytes": 1624086,
+      "sha256": "7660c506fdbe36a7b5b2eca3eee59674d71f46e3f506bd35f70e4d472b921930"
+    },
+    {
+      "path": "assets/final/character_b_cheer.png",
+      "bytes": 1660547,
+      "sha256": "a4ae5436fdec5b37ed396fd589167756c03f824bdda7e562392e23f11e0ca4c4"
+    },
+    {
+      "path": "assets/final/character_b_dance.png",
+      "bytes": 1646385,
+      "sha256": "ae6f76fe18ffe693b155b43515f691fd0cd8aaad90a61cc63677d3a55ecb74bf"
+    },
+    {
+      "path": "assets/final/character_b_design.png",
+      "bytes": 2141209,
+      "sha256": "9cc6628e4e9451149824d58705460d4069babe0a98a3fff1a73515497a65c55a"
+    },
+    {
+      "path": "assets/final/character_b_heartthief.png",
+      "bytes": 1651048,
+      "sha256": "6431e90e1a271a78b092d174ec9b45b992505e22b9c580576c4e9e405b7fe248"
+    },
+    {
+      "path": "assets/final/character_b_peace.png",
+      "bytes": 1746273,
+      "sha256": "2a8af904baf0389616f4fe06f656051636545289c88454eccfda28e7b57c60ad"
+    },
+    {
+      "path": "assets/final/character_b_point.png",
+      "bytes": 1668672,
+      "sha256": "a550a2161e93e5403e06dc870a310ffc5519ce184f52cd8ac897f399aa4761a1"
+    },
+    {
+      "path": "assets/final/character_b_turnaround.png",
+      "bytes": 1934543,
+      "sha256": "7babb94db46ee9266bff79bbe4bf527fb316b39a3718572d1886842c1e3ee55e"
+    },
+    {
+      "path": "assets/final/prop_bitten_apple.png",
+      "bytes": 1179730,
+      "sha256": "7afa8527b9361b701fef32a6fce567aaa6887980c1b56c639ca9be26f5369687"
+    },
+    {
+      "path": "assets/final/prop_generic_story_phone.png",
+      "bytes": 1977538,
+      "sha256": "5ce5bc4fb8ef46b8ed3c208c3302c8adbd637b8891e35bc03cbb0cfb94349c39"
+    },
+    {
+      "path": "assets/final/prop_love_charm.png",
+      "bytes": 1205889,
+      "sha256": "cfd41323761132638637f50bca6bf9aba7219ad70cb9a857ce58940d38310a7e"
+    },
+    {
+      "path": "assets/final/prop_pinky_ring.png",
+      "bytes": 743509,
+      "sha256": "909d9d08463fba2bc1e37ddf2c4031593337b8f278479f4d4e729ac628ce482c"
+    },
+    {
+      "path": "assets/final/silhouette_a_cheer_black.png",
+      "bytes": 650020,
+      "sha256": "bbc0276e9c7c453a7fc54fd3fd4a41feb9246d0f7e8dd1545d089aacb1b9eb08"
+    },
+    {
+      "path": "assets/final/silhouette_a_cheer_white_blackbg.png",
+      "bytes": 880896,
+      "sha256": "4e841c12b9c8d2cef4f4f5b2f60384132fbac8cf9fa6e7ed83c6391c46d29425"
+    },
+    {
+      "path": "assets/final/silhouette_a_neutral_black.png",
+      "bytes": 609571,
+      "sha256": "5382f933e531709adbf619fbb17785d56ec6ffb4f16d4b977222ebde5a76d407"
+    },
+    {
+      "path": "assets/final/silhouette_a_peace_white_blackbg.png",
+      "bytes": 932181,
+      "sha256": "a26bfe6673502aaa2a746dde2501f9f4b8859adb4e026c7aecfd253ba66b5f9c"
+    },
+    {
+      "path": "assets/final/silhouette_b_dance_black.png",
+      "bytes": 542242,
+      "sha256": "3cbf92cc42a9d9478edf8759b72a19ef45842f18cecdbbf0408e72f8b4a3c005"
+    },
+    {
+      "path": "assets/final/silhouette_b_dance_white_blackbg.png",
+      "bytes": 658500,
+      "sha256": "6c8ca20e8ef0d315254cfb78efff915a36e9422fe13d97408de4710cb1e55400"
+    },
+    {
+      "path": "assets/final/silhouette_b_neutral_black.png",
+      "bytes": 543053,
+      "sha256": "5dc1f7c2da75bb57f40d7fbbf1607d5e06e84f0dfab359117cf2a4cdceb8b9b0"
+    },
+    {
+      "path": "assets/final/silhouette_b_peace_white_blackbg.png",
+      "bytes": 668933,
+      "sha256": "2788b6a98b7f825f61257899be0320e6003d8a2af19112bdc382d11fcdba1741"
+    },
+    {
+      "path": "assets/iterations/generation_003.png",
+      "bytes": 2300993,
+      "sha256": "2ac5c070a92621ed67b5344292b361b95eae1ed903f3564d82c6abc0ed5b5516"
+    },
+    {
+      "path": "assets/iterations/generation_004.png",
+      "bytes": 2200512,
+      "sha256": "08b5352b74eb3924cd95f62aba8cce327b421a5226f60f3f9e7bc8b3d4fae972"
+    },
+    {
+      "path": "assets/iterations/generation_014.png",
+      "bytes": 1950879,
+      "sha256": "92fbd661415c13cf2e8d9eafcd269850c35c68101c5cb14245584ea89d2b07ac"
+    },
+    {
+      "path": "assets/iterations/generation_015.png",
+      "bytes": 1617724,
+      "sha256": "7f6f37af61d3d68f5148caac1a6c9eb1394e6c94069af16c6ac66b06399af9e4"
+    },
+    {
+      "path": "assets/iterations/generation_018.png",
+      "bytes": 2294513,
+      "sha256": "416a14f9b870f1c64c9845f6876a9f4d1af2d758d964daf42f1b70e0f7db913a"
+    },
+    {
+      "path": "assets/iterations/generation_022.png",
+      "bytes": 1637580,
+      "sha256": "f3d80e51fb61ca73255495385071751e50dbde0ef351412cea45b7ff630fbb17"
+    },
+    {
+      "path": "assets/iterations/generation_023.png",
+      "bytes": 1975150,
+      "sha256": "9e6c55b06179864ddc95af439571a86eb1a4f192e283c182b34931d9f5baefdd"
+    },
+    {
+      "path": "assets/iterations/generation_036.png",
+      "bytes": 1138881,
+      "sha256": "4ae254e6405132a98eac9cf87b74987dab7c0f9b11784b99a5780c8e4c0b294b"
+    },
+    {
+      "path": "assets/iterations/generation_037.png",
+      "bytes": 1157077,
+      "sha256": "43e906ba7e765ab5d775c0660f7f64fd19ebc9afe238776791110cbbea616d52"
+    },
+    {
+      "path": "assets/iterations/generation_038.png",
+      "bytes": 1073826,
+      "sha256": "2bf06ef416c7d42c5a9a340cb1cb8006783da806aa00c02f710a82d104b129a1"
+    },
+    {
+      "path": "assets/iterations/generation_039.png",
+      "bytes": 1111929,
+      "sha256": "cda425b1c83513c044c5876ea92426f13411280d7c3e4b676adbf30de4b258ed"
+    },
+    {
+      "path": "assets/iterations/generation_040.png",
+      "bytes": 380104,
+      "sha256": "f0fda9d37e5151ccb561256dd751e3e8856536fce71a3131be6b9250c7866dc9"
+    },
+    {
+      "path": "assets/iterations/generation_041.png",
+      "bytes": 493507,
+      "sha256": "c6fc3b4e321ceadb83323fd29da5803833a3f6e5d50efdebe3733474f8afff70"
+    },
+    {
+      "path": "assets/iterations/generation_042.png",
+      "bytes": 368689,
+      "sha256": "982d6de1ba1b58ea85262a2523426ee21f8abe2905b30397056cd385a120b7ce"
+    },
+    {
+      "path": "assets/iterations/generation_043.png",
+      "bytes": 360260,
+      "sha256": "b9957e36b161e0f95ada07817b9845fc27fc85d7ffd65ddc323fb77115901e54"
+    },
+    {
+      "path": "assets/iterations/generation_044.png",
+      "bytes": 1098418,
+      "sha256": "dc34e54e6c2f799584ddbd68ffe05f58405dd713ced423a7cc03f9486997583d"
+    },
+    {
+      "path": "assets/iterations/generation_045.png",
+      "bytes": 1089333,
+      "sha256": "64d67db6ee2633be06b0fb31d5646b0d0aa1e331de1ba01964de45573f60a0a9"
+    },
+    {
+      "path": "assets/iterations/generation_046.png",
+      "bytes": 405095,
+      "sha256": "bdcdbdaf23f4d390045714c4d7414062e18b3dcbdd6d998f8ccba7f0614e88d6"
+    },
+    {
+      "path": "assets/iterations/generation_047.png",
+      "bytes": 448257,
+      "sha256": "d19905ada70ede90073a79f96ec4e7877173f786b161e05a0bfc61c02bc891c6"
+    },
+    {
+      "path": "assets/iterations/generation_048.png",
+      "bytes": 370968,
+      "sha256": "d9a941cfeb94c8cf6265ad345220a46d474002e8796830bc224394aba88f93df"
+    },
+    {
+      "path": "assets/iterations/generation_049.png",
+      "bytes": 1196337,
+      "sha256": "465263817e12875de89227035def348550e6bb160f258fda7dba507dfc00ebeb"
+    },
+    {
+      "path": "assets/iterations/generation_050.png",
+      "bytes": 713096,
+      "sha256": "e6087b0d0b10f4082bf72854b8c19e143eb097903fb151b93ab5f8cbb0b56db4"
+    },
+    {
+      "path": "assets/iterations/generation_051.png",
+      "bytes": 1196168,
+      "sha256": "da151187632fd8219f7c04fc24f10b17b6ade5c30ae765982193874974bdcd00"
+    },
+    {
+      "path": "assets/iterations/generation_052.png",
+      "bytes": 711928,
+      "sha256": "d2118ecc3d9c540ccbfed86cf442be72b81a5fc1922f16a14d50c7be70257703"
+    },
+    {
+      "path": "assets/iterations/generation_053.png",
+      "bytes": 601415,
+      "sha256": "369b4536b489ba3dcfc4ba8d5e87821bfe5998941897c5d4c0ae8150bc2c0276"
+    },
+    {
+      "path": "assets/iterations/generation_054.png",
+      "bytes": 605534,
+      "sha256": "a3c8c3c7e94d3db7dfc253c3cc1c4ab6a2fdb36e4a6de554c1466e99147cce8d"
+    },
+    {
+      "path": "assets/references/user_reference_01.png",
+      "bytes": 1803823,
+      "sha256": "537690d974d4a6dd4d1d57676454834ac0a28041473eb2ee19fe0f3974eea6e8"
+    },
+    {
+      "path": "assets/references/user_reference_02.png",
+      "bytes": 1011375,
+      "sha256": "ddf6b371fc24fe5544340fbae81c05a6a9c12c259ed78a7a71785c3f3502e078"
+    },
+    {
+      "path": "assets/references/user_reference_03.png",
+      "bytes": 1746675,
+      "sha256": "7e538a55fdf103e35e7fbbc5a70d9e0a3bb330d06d77e317e277a0b11d67b35f"
+    },
+    {
+      "path": "docs/JIZURA_制作記録.png",
+      "bytes": 112432,
+      "sha256": "3d86f4efcbfb59a724aae7e1187f4178ce235a4a48ae15a32dad3c2e8e10468e"
+    },
+    {
+      "path": "media/audio/ハート泥棒.mp3",
+      "bytes": 2703190,
+      "sha256": "a4928d743399d66ae37c2886180c88b9132d8b105b9852abfd6cd8688128201f"
+    },
+    {
+      "path": "media/video/JIZURA_字幕素材.mp4",
+      "bytes": 28792829,
+      "sha256": "9ec14526bcaa1e6e3043a04d88d1bbd3fe6dedee675abc8c931e477bb156e596"
+    },
+    {
+      "path": "media/video/previews/v1_chorus_motion_preview.mp4",
+      "bytes": 1032656,
+      "sha256": "e8cdf901ef152447d51fea7f89d4c5e4a30e33a7736fda5d3dce62a91a98aaa9"
+    },
+    {
+      "path": "media/video/previews/v1_motion_preview.mp4",
+      "bytes": 8709046,
+      "sha256": "56b4d109c6d3a5c6c8346a7d88e94d275817b2429470af2a51f7a93daee78284"
+    },
+    {
+      "path": "media/video/previews/v2_chorus_preview.mp4",
+      "bytes": 719566,
+      "sha256": "505ff58e30264b75d8f6047e46fef69dd7af563e05596a86bd16635ecdfb4af9"
+    },
+    {
+      "path": "ハート泥棒_MV_演出改訂版.mp4",
+      "bytes": 47037104,
+      "sha256": "e065fb282fc6d39d36efc3c4c8657cf02a7965069300378ef0a6a38e2d15d038"
+    },
+    {
+      "path": "heart-thief-mv-v1-before-lyrics.mp4",
+      "location": "GitHub Release session-archive-v1",
+      "download_url": "https://github.com/moemszo/heart-thief-mv-revised/releases/download/session-archive-v1/heart-thief-mv-v1-before-lyrics.mp4",
+      "bytes": 114271205,
+      "sha256": "11c42f5c3211fef5c583c8b393a3fc0a74347e7cee96df16a4533b017ea4c0e0"
+    }
+  ],
+  "mp3_pcm_identical": true,
+  "mp3_decoded_pcm": {
+    "bytes": 22809600,
+    "sha256": "2090406a9d0d8a9c9a2a0096984a6401c8cfc5105064b8c85ce2fe3038bdc621"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source_samples_12k": 1425600,
+  "render_samples_12k": 1425664,
+  "same_offset_audio_correlation": 0.9998889546756636,
+  "sampled_frames": [
+    0.7,
+    5.9,
+    14.8,
+    28.4,
+    32.9,
+    39.4,
+    58.2,
+    70.8,
+    86.4,
+    93.7,
+    105.2,
+    113.4
+  ]
+}
