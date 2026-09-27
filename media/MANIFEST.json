@@ -346,6 +346,31 @@
       "download_url": "https://github.com/moemszo/heart-thief-mv-revised/releases/download/session-archive-v1/heart-thief-mv-v1-before-lyrics.mp4",
       "bytes": 114271205,
       "sha256": "11c42f5c3211fef5c583c8b393a3fc0a74347e7cee96df16a4533b017ea4c0e0"
+    },
+    {
+      "path": "assets/fonts/NotoSansJP.ttf",
+      "bytes": 9589900,
+      "sha256": "c2f3b4d463500a2ddcd3849cded1fceeb9fd6d1c32e6cbecd568453ba50fc68f"
+    },
+    {
+      "path": "docs/handoff_check/frame_70.700.jpg",
+      "bytes": 85625,
+      "sha256": "fae4f91b78ff75bd9850248ae7fa69b1954dc010a7f07f08257f148061fe46c5"
+    },
+    {
+      "path": "docs/handoff_check/frame_28.800.jpg",
+      "bytes": 37534,
+      "sha256": "28577a91f3ef89796b7284691607350b2ed18160dee141a6275be493dbd82ba5"
+    },
+    {
+      "path": "docs/handoff_check/preview.mp4",
+      "bytes": 719566,
+      "sha256": "505ff58e30264b75d8f6047e46fef69dd7af563e05596a86bd16635ecdfb4af9"
+    },
+    {
+      "path": "docs/handoff_check/frame_1.800.jpg",
+      "bytes": 210713,
+      "sha256": "db0b6a32258d14aac45a6cfa81a2df3429625ee37a78abf6d1c157a3798ef606"
     }
   ],
   "mp3_pcm_identical": true,

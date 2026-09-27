@@ -1,0 +1,15 @@
+{
+  "changed_files_scanned": 28,
+  "secret_findings": [],
+  "production_files_checked": 132,
+  "ignored_production_files": [],
+  "ignored_new_media_examples": [],
+  "ignored_secret_examples": [
+    ".env",
+    "credentials.json",
+    "secret.pem",
+    ".claude/settings.local.json"
+  ],
+  "prompt_bodies_match_original": true,
+  "conversation_items": 62
+}

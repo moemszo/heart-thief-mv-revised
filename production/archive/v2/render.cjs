@@ -5,20 +5,15 @@ const {once} = require('events');
 const {createCanvas, loadImage, GlobalFonts, ImageData} = require('@napi-rs/canvas');
 
 const ROOT = path.resolve(__dirname, '../..');
-const ASSET_DIR = path.join(ROOT, 'assets/final');
+const ASSET_DIR = path.join(ROOT, 'outputs/proseka_mv_assets');
 const opts = Object.fromEntries(process.argv.slice(2).map(s => s.replace(/^--/, '').split('=')));
 const W = Number(opts.width || 1920), H = Math.round(W * 9/16), FPS = Number(opts.fps || 30);
 const START = Number(opts.start || 0), DURATION = Number(opts.duration || 118.8);
-const OUT = path.resolve(ROOT, opts.output || 'renders/heart-thief-mv.mp4');
-const AUDIO = path.resolve(ROOT, opts.audio || 'media/audio/ハート泥棒.mp3');
-const FFMPEG = process.env.FFMPEG_PATH || 'ffmpeg';
-const LYRIC_VIDEO = opts['no-lyrics']==='true' ? null : path.resolve(ROOT, opts.lyricvideo || 'media/video/JIZURA_字幕素材.mp4');
-const bundledFont = path.join(ROOT, 'assets/fonts/NotoSansJP.ttf');
-const jpFont = process.env.JAPANESE_FONT_PATH || bundledFont;
-const latinFont = process.env.LATIN_FONT_PATH || bundledFont;
-if(!fs.existsSync(jpFont) || !fs.existsSync(latinFont)) throw new Error('Font not found. Use the bundled assets/fonts/NotoSansJP.ttf or set JAPANESE_FONT_PATH / LATIN_FONT_PATH.');
-GlobalFonts.registerFromPath(jpFont, 'MV JP');
-GlobalFonts.registerFromPath(latinFont, 'MV Latin');
+const OUT = opts.output || path.join(ROOT, 'outputs/heart_thief_mv/ハート泥棒_MV_clean.mp4');
+const AUDIO = 'media/audio/ハート泥棒.mp3';
+const FONT_DIR = '[SYSTEM_FONTS]';
+GlobalFonts.registerFromPath(path.join(FONT_DIR, 'ヒラギノ角ゴシック W7.ttc'), 'MV JP');
+GlobalFonts.registerFromPath(path.join(FONT_DIR, 'Avenir Next.ttc'), 'MV Latin');
 
 const C = {navy:'#17182E', ink:'#28233F', cream:'#FFF8EA', white:'#FFFFFF', cyan:'#3EE1E8', pink:'#FF739A', coral:'#FF766E', lemon:'#FFE679', purple:'#8165CC'};
 const assets = {};
@@ -30,7 +25,7 @@ const fract = n=>n-Math.floor(n);
 const rand = n=>fract(Math.sin(n*127.1+311.7)*43758.5453123);
 let timeline = JSON.parse(fs.readFileSync(path.join(__dirname,'timeline.json'),'utf8'));
 let analysis = {};
-const ANALYSIS_FILE = path.join(ROOT,'production/audio_analysis/analysis.json');
+const ANALYSIS_FILE = path.join(ROOT,'work/audio_analysis/analysis.json');
 if(fs.existsSync(ANALYSIS_FILE)) analysis=JSON.parse(fs.readFileSync(ANALYSIS_FILE,'utf8'));
 let beats = analysis.beat_times || analysis.beats || [];
 if(!Array.isArray(beats) || typeof beats[0] !== 'number') beats=[];
@@ -458,23 +453,18 @@ function drawFrame(t,lyricsTex=null){
 }
 
 async function main(){
-  const check=spawnSync(FFMPEG,['-version'],{stdio:'ignore'});
-  if(check.error || check.status!==0) throw new Error('FFmpeg is required. Put ffmpeg on PATH or set FFMPEG_PATH.');
-  if(!fs.existsSync(AUDIO)) throw new Error('Audio file missing: '+AUDIO);
-  if(LYRIC_VIDEO && !fs.existsSync(LYRIC_VIDEO)) throw new Error('JIZURA lyric video missing: '+LYRIC_VIDEO);
-  fs.mkdirSync(path.dirname(OUT),{recursive:true});
   await loadAssets();
   if(opts.stills){
-    const dir=path.resolve(ROOT,opts.stilldir || 'renders/stills');fs.mkdirSync(dir,{recursive:true});
+    const dir=path.join(__dirname,'stills');fs.mkdirSync(dir,{recursive:true});
     const times=opts.stills==='all'?timeline.shots.map(s=>s.start+Math.min(.8,(s.end-s.start)/2)):opts.stills.split(',').map(Number);
     for(const t of times){
       let tex=null;
-      if(LYRIC_VIDEO){const r=spawnSync(FFMPEG,['-v','error','-ss',String(t),'-i',LYRIC_VIDEO,'-frames:v','1','-vf','format=rgba,colorkey=0x000000:0.10:0.02','-c:v','png','-f','image2pipe','-'],{maxBuffer:24*1024*1024});if(r.status!==0)throw new Error(r.stderr.toString());tex=await loadImage(r.stdout);}
+      if(opts.lyricvideo){const r=spawnSync('[FFMPEG]',['-v','error','-ss',String(t),'-i',opts.lyricvideo,'-frames:v','1','-vf','format=rgba,colorkey=0x000000:0.10:0.02','-c:v','png','-f','image2pipe','-'],{maxBuffer:24*1024*1024});if(r.status!==0)throw new Error(r.stderr.toString());tex=await loadImage(r.stdout);}
       fs.writeFileSync(path.join(dir,`frame_${t.toFixed(3)}.jpg`),drawFrame(t,tex).toBuffer('image/jpeg',90));
     }
     console.log(JSON.stringify({stills:times.length,dir}));return;
   }
-  const ff=spawn(FFMPEG,[
+  const ff=spawn('[FFMPEG]',[
     '-hide_banner','-loglevel','warning','-y','-f','rawvideo','-pix_fmt','rgba','-s',`${W}x${H}`,'-r',String(FPS),'-i','pipe:0',
     '-ss',String(START),'-i',AUDIO,'-map','0:v:0','-map','1:a:0','-c:v','libx264','-preset','fast','-crf','18','-pix_fmt','yuv420p',
     '-c:a','aac','-b:a','320k','-ar','48000','-t',String(DURATION),'-movflags','+faststart','-metadata','title=ハート泥棒 — Music Video',OUT
@@ -482,8 +472,8 @@ async function main(){
   let stderr='';ff.stderr.on('data',d=>{stderr+=d.toString();});ff.stdin.on('error',e=>console.error('encoder input',e.message));
   const total=Math.round(DURATION*FPS),startClock=Date.now();
   let lyricProc=null,lyricFrames=null,lyricErrors='';
-  if(LYRIC_VIDEO){
-    lyricProc=spawn(FFMPEG,['-v','error','-ss',String(START),'-i',LYRIC_VIDEO,'-an','-vf','scale=1920:1080,format=rgba,colorkey=0x000000:0.10:0.02','-r',String(FPS),'-t',String(DURATION),'-f','rawvideo','-pix_fmt','rgba','-'],{stdio:['ignore','pipe','pipe']});
+  if(opts.lyricvideo){
+    lyricProc=spawn('[FFMPEG]',['-v','error','-ss',String(START),'-i',opts.lyricvideo,'-an','-vf','scale=1920:1080,format=rgba,colorkey=0x000000:0.10:0.02','-r',String(FPS),'-t',String(DURATION),'-f','rawvideo','-pix_fmt','rgba','-'],{stdio:['ignore','pipe','pipe']});
     lyricProc.stderr.on('data',d=>lyricErrors+=d.toString());
     async function* frames(stream){const size=1920*1080*4;let out=Buffer.allocUnsafe(size),n=0;for await(const chunk of stream){let off=0;while(off<chunk.length){const count=Math.min(size-n,chunk.length-off);chunk.copy(out,n,off,off+count);n+=count;off+=count;if(n===size){yield out;out=Buffer.allocUnsafe(size);n=0;}}}}
     lyricFrames=frames(lyricProc.stdout);

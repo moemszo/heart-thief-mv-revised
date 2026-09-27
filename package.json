@@ -1,0 +1,14 @@
+{
+  "name": "heart-thief-mv-revised",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Heart Thief music video assets and local 2D compositor",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "render:mv": "node production/v2/render.cjs",
+    "render:preview": "node production/v2/render.cjs --start=27.82 --duration=4 --width=960 --output=renders/preview.mp4",
+    "render:stills": "node production/v2/render.cjs --stills=1.8,28.8,70.7",
+    "timeline": "python3 production/v2/build_timeline.py"
+  },
+  "dependencies": { "@napi-rs/canvas": "0.1.100" }
+}
