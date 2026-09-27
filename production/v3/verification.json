@@ -1,0 +1,14 @@
+{
+  "file": "ハート泥棒_MV_v3.mp4",
+  "sha256": "30e4ced86eca54f4f4971dec5da1f39e7133ac49367e7a61e6d56bd090c1c498",
+  "bytes": 93294718,
+  "duration_s": 118.8,
+  "video": {"codec": "H.264 High 4.1", "size": "1920x1080", "fps": 30, "frames": 3564, "pix_fmt": "yuv420p", "bitrate_kbps": 6012, "encode": "x264 two-pass, preset slower, tune animation"},
+  "audio": {"codec": "AAC-LC", "sample_rate": 48000, "channels": 2, "bitrate_kbps": 256,
+            "correlation_with_source_mp3_8k_mono": 0.99977, "offset_samples": 0},
+  "full_decode_errors": 0,
+  "quality_vs_mezzanine": {"ssim_y_all": 0.9618, "ssim_y_median": 0.9823,
+    "note": "Frames below 0.8 are white flash / strobe frames, where SSIM is low on near-uniform images; visually checked at 100% crop."},
+  "lyrics": {"source": "JIZURA 0.9.0 (github.com/852wa/JIZURA), transparent PNG render path", "project": "subtitles/ハート泥棒_字幕_v3.jizura.json", "lines": 20, "timing": "provided LRC"},
+  "shots": 65
+}

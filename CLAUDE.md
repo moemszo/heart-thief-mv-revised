@@ -21,6 +21,14 @@
 - 元の曲は118.8秒。全曲版は1920×1080、30fps、音声付き。
 - 白いシルエットの一部は黒背景の素材。現在のレンダラーは明るさから透過を作って合成する。
 
+## v3（最新版）
+
+最新の完成版は `ハート泥棒_MV_v3.mp4` です。制作ソースは `production/v3/` にあり、手順・構成は `production/v3/README.md` にまとめています。
+
+- 字幕：JIZURA本体（`852wa/JIZURA` のクローン）をヘッドレスChromiumで動かし、`subtitles/ハート泥棒_字幕_v3.jizura.json` から透過PNGを書き出す（`jizura_export.cjs`）。
+- 合成：`production/v3/render.cjs`。ショット一覧は `buildEdit()` と `chorus()` にあり、カット点は `beats.json` のキックに吸着する。
+- 書き出し：`production/v3/build.sh`（全工程）/ `encode.sh`（2パス、100MB未満に収める）。
+
 ## 主要ファイル
 
 | 内容 | パス |

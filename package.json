@@ -8,7 +8,11 @@
     "render:mv": "node production/v2/render.cjs",
     "render:preview": "node production/v2/render.cjs --start=27.82 --duration=4 --width=960 --output=renders/preview.mp4",
     "render:stills": "node production/v2/render.cjs --stills=1.8,28.8,70.7",
-    "timeline": "python3 production/v2/build_timeline.py"
+    "timeline": "python3 production/v2/build_timeline.py",
+    "v3:beats": "python3 production/v3/analyze_beats.py",
+    "v3:lyrics": "python3 production/v3/make_jizura_project.py && node production/v3/jizura_export.cjs --out=renders/v3/lyrics && python3 production/v3/measure_lyrics.py renders/v3/lyrics",
+    "v3:stills": "node production/v3/render.cjs --lyrics=renders/v3/lyrics --stills=shots",
+    "v3:build": "production/v3/build.sh"
   },
   "dependencies": { "@napi-rs/canvas": "0.1.100" }
 }

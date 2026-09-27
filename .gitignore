@@ -22,3 +22,6 @@ tokens.json
 
 # Images, audio, video, prompts, conversations, source and render outputs
 # are not ignored. Review staged content for secrets before every push.
+
+# Local dependencies (npm ci)
+node_modules/
